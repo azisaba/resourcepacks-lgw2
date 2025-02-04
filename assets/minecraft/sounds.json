@@ -1,0 +1,74 @@
+{
+  "shot.sound1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/sound1",
+        "volume": 1.0
+      }
+    ]
+  },
+  "shot.sound1kai": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/sound1kai",
+        "volume": 1.0
+      }
+    ]
+  },
+  "shot.fnfal": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/fnfal",
+        "volume": 1.0
+      }
+    ]
+  },
+  "shot.uzi": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/uzi",
+        "volume": 1.0
+      }
+    ]
+  },
+  "shot.stg44": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/stg44",
+        "volume": 4.0
+      }
+    ]
+  },
+  "shot.m4a1_silenced": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/m4a1_silenced",
+        "volume": 4.0
+      }
+    ]
+  },
+  "shot.m4a1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/m4a1",
+        "volume": 1.0
+      }
+    ]
+  },
+  "200kg": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/200kg",
+        "volume": 1.0
+      }
+    ]
+  }
+}

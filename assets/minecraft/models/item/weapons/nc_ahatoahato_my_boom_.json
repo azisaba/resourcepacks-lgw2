@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/nc_ahatoahato_my_boom_"
+    }
+}

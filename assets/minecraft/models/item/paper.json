@@ -1,0 +1,31 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+
+		{"predicate": {"custom_model_data":       0}, "model":"item/paper"},
+		
+		{"predicate": {"custom_model_data":       1}, "model":"item/weapons/2024summerticket"},
+		{"predicate": {"custom_model_data":       2}, "model":"item/weapons/hazureticket1"},
+		{"predicate": {"custom_model_data":       3}, "model":"item/weapons/2024summerhazure"},
+		{"predicate": {"custom_model_data":       4}, "model":"item/weapons/5ksticket1"},
+		{"predicate": {"custom_model_data":       5}, "model":"item/weapons/customt3"},
+		{"predicate": {"custom_model_data":       6}, "model":"item/weapons/ministartsozai"},
+		{"predicate": {"custom_model_data":       7}, "model":"item/weapons/ministartt"},
+		{"predicate": {"custom_model_data":       8}, "model":"item/weapons/firststart5ksticket"},
+		{"predicate": {"custom_model_data":       9}, "model":"item/weapons/firststartkillticket"},
+		{"predicate": {"custom_model_data":       10}, "model":"item/weapons/firststarthazureticket"},
+		{"predicate": {"custom_model_data":       11}, "model":"item/weapons/5ks64"},
+		{"predicate": {"custom_model_data":       12}, "model":"item/weapons/hazure64"},
+		{"predicate": {"custom_model_data":       13}, "model":"item/weapons/custom64"},
+		{"predicate": {"custom_model_data":       14}, "model":"item/weapons/fishtic"},
+		{"predicate": {"custom_model_data":       15}, "model":"item/weapons/fullmoontic"},
+		{"predicate": {"custom_model_data":       16}, "model":"item/weapons/candy"},
+		{"predicate": {"custom_model_data":       17}, "model":"item/weapons/peropero"},
+		{"predicate": {"custom_model_data":       18}, "model":"item/weapons/voteweaponcompress"},
+		{"predicate": {"custom_model_data":       19}, "model":"item/weapons/xmas2024_10ks"},
+		{"predicate": {"custom_model_data":       20}, "model":"item/weapons/xmas2024_15ks"}
+       ]
+}        

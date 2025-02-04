@@ -1,0 +1,6 @@
+{
+	"parent": "item/weapons/hurtlessspine",
+	"textures": {
+		"layer0": "item/hurtlessspine_stage1"
+	}
+}
