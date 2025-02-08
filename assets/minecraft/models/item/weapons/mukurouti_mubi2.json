@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/mukurouti_mubi2"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [130, -90, 0],
+			"translation": [-0.5, -3.75, -0.75],
+			"scale": [1.5, 1.5, 0.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [130, 90, 0],
+			"translation": [-0.5, -3.75, -0.75],
+			"scale": [1.5, 1.5, 0.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [125.15, -76.83, 36.97],
+			"translation": [3, -0.5, 4.5],
+			"scale": [1.2, 1.2, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-60.21, 77.21, 146.14],
+			"translation": [3, -0.5, 4.5],
+			"scale": [1.2, 1.2, 0.75]
+		},
+		"ground": {
+			"rotation": [90, 0, 45],
+			"translation": [0, -3.75, 0],
+			"scale": [2, 2, 1]
+		},
+		"head": {
+			"rotation": [82.75, -90, 0],
+			"translation": [-6.75, -28, -0.5],
+			"scale": [2.2, 2.2, 0.8]
+		},
+		"fixed": {
+			"rotation": [-180, 0, -180],
+			"translation": [0, 0.25, 0.5],
+			"scale": [1.2, 1.2, 1]
+		}
+	}
+}
