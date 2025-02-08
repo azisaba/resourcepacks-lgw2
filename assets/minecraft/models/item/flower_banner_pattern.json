@@ -387,6 +387,10 @@
 		{"predicate": {"custom_model_data":     379}, "model":"item/weapons/svd_epyc"},
 		{"predicate": {"custom_model_data":     380}, "model":"item/weapons/mukurouti_mubi1"},
 		{"predicate": {"custom_model_data":     381}, "model":"item/weapons/mukurouti_mubi2"},
+		{"predicate": {"custom_model_data":     382}, "model":"item/weapons/galil"},
+		{"predicate": {"custom_model_data":     383}, "model":"item/weapons/sigsauerp220"},
+		{"predicate": {"custom_model_data":     384}, "model":"item/weapons/supershorty"},
+		{"predicate": {"custom_model_data":     385}, "model":"item/weapons/ukm2000"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
