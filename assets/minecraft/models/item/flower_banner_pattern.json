@@ -396,6 +396,7 @@
 		{"predicate": {"custom_model_data":     388}, "model":"item/weapons/famas_vt"},
 		{"predicate": {"custom_model_data":     389}, "model":"item/weapons/ump45_vt"},
 		{"predicate": {"custom_model_data":     390}, "model":"item/weapons/glock18_vt"},
+		{"predicate": {"custom_model_data":     391}, "model":"item/weapons/nc_railgunplus4_narrrrrt"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
