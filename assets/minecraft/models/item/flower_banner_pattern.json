@@ -398,6 +398,7 @@
 		{"predicate": {"custom_model_data":     390}, "model":"item/weapons/glock18_vt"},
 		{"predicate": {"custom_model_data":     391}, "model":"item/weapons/nc_railgunplus4_narrrrrt"},
 		{"predicate": {"custom_model_data":     392}, "model":"item/weapons/ksg12_tentacle"},
+		{"predicate": {"custom_model_data":     393}, "model":"item/weapons/blaser"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
