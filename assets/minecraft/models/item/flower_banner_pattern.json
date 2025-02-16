@@ -401,6 +401,7 @@
 		{"predicate": {"custom_model_data":     393}, "model":"item/weapons/blaser"},
 		{"predicate": {"custom_model_data":     394}, "model":"item/weapons/pgm338_snowystorm"},
 		{"predicate": {"custom_model_data":     395}, "model":"item/weapons/2025choco"},
+		{"predicate": {"custom_model_data":     396}, "model":"item/weapons/m4a1_ionbreak"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
