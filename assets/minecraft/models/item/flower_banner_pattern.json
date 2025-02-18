@@ -411,6 +411,8 @@
 		{"predicate": {"custom_model_data":     403}, "model":"item/weapons/lovebowr"},
 		{"predicate": {"custom_model_data":     404}, "model":"item/weapons/combataxe"},
 		{"predicate": {"custom_model_data":     405}, "model":"item/weapons/saltshotgun"},
+		{"predicate": {"custom_model_data":     406}, "model":"item/weapons/famas_nectar"},
+		{"predicate": {"custom_model_data":     407}, "model":"item/weapons/galil_vtskin"},
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
