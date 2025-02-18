@@ -413,6 +413,10 @@
 		{"predicate": {"custom_model_data":     405}, "model":"item/weapons/saltshotgun"},
 		{"predicate": {"custom_model_data":     406}, "model":"item/weapons/famas_nectar"},
 		{"predicate": {"custom_model_data":     407}, "model":"item/weapons/galil_vtskin"},
+		{"predicate": {"custom_model_data":     408}, "model":"item/weapons/l85a1"},
+		{"predicate": {"custom_model_data":     409}, "model":"item/weapons/classic_bp9"},
+		{"predicate": {"custom_model_data":     410}, "model":"item/weapons/ishapore_2a"},
+		{"predicate": {"custom_model_data":     411}, "model":"item/weapons/lp994_gasflow"},
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
