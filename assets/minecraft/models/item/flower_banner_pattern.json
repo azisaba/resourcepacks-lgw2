@@ -418,6 +418,7 @@
 		{"predicate": {"custom_model_data":     410}, "model":"item/weapons/ishapore_2a"},
 		{"predicate": {"custom_model_data":     411}, "model":"item/weapons/lp994_gasflow"},
 		{"predicate": {"custom_model_data":     412}, "model":"item/weapons/nc_marsl_sindoke"},
+		{"predicate": {"custom_model_data":     413}, "model":"item/weapons/nc_ots14-groza_sindoke"},
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
