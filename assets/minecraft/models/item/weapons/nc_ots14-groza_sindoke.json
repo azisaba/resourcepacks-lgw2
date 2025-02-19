@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"0": "nc_ots14-groza_sindoke"
+		"layer0": "nc_ots14-groza_sindoke"
 	},
 	"display": {
 		"thirdperson_righthand": {
