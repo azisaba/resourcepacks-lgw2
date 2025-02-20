@@ -70,5 +70,14 @@
         "volume": 1.0
       }
     ]
+  },
+  "fallingbomb": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/fallingbomb",
+        "volume": 1.0
+      }
+    ]
   }
 }
