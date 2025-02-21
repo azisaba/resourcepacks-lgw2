@@ -421,6 +421,7 @@
 		{"predicate": {"custom_model_data":     413}, "model":"item/weapons/nc_ots14-groza_sindoke"},
 		{"predicate": {"custom_model_data":     414}, "model":"item/weapons/lightningstrike"},
 		{"predicate": {"custom_model_data":     415}, "model":"item/weapons/kamino"},
+		{"predicate": {"custom_model_data":     416}, "model":"item/weapons/m92immortal"},
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
