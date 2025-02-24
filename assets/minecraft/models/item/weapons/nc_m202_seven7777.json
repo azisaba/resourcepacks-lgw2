@@ -1,0 +1,41 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/nc_m202_seven7777"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-45, -90, 0],
+      "translation": [0.25, -2, -6.25],
+      "scale": [0.7, 0.7, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-45, 90, 0],
+      "translation": [0.25, -2, -6.25],
+      "scale": [0.7, 0.7, 1]
+    },
+    "firstperson_righthand": {
+      "rotation": [-45, -90, 0],
+      "translation": [7, -2, -6.25],
+      "scale": [0.7, 0.7, 1]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-45, 90, 0],
+      "translation": [8.75, -2, -6.25],
+      "scale": [0.7, 0.7, 1]
+    },
+    "ground": {
+      "rotation": [-90, 0, 0],
+      "scale": [0.7, 0.7, 1]
+    },
+    "head": {
+      "rotation": [0, 0, -45],
+      "translation": [0, 8.5, -4.75],
+      "scale": [2, 2, 4]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0]
+    }
+  }
+}
