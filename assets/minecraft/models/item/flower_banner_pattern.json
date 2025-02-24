@@ -424,6 +424,7 @@
 		{"predicate": {"custom_model_data":     416}, "model":"item/weapons/m92immortal"},
 		{"predicate": {"custom_model_data":     417}, "model":"item/weapons/nc_school_days_hkmp7"},
 		{"predicate": {"custom_model_data":     418}, "model":"item/weapons/nc_vorpalbunny_school_days"},
+		{"predicate": {"custom_model_data":     419}, "model":"item/weapons/nc_karambitknifevolcano_narrrrrt"},
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
