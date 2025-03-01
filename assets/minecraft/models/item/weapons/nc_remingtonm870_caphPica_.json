@@ -1,0 +1,44 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/nc_remingtonm870_caphPica_",
+    "particle": "item/nc_remingtonm870_caphPica_"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 45],
+      "translation": [0, 1, -2],
+      "scale": [0.9, 0.9, 1.1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, -45],
+      "translation": [0, 1, -2],
+      "scale": [0.9, 0.9, 1.1]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -100, 45],
+      "translation": [4.5, 2.5, -1.5],
+      "scale": [0.9, 0.9, 1.1]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 80, -45],
+      "translation": [4.5, 2.5, -1.5],
+      "scale": [0.9, 0.9, 1.1]
+    },
+    "ground": {
+      "rotation": [90, 0, 0],
+      "scale": [0.9, 0.9, 1.1]
+    },
+    "head": {
+      "rotation": [0, 0, 95],
+      "translation": [0, -18.25, 7],
+      "scale": [1.4, 1.4, 1.6]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0],
+      "translation": [-0.75, -1, -1.5],
+      "scale": [1.8, 1.8, 2.2]
+    }
+  }
+}
