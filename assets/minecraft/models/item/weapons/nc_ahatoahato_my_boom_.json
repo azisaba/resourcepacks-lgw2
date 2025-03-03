@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/nc_ahatoahato_my_boom_"
+		"layer0": "item/m4a1"
 	},
 	"display": {
 		"thirdperson_righthand": {
