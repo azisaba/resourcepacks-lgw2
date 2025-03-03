@@ -429,6 +429,7 @@
 		{"predicate": {"custom_model_data":     421}, "model":"item/weapons/nc_kunai_school_days"},
 		{"predicate": {"custom_model_data":     422}, "model":"item/weapons/nc_remingtonm870_caphpica_"},
 		{"predicate": {"custom_model_data":     423}, "model":"item/weapons/sixbullets"},
+		{"predicate": {"custom_model_data":     424}, "model":"item/weapons/nc_swordcutlass_school_days"},
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
