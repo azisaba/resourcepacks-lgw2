@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"particle": "item/datenshinohitugi",
+		"layer0": "item/datenshinohitugi"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [65, -75, 60],
+			"translation": [1.25, -2.25, 0],
+			"scale": [1.75, 1.75, 2.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [65, -75, -30],
+			"translation": [1.25, -2.25, 0],
+			"scale": [1.75, 1.75, 2.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-5, -80, 45],
+			"translation": [3.75, -0.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 81.75, 135],
+			"translation": [3.75, -0.5, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0.46, -0.46, 0],
+			"scale": [1.21, 1.21, 1]
+		},
+		"head": {
+			"rotation": [0, 0, 76.75],
+			"translation": [0.5, -26, 4.75],
+			"scale": [3, 3, 4]
+		},
+		"fixed": {
+			"translation": [-0.5, -0.5, 0.75],
+			"scale": [1.5, 1.5, 1.3]
+		}
+	}
+}
