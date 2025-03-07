@@ -435,6 +435,7 @@
 		{"predicate": {"custom_model_data":     427}, "model":"item/weapons/sigarmsgsr_knife"},
 		{"predicate": {"custom_model_data":     428}, "model":"item/weapons/datenshinohitugi"},
 		{"predicate": {"custom_model_data":     429}, "model":"item/weapons/negi"},
+		{"predicate": {"custom_model_data":     430}, "model":"item/weapons/nc_m1873_c_koru_1004"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
