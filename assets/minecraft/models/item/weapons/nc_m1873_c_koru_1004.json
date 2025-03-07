@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "item/handheld",
   "textures": {
-    "layer3": "item/nc_m1873_c_koru_1004",
+    "layer0": "item/nc_m1873_c_koru_1004",
     "particle": "item/nc_m1873_c_koru_1004"
   },
   "display": {
