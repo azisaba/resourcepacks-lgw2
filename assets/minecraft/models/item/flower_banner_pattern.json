@@ -436,6 +436,12 @@
 		{"predicate": {"custom_model_data":     428}, "model":"item/weapons/datenshinohitugi"},
 		{"predicate": {"custom_model_data":     429}, "model":"item/weapons/negi"},
 		{"predicate": {"custom_model_data":     430}, "model":"item/weapons/nc_m1873_c_koru_1004"},
+		{"predicate": {"custom_model_data":     431}, "model":"item/weapons/m4a1sopmod"},
+		{"predicate": {"custom_model_data":     432}, "model":"item/weapons/qbb95"},
+		{"predicate": {"custom_model_data":     433}, "model":"item/weapons/pp19bizon"},
+		{"predicate": {"custom_model_data":     434}, "model":"item/weapons/type97hawk"},
+		{"predicate": {"custom_model_data":     435}, "model":"item/weapons/hkvp9sk"},
+		{"predicate": {"custom_model_data":     436}, "model":"item/weapons/zastavam76"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
