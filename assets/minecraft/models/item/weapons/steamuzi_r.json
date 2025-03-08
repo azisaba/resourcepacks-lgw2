@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "items/steamuzi_r"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 1, 1.25],
+			"scale": [0.6, 0.6, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 1, 1.25],
+			"scale": [0.6, 0.6, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -96, -4],
+			"translation": [1.75, 2.5, 0.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 84, 4],
+			"translation": [1.75, 2.5, 0.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.6, 0.6, 1]
+		},
+		"head": {
+			"rotation": [0, 0, 104],
+			"translation": [-2.5, -23.5, 4.5],
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0.25, 0.25],
+			"scale": [1.2, 1.2, 1.8]
+		}
+	}
+}
