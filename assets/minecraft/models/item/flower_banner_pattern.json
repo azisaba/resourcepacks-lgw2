@@ -442,6 +442,10 @@
 		{"predicate": {"custom_model_data":     434}, "model":"item/weapons/type97hawk"},
 		{"predicate": {"custom_model_data":     435}, "model":"item/weapons/hkvp9sk"},
 		{"predicate": {"custom_model_data":     436}, "model":"item/weapons/zastavam76"},
+		{"predicate": {"custom_model_data":     437}, "model":"item/weapons/steamuzi"},
+		{"predicate": {"custom_model_data":     438}, "model":"item/weapons/steamuzi_r"},
+		{"predicate": {"custom_model_data":     439}, "model":"item/weapons/m4sopmod2"},
+		{"predicate": {"custom_model_data":     440}, "model":"item/weapons/coltofficialpolice"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
