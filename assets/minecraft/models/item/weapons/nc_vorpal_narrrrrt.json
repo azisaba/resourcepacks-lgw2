@@ -2,8 +2,8 @@
   "credit": "Made with Blockbench",
   "parent": "item/handheld",
   "textures": {
-    "0": "nc_vorpal_narrrrrt",
-    "particle": "nc_vorpal_narrrrrt"
+    "0": "item/nc_vorpal_narrrrrt",
+    "particle": "item/nc_vorpal_narrrrrt"
   },
   "display": {
     "thirdperson_righthand": {
