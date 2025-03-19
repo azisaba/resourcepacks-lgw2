@@ -455,9 +455,9 @@
 		{"predicate": {"custom_model_data":     447}, "model":"item/weapons/m82a3_ionbreak"},
 		{"predicate": {"custom_model_data":     448}, "model":"item/weapons/nagantm1895_ionbreak"},
 		{"predicate": {"custom_model_data":     449}, "model":"item/weapons/rpg_ionbreak"},
-		{"predicate": {"custom_model_data":     450}, "model":"item/weapons/AA12_URBONCOYOTE"},
-		{"predicate": {"custom_model_data":     451}, "model":"item/weapons/HKMP5_ZULTANITECREST"},
-		{"predicate": {"custom_model_data":     452}, "model":"item/weapons/M1911_CHERRYBLOSSOM"},		
+		{"predicate": {"custom_model_data":     450}, "model":"item/weapons/aa12_urboncoyote"},
+		{"predicate": {"custom_model_data":     451}, "model":"item/weapons/hkmp5_zultanitecrest"},
+		{"predicate": {"custom_model_data":     452}, "model":"item/weapons/m1911_cherryblossom"},		
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
