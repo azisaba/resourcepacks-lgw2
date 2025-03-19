@@ -1,0 +1,28 @@
+{
+  "credit": "Made by ",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/aa12_urboncoyote"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-45, -90, 0],
+      "translation": [0, 1.5, -0.75],
+      "scale": [0.8, 0.8, 0.8]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-45, 90, 0],
+      "translation": [0, 1.25, -0.25],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "firstperson_righthand": {
+      "rotation": [134.59, -84, 164.17],
+      "translation": [0.25, 4.75, 1.25],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-41.12, 83.76, 14.11],
+      "translation": [1.25, 4.25, 1.25]
+    }
+  }
+}
