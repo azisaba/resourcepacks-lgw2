@@ -1,0 +1,44 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/nc_sixbullets_seven7777"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [39, -90, 0],
+      "translation": [0, 0, -0.75],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [39, 90, 0],
+      "translation": [0, 0, -0.75],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 0],
+      "translation": [0.25, 1.5, 1.5],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, 0],
+      "translation": [0.25, 1.5, 1.5],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "ground": {
+      "translation": [0, 0, -0.75],
+      "scale": [0.3, 0.3, 0.3]
+    },
+    "gui": {
+      "translation": [0, 0.25, 0]
+    },
+    "head": {
+      "rotation": [15, -90, 0],
+      "translation": [0, -6.25, -9.5],
+      "scale": [0.4, 0.4, 0.5]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0]
+    }
+  }
+}
