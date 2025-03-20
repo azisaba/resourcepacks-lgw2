@@ -458,7 +458,7 @@
 		{"predicate": {"custom_model_data":     450}, "model":"item/weapons/aa12_urboncoyote"},
 		{"predicate": {"custom_model_data":     451}, "model":"item/weapons/hkmp5_zultanitecrest"},
 		{"predicate": {"custom_model_data":     452}, "model":"item/weapons/m1911_cherryblossom"},		
-		
+		{"predicate": {"custom_model_data":     453}, "model":"item/weapons/nc_sixbullets_seven7777"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
