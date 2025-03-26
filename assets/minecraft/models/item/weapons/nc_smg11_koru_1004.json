@@ -2,8 +2,8 @@
   "credit": "Made with Blockbench",
   "parent": "item/handheld",
   "textures": {
-    "0": "nc_smg11_koru_1004",
-    "particle": "nc_smg11_koru_1004"
+    "0": "item/nc_smg11_koru_1004",
+    "particle": "item/nc_smg11_koru_1004"
   },
   "display": {
     "thirdperson_righthand": {
