@@ -461,6 +461,8 @@
 		{"predicate": {"custom_model_data":     453}, "model":"item/weapons/nc_sixbullets_seven7777"},
 		{"predicate": {"custom_model_data":     454}, "model":"item/weapons/nc_smg11_koru_1004"},
 		{"predicate": {"custom_model_data":     455}, "model":"item/weapons/af_zantetu"},
+		{"predicate": {"custom_model_data":     456}, "model":"item/weapons/m134_4"},
+		{"predicate": {"custom_model_data":     457}, "model":"item/weapons/ramen"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
