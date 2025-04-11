@@ -463,6 +463,23 @@
 		{"predicate": {"custom_model_data":     455}, "model":"item/weapons/af_zantetu"},
 		{"predicate": {"custom_model_data":     456}, "model":"item/weapons/m134_4"},
 		{"predicate": {"custom_model_data":     457}, "model":"item/weapons/ramen"},
+		{"predicate": {"custom_model_data":     458}, "model":"item/weapons/cz700"},
+		{"predicate": {"custom_model_data":     459}, "model":"item/weapons/cz700_haru"},
+		{"predicate": {"custom_model_data":     460}, "model":"item/weapons/famas_haru"},
+		{"predicate": {"custom_model_data":     461}, "model":"item/weapons/iminegev"},
+		{"predicate": {"custom_model_data":     462}, "model":"item/weapons/ksg_sf"},
+		{"predicate": {"custom_model_data":     463}, "model":"item/weapons/m4a1_dvz"},
+		{"predicate": {"custom_model_data":     464}, "model":"item/weapons/m4a1_haru"},
+		{"predicate": {"custom_model_data":     465}, "model":"item/weapons/m1903"},
+		{"predicate": {"custom_model_data":     466}, "model":"item/weapons/mikan_cat1"},
+		{"predicate": {"custom_model_data":     467}, "model":"item/weapons/mikan_cat2"},
+		{"predicate": {"custom_model_data":     468}, "model":"item/weapons/remingtonm870_eh"},
+		{"predicate": {"custom_model_data":     469}, "model":"item/weapons/s21_spring"},
+		{"predicate": {"custom_model_data":     470}, "model":"item/weapons/spring_field_blossom"},
+		{"predicate": {"custom_model_data":     471}, "model":"item/weapons/spring_field_blossom_reload"},
+		{"predicate": {"custom_model_data":     472}, "model":"item/weapons/sr1"},
+		
+		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
