@@ -478,6 +478,7 @@
 		{"predicate": {"custom_model_data":     470}, "model":"item/weapons/spring_field_blossom"},
 		{"predicate": {"custom_model_data":     471}, "model":"item/weapons/spring_field_blossom_reload"},
 		{"predicate": {"custom_model_data":     472}, "model":"item/weapons/sr1"},
+		{"predicate": {"custom_model_data":     473}, "model":"item/weapons/eda"},
 		
 		
 		
