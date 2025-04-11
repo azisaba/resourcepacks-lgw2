@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/spring_field_blossom"
+		"layer0": "item/spring_field_blossom_reload"
 	},
 	"display": {
 		"thirdperson_righthand": {
