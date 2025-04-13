@@ -479,6 +479,11 @@
 		{"predicate": {"custom_model_data":     471}, "model":"item/weapons/spring_field_blossom_reload"},
 		{"predicate": {"custom_model_data":     472}, "model":"item/weapons/sr1"},
 		{"predicate": {"custom_model_data":     473}, "model":"item/weapons/eda"},
+		{"predicate": {"custom_model_data":     474}, "model":"item/weapons/honeybadger_st"},
+		{"predicate": {"custom_model_data":     475}, "model":"item/weapons/mp5ras"},
+		{"predicate": {"custom_model_data":     476}, "model":"item/weapons/fn_evolys"},
+		{"predicate": {"custom_model_data":     477}, "model":"item/weapons/fn_evolys_r"},
+		{"predicate": {"custom_model_data":     478}, "model":"item/weapons/sakuraougi"},
 		
 		
 		
