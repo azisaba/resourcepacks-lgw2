@@ -484,6 +484,7 @@
 		{"predicate": {"custom_model_data":     476}, "model":"item/weapons/fn_evolys"},
 		{"predicate": {"custom_model_data":     477}, "model":"item/weapons/fn_evolys_r"},
 		{"predicate": {"custom_model_data":     478}, "model":"item/weapons/sakuraougi"},
+		{"predicate": {"custom_model_data":     479}, "model":"item/weapons/pythonos"},
 		
 		
 		
