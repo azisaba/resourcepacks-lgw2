@@ -485,6 +485,9 @@
 		{"predicate": {"custom_model_data":     477}, "model":"item/weapons/fn_evolys_r"},
 		{"predicate": {"custom_model_data":     478}, "model":"item/weapons/sakuraougi"},
 		{"predicate": {"custom_model_data":     479}, "model":"item/weapons/pythonos"},
+		{"predicate": {"custom_model_data":     480}, "model":"item/weapons/cz700_dvz"},
+		{"predicate": {"custom_model_data":     481}, "model":"item/weapons/famas_dvz"},
+		{"predicate": {"custom_model_data":     482}, "model":"item/weapons/sakurahanabira"},
 		
 		
 		
