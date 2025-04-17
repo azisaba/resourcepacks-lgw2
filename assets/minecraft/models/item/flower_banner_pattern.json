@@ -488,6 +488,9 @@
 		{"predicate": {"custom_model_data":     480}, "model":"item/weapons/cz700_dvz"},
 		{"predicate": {"custom_model_data":     481}, "model":"item/weapons/famas_dvz"},
 		{"predicate": {"custom_model_data":     482}, "model":"item/weapons/sakurahanabira"},
+		{"predicate": {"custom_model_data":     483}, "model":"item/weapons/2025springeventtic"},
+		{"predicate": {"custom_model_data":     484}, "model":"item/weapons/uzi_e"},
+
 		
 		
 		
