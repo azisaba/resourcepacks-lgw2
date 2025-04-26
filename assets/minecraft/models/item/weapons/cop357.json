@@ -1,0 +1,32 @@
+{
+  "credit": "Made by ",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/cop357"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-45, -90, 0],
+      "translation": [0, 1, -1.25],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-45, 90, 0],
+      "translation": [0, 1, -1],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "firstperson_righthand": {
+      "rotation": [113.68, -85.74, 142.96],
+      "translation": [0.75, 4.5, 0],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-34.1, 82.12, 4.77],
+      "translation": [0, 4.5, 0.5],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "gui": {
+      "translation": [-0.5, -0.25, 0]
+    }
+  }
+}
