@@ -493,6 +493,8 @@
 		{"predicate": {"custom_model_data":     485}, "model":"item/weapons/acwr"},
 		{"predicate": {"custom_model_data":     486}, "model":"item/weapons/cop357"},
 		{"predicate": {"custom_model_data":     487}, "model":"item/weapons/pp700"},
+		{"predicate": {"custom_model_data":     488}, "model":"item/weapons/nc_vorpalbunny_caphpica_"},
+		{"predicate": {"custom_model_data":     489}, "model":"item/weapons/nc_ousenn_koucyacya"},
 
 		
 		
