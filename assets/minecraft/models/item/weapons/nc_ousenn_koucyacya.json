@@ -1,0 +1,26 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/nc_ousenn_koucyacya"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-32, -81, 1],
+      "translation": [1, 11, 3.25],
+      "scale": [1.5, 1.5, 1.5]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [75, -4, -174],
+      "translation": [-5.25, -8, 6.25],
+      "scale": [1.5, 1.5, 1.53125]
+    },
+    "firstperson_righthand": {
+      "rotation": [4, 86, 59],
+      "translation": [-0.75, 6.5, 1.75]
+    },
+    "gui": {
+      "scale": [1.5, 1.5, 1.5]
+    }
+  }
+}
