@@ -499,6 +499,8 @@
 		{"predicate": {"custom_model_data":     491}, "model":"item/weapons/cop357_gr"},
 		{"predicate": {"custom_model_data":     492}, "model":"item/weapons/acwr_rc"},
 		{"predicate": {"custom_model_data":     493}, "model":"item/weapons/blackcat"},
+		{"predicate": {"custom_model_data":     494}, "model":"item/weapons/honeybadger_st_sticker"},
+		{"predicate": {"custom_model_data":     495}, "model":"item/weapons/theeaster"},
 
 		
 		
