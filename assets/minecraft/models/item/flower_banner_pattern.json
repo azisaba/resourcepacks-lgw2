@@ -498,6 +498,7 @@
 		{"predicate": {"custom_model_data":     490}, "model":"item/weapons/pp700_fb"},
 		{"predicate": {"custom_model_data":     491}, "model":"item/weapons/cop357_gr"},
 		{"predicate": {"custom_model_data":     492}, "model":"item/weapons/acwr_rc"},
+		{"predicate": {"custom_model_data":     493}, "model":"item/weapons/blackcat"},
 
 		
 		
