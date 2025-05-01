@@ -495,6 +495,9 @@
 		{"predicate": {"custom_model_data":     487}, "model":"item/weapons/pp700"},
 		{"predicate": {"custom_model_data":     488}, "model":"item/weapons/nc_vorpalbunny_caphpica_"},
 		{"predicate": {"custom_model_data":     489}, "model":"item/weapons/nc_ousenn_koucyacya"},
+		{"predicate": {"custom_model_data":     490}, "model":"item/weapons/pp700_fb"},
+		{"predicate": {"custom_model_data":     491}, "model":"item/weapons/cop357_gr"},
+		{"predicate": {"custom_model_data":     492}, "model":"item/weapons/acwr_rc"},
 
 		
 		
