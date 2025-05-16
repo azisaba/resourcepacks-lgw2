@@ -1,0 +1,41 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/nc_01atm5_seven7777"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [17, 90, 0],
+      "translation": [0, 4.25, 1],
+      "scale": [0.4, 0.4, 0.6]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [17, 90, 0],
+      "translation": [0, 4.25, 1],
+      "scale": [0.4, 0.4, 0.6]
+    },
+    "firstperson_righthand": {
+      "rotation": [17, 90, 0],
+      "translation": [0, 4.25, 1],
+      "scale": [0.4, 0.4, 0.6]
+    },
+    "firstperson_lefthand": {
+      "rotation": [17, 90, 0],
+      "translation": [0, 4.25, 1],
+      "scale": [0.4, 0.4, 0.6]
+    },
+    "ground": {
+      "rotation": [90, 0, 0],
+      "scale": [4, 4, 4]
+    },
+    "head": {
+      "rotation": [0, 180, 0],
+      "translation": [0, 4, -7],
+      "scale": [0.3, 0.3, 3.01]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0]
+    }
+  }
+}
