@@ -501,6 +501,8 @@
 		{"predicate": {"custom_model_data":     493}, "model":"item/weapons/blackcat"},
 		{"predicate": {"custom_model_data":     494}, "model":"item/weapons/honeybadger_st_sticker"},
 		{"predicate": {"custom_model_data":     495}, "model":"item/weapons/theeaster"},
+		{"predicate": {"custom_model_data":     496}, "model":"item/weapons/nc_01atm5_seven7777"},
+		{"predicate": {"custom_model_data":     497}, "model":"item/weapons/nc_negev_mottyi"},
 
 		
 		
