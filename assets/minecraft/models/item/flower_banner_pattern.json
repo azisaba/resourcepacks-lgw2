@@ -505,6 +505,7 @@
 		{"predicate": {"custom_model_data":     497}, "model":"item/weapons/nc_negev_mottyi"},
 		{"predicate": {"custom_model_data":     498}, "model":"item/weapons/nc_railgun_my_boom_"},
 		{"predicate": {"custom_model_data":     499}, "model":"item/weapons/mac_bt"},
+		{"predicate": {"custom_model_data":     500}, "model":"item/weapons/nc_caramel_chan_hkg36"},
 
 		
 		
