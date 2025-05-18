@@ -1,0 +1,44 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/nc_railgun_my_boom_"
+  },
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-45, -90, 0],
+      "translation": [-1.25, -1.25, -0.25],
+      "scale": [2, 2, 3]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-45, 90, 0],
+      "translation": [-1.25, -1.25, 0.25],
+      "scale": [2, 2, 3]
+    },
+    "firstperson_righthand": {
+      "rotation": [-172.5, -75, -130],
+      "translation": [3.5, 2, -2],
+      "scale": [1.5, 1.5, 2]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-11.01, 79.05, -27.9],
+      "translation": [3.5, 2, -2.5],
+      "scale": [1.5, 1.5, 2]
+    },
+    "ground": {
+      "rotation": [-90, 0, 45],
+      "translation": [0, -4, 0],
+      "scale": [2, 2, 3]
+    },
+    "head": {
+      "rotation": [-180, 0, -101.5],
+      "translation": [1, -18.5, 4.75],
+      "scale": [3, 3, 3.5]
+    },
+    "fixed": {
+      "rotation": [-180, 0, -180],
+      "scale": [1.2, 1.2, 1.1]
+    }
+  }
+}
