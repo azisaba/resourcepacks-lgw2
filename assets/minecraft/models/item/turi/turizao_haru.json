@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"particle": "items/turizao_haru",
-		"layer0": "items/turizao_haru"
+		"particle": "item/turi/turizao_haru",
+		"layer0": "item/turi/turizao_haru"
 	},
 	"display": {
 		"thirdperson_righthand": {
