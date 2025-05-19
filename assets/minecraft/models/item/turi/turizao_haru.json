@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"particle": "items/turizao_haru",
+		"layer0": "items/turizao_haru"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [45, 90, 0],
+			"translation": [0, 8, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, -90, 0],
+			"translation": [0, 8, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [168.94, 71.15, -176.68],
+			"translation": [8.75, 2, -9.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [140.67, -84.31, 160.64],
+			"translation": [4, 4, -5.25]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"head": {
+			"translation": [0, -13.75, 7.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}
