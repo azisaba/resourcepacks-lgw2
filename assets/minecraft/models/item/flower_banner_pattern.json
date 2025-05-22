@@ -513,6 +513,7 @@
 		{"predicate": {"custom_model_data":     505}, "model":"item/weapons/reaperrainy"},
 		{"predicate": {"custom_model_data":     506}, "model":"item/weapons/l96a1rainy"},
 		{"predicate": {"custom_model_data":     507}, "model":"item/weapons/nc_hurtfulspine_2don_"},
+		{"predicate": {"custom_model_data":     508}, "model":"item/weapons/nc_fiveseven_caramel_chan"},
 
 		
 		
