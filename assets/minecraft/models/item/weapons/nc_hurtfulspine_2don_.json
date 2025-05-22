@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"particle": "item/nc_hurtfulspine_2don_",
+		"layer0": "item/nc_hurtfulspine_2don_"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 1.25, -3.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [0, 1.25, -3.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [45.94, -86.82, 83.9],
+			"translation": [3, 3.75, -3.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [72.1, 84.75, -115.9],
+			"translation": [3, 3.75, -3.75]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"head": {
+			"translation": [0, -11, 7],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"translation": [0.75, 0, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}
