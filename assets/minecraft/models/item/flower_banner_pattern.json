@@ -517,7 +517,7 @@
 		{"predicate": {"custom_model_data":     509}, "model":"item/weapons/dustdevildancer"},
 		{"predicate": {"custom_model_data":     510}, "model":"item/weapons/omm"},
 		{"predicate": {"custom_model_data":     511}, "model":"item/weapons/omn"},
-		
+		{"predicate": {"custom_model_data":     512}, "model":"item/weapons/nc_cbjms_irry_llc"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
