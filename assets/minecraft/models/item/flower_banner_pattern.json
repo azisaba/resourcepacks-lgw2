@@ -518,6 +518,9 @@
 		{"predicate": {"custom_model_data":     510}, "model":"item/weapons/omm"},
 		{"predicate": {"custom_model_data":     511}, "model":"item/weapons/omn"},
 		{"predicate": {"custom_model_data":     512}, "model":"item/weapons/nc_cbjms_irry_llc"},
+		{"predicate": {"custom_model_data":     513}, "model":"item/weapons/killerbunnysun"},
+		{"predicate": {"custom_model_data":     514}, "model":"item/weapons/killerbunnyblackmoon"},
+		{"predicate": {"custom_model_data":     515}, "model":"item/weapons/risingsunreaper"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
