@@ -522,6 +522,7 @@
 		{"predicate": {"custom_model_data":     514}, "model":"item/weapons/killerbunnyblackmoon"},
 		{"predicate": {"custom_model_data":     515}, "model":"item/weapons/risingsunreaper"},
 		{"predicate": {"custom_model_data":     516}, "model":"item/weapons/scarl_sw"},
+		{"predicate": {"custom_model_data":     517}, "model":"item/weapons/aek"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
