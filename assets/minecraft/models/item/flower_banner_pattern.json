@@ -523,13 +523,10 @@
 		{"predicate": {"custom_model_data":     515}, "model":"item/weapons/risingsunreaper"},
 		{"predicate": {"custom_model_data":     516}, "model":"item/weapons/scarl_sw"},
 		{"predicate": {"custom_model_data":     517}, "model":"item/weapons/aek"},
-<<<<<<< HEAD
+		{"predicate": {"custom_model_data":     518}, "model":"item/weapons/nc_winchesterm1873_irry_llc"},
 		{"predicate": {"custom_model_data":     519}, "model":"item/weapons/butcherknife"},
 		{"predicate": {"custom_model_data":     520}, "model":"item/weapons/butcherknife_b"},
 		{"predicate": {"custom_model_data":     521}, "model":"item/weapons/butcherknife_b2"},
-=======
-		{"predicate": {"custom_model_data":     518}, "model":"item/weapons/nc_winchesterm1873_irry_llc"},
->>>>>>> ea1a645bc97c00ca8d61ab4b792fc654ecc86ed8
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
