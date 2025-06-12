@@ -531,6 +531,7 @@
 		{"predicate": {"custom_model_data":     523}, "model":"item/weapons/goldmedal"},
 		{"predicate": {"custom_model_data":     524}, "model":"item/weapons/diamondmedal"},
 		{"predicate": {"custom_model_data":     525}, "model":"item/weapons/sleepingrabbit"},
+		{"predicate": {"custom_model_data":     526}, "model":"item/weapons/ppsh41_gs"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
