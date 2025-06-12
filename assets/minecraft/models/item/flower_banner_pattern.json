@@ -527,6 +527,9 @@
 		{"predicate": {"custom_model_data":     519}, "model":"item/weapons/butcherknife"},
 		{"predicate": {"custom_model_data":     520}, "model":"item/weapons/butcherknife_b"},
 		{"predicate": {"custom_model_data":     521}, "model":"item/weapons/butcherknife_b2"},
+		{"predicate": {"custom_model_data":     522}, "model":"item/weapons/ironmedal"},
+		{"predicate": {"custom_model_data":     523}, "model":"item/weapons/goldmedal"},
+		{"predicate": {"custom_model_data":     524}, "model":"item/weapons/diamondmedal"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
