@@ -533,11 +533,15 @@
 		{"predicate": {"custom_model_data":     525}, "model":"item/weapons/sleepingrabbit"},
 		{"predicate": {"custom_model_data":     526}, "model":"item/weapons/ppsh41_gs"},
 		{"predicate": {"custom_model_data":     527}, "model":"item/weapons/scarlgraymode"},
-		{"predicate": {"custom_model_data":     528}, "model":"item/weapons/l96a1graymode"},
+		{"predicate": {"custom_model_data":     528}, "model":"item/weapons/m249graymode"},
 		{"predicate": {"custom_model_data":     529}, "model":"item/weapons/berettam92fgraymode"},
 		{"predicate": {"custom_model_data":     530}, "model":"item/weapons/scarlprismmode"},
-		{"predicate": {"custom_model_data":     531}, "model":"item/weapons/l96a1prismmode"},
+		{"predicate": {"custom_model_data":     531}, "model":"item/weapons/m249prismmode"},
 		{"predicate": {"custom_model_data":     532}, "model":"item/weapons/berettam92fprismmode"},
+		{"predicate": {"custom_model_data":     533}, "model":"item/weapons/scarlprismmode_reload"},
+		{"predicate": {"custom_model_data":     534}, "model":"item/weapons/m249prismmode_reload"},
+		{"predicate": {"custom_model_data":     535}, "model":"item/weapons/berettam92fprismmode_reload"},
+		
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
