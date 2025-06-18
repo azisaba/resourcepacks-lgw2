@@ -541,6 +541,8 @@
 		{"predicate": {"custom_model_data":     533}, "model":"item/weapons/scarlprismmode_reload"},
 		{"predicate": {"custom_model_data":     534}, "model":"item/weapons/m249prismmode_reload"},
 		{"predicate": {"custom_model_data":     535}, "model":"item/weapons/berettam92fprismmode_reload"},
+		{"predicate": {"custom_model_data":     536}, "model":"item/weapons/nc_patriot_17touta"},
+		{"predicate": {"custom_model_data":     537}, "model":"item/weapons/nc_smg11_irry_llc"},
 		
 		
 		
