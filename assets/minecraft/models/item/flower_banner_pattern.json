@@ -543,6 +543,8 @@
 		{"predicate": {"custom_model_data":     535}, "model":"item/weapons/berettam92fprismmode_reload"},
 		{"predicate": {"custom_model_data":     536}, "model":"item/weapons/nc_patriot_17touta"},
 		{"predicate": {"custom_model_data":     537}, "model":"item/weapons/nc_smg11_irry_llc"},
+		{"predicate": {"custom_model_data":     538}, "model":"item/weapons/protohope"},
+		{"predicate": {"custom_model_data":     539}, "model":"item/weapons/heavendrive"},
 		
 		
 		
