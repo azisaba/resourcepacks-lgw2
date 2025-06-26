@@ -543,12 +543,6 @@
 		{"predicate": {"custom_model_data":     535}, "model":"item/weapons/berettam92fprismmode_reload"},
 		{"predicate": {"custom_model_data":     536}, "model":"item/weapons/nc_patriot_17touta"},
 		{"predicate": {"custom_model_data":     537}, "model":"item/weapons/nc_smg11_irry_llc"},
-		{"predicate": {"custom_model_data":     538}, "model":"item/weapons/protohope"},
-		{"predicate": {"custom_model_data":     539}, "model":"item/weapons/heavendrive"},
-		{"predicate": {"custom_model_data":     540}, "model":"item/weapons/krissvector_blackmetal"},
-		{"predicate": {"custom_model_data":     541}, "model":"item/weapons/krissvector_blackmetal_reload"},
-		{"predicate": {"custom_model_data":     542}, "model":"item/weapons/krissvector_cosmic"},
-		{"predicate": {"custom_model_data":     543}, "model":"item/weapons/krissvector_cosmic_reload"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
