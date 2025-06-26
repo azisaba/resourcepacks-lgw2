@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/kriss_vector_cosmic_reload",
+		"particle": "item/kriss_vector_cosmic_reload"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 0.5, 1.5],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 0.5, 1.5],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, -6],
+			"translation": [2, 4.25, 2.5],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 6],
+			"translation": [2, 4.25, 2.5],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"gui": {
+			"translation": [1.5, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 45],
+			"translation": [0, 18, 0],
+			"scale": [1.45, 1.45, 1.45]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-2, 0, 0],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}
