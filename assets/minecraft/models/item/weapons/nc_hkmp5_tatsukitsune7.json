@@ -2,7 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "item/handheld",
   "textures": {
-    "layer0": "item/nc_hkmp5_tatsukitsune7"
+    "layer0": "item/m32"
   },
   "display": {
     "thirdperson_righthand": {
