@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/kriss_vector_cosmic_scope",
+		"particle": "item/kriss_vector_cosmic_scope"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_righthand": {
+			"translation": [-9, 8.25, 0],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9, 8, 0],
+			"scale": [1.15, 1.15, 1.15]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"head": {
+			"translation": [0, 0, -7.75],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}
