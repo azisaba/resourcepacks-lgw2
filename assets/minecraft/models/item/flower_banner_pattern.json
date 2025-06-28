@@ -551,6 +551,8 @@
 		{"predicate": {"custom_model_data":     543}, "model":"item/weapons/kriss_vector_cosmic"},
 		{"predicate": {"custom_model_data":     544}, "model":"item/weapons/kriss_vector_cosmic_reload"},
 		{"predicate": {"custom_model_data":     545}, "model":"item/weapons/kriss_vector_cosmic_scope"},
+		{"predicate": {"custom_model_data":     546}, "model":"item/weapons/oma"},
+		{"predicate": {"custom_model_data":     547}, "model":"item/weapons/echolocation"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
