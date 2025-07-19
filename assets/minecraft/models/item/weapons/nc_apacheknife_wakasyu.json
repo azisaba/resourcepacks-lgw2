@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.6",
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/nc_apacheknife_wakasyu"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, 90, 45],
+      "translation": [-0.25, 8.75, 1.25],
+      "scale": [1.4, 1.4, 1.2]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, -90, -45],
+      "translation": [-0.25, 8.75, 1.25],
+      "scale": [1.4, 1.4, 1.2]
+    },
+    "firstperson_righthand": {
+      "rotation": [20, 90, 0],
+      "translation": [-0.5, 7.75, 1.25]
+    },
+    "firstperson_lefthand": {
+      "rotation": [20, -90, 0],
+      "translation": [-0.5, 7.75, 1.25]
+    },
+    "head": {
+      "rotation": [-180, 0, 72],
+      "translation": [0.75, -20, 6],
+      "scale": [2.3, 2.3, 2.3]
+    }
+  }
+}
