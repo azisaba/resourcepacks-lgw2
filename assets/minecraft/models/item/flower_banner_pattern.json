@@ -578,6 +578,9 @@
 		{"predicate": {"custom_model_data":     570}, "model":"item/weapons/vega_tool"},
 		{"predicate": {"custom_model_data":     571}, "model":"item/weapons/yokaisummercat"},
 		{"predicate": {"custom_model_data":     572}, "model":"item/weapons/spas12soh"},
+		{"predicate": {"custom_model_data":     573}, "model":"item/weapons/hkg36watermelon"},
+		{"predicate": {"custom_model_data":     574}, "model":"item/weapons/fnp90watermelon"},
+		{"predicate": {"custom_model_data":     575}, "model":"item/weapons/origin12watermelon"},
 		
 		
 
