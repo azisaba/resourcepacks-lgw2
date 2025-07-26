@@ -23,7 +23,11 @@
 		{"predicate": {"custom_model_data":       15}, "model":"item/weapons/shard_of_shinelite"},
 		{"predicate": {"custom_model_data":       16}, "model":"item/weapons/shinelite"},
 		{"predicate": {"custom_model_data":       17}, "model":"item/weapons/faded_emerald"},
-		{"predicate": {"custom_model_data":       18}, "model":"item/weapons/repaired_emerald"}
+		{"predicate": {"custom_model_data":       18}, "model":"item/weapons/repaired_emerald"},
+		{"predicate": {"custom_model_data":       19}, "model":"item/weapons/ball_watermelon"},
+		{"predicate": {"custom_model_data":       20}, "model":"item/weapons/fire_dust"},
+		{"predicate": {"custom_model_data":       21}, "model":"item/weapons/star_ball_watermelon"},
+		{"predicate": {"custom_model_data":       22}, "model":"item/weapons/star_dust"}
 		
        ]
 }        
