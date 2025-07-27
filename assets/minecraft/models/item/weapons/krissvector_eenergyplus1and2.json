@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/krissvector_eenergyplus1and2",
+		"particle": "item/krissvector_eenergyplus1and2"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 1.25, 0.5],
+			"scale": [1, 1, 1.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 1.25, 0.5],
+			"scale": [1, 1, 1.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 5.25, 3],
+			"scale": [1, 1, 1.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 5.25, 3],
+			"scale": [1, 1, 1.1]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [1, 1, 1.1]
+		},
+		"gui": {
+			"translation": [2, 1.25, 0],
+			"scale": [1.12, 1.12, 1]
+		},
+		"head": {
+			"rotation": [0, 180, 45],
+			"translation": [0, 15, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-2.75, 1.25, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}
