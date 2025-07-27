@@ -584,10 +584,11 @@
 		{"predicate": {"custom_model_data":     576}, "model":"item/weapons/attackknife"},
 		{"predicate": {"custom_model_data":     577}, "model":"item/weapons/phantommask"},
 		{"predicate": {"custom_model_data":     578}, "model":"item/weapons/tokarevtt33"},
-		{"predicate": {"custom_model_data":     579}, "model":"item/weapons/krissvector_eenergyplus1and2"},
-		{"predicate": {"custom_model_data":     580}, "model":"item/weapons/krissvector_eenergyplus1and2_reload"},
-		{"predicate": {"custom_model_data":     581}, "model":"item/weapons/krissvector_eenergyplus3"},
-		{"predicate": {"custom_model_data":     582}, "model":"item/weapons/krissvector_eenergyplus3_reload"},
+		{"predicate": {"custom_model_data":     579}, "model":"item/weapons/hk417invaders"},
+		{"predicate": {"custom_model_data":     580}, "model":"item/weapons/krissvector_eenergyplus1and2"},
+		{"predicate": {"custom_model_data":     581}, "model":"item/weapons/krissvector_eenergyplus1and2_reload"},
+		{"predicate": {"custom_model_data":     582}, "model":"item/weapons/krissvector_eenergyplus3"},
+		{"predicate": {"custom_model_data":     583}, "model":"item/weapons/krissvector_eenergyplus3_reload"},
 		
 
 		
