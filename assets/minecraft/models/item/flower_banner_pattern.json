@@ -584,6 +584,7 @@
 		{"predicate": {"custom_model_data":     576}, "model":"item/weapons/attackknife"},
 		{"predicate": {"custom_model_data":     577}, "model":"item/weapons/phantommask"},
 		{"predicate": {"custom_model_data":     578}, "model":"item/weapons/tokarevtt33"},
+		{"predicate": {"custom_model_data":     579}, "model":"item/weapons/hk417invaders"},
 		
 
 		
