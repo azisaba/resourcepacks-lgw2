@@ -2,7 +2,7 @@
 	"credit": "Made by unc J",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/apacheknife"
+		"layer0": "item/attackknife"
 	},
 	"display": {
 		"thirdperson_righthand": {
