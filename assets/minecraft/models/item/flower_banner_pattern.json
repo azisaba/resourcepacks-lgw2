@@ -589,6 +589,8 @@
 		{"predicate": {"custom_model_data":     581}, "model":"item/weapons/krissvector_eenergyplus1and2_reload"},
 		{"predicate": {"custom_model_data":     582}, "model":"item/weapons/krissvector_eenergyplus3"},
 		{"predicate": {"custom_model_data":     583}, "model":"item/weapons/krissvector_eenergyplus3_reload"},
+		{"predicate": {"custom_model_data":     584}, "model":"item/weapons/honeybadger_origin"},
+		{"predicate": {"custom_model_data":     585}, "model":"item/weapons/m4a1_origin"},
 		
 
 		
