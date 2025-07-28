@@ -591,6 +591,8 @@
 		{"predicate": {"custom_model_data":     583}, "model":"item/weapons/krissvector_eenergyplus3_reload"},
 		{"predicate": {"custom_model_data":     584}, "model":"item/weapons/honeybadger_origin"},
 		{"predicate": {"custom_model_data":     585}, "model":"item/weapons/m4a1_origin"},
+		{"predicate": {"custom_model_data":     586}, "model":"item/weapons/repairedamethyst"},
+		{"predicate": {"custom_model_data":     587}, "model":"item/weapons/fadedamethyst"},
 		
 
 		
