@@ -591,7 +591,12 @@
 		{"predicate": {"custom_model_data":     583}, "model":"item/weapons/krissvector_eenergyplus3_reload"},
 		{"predicate": {"custom_model_data":     584}, "model":"item/weapons/honeybadger_origin"},
 		{"predicate": {"custom_model_data":     585}, "model":"item/weapons/m4a1_origin"},
-		
+		{"predicate": {"custom_model_data":     586}, "model":"item/weapons/ctar21_sh"},
+		{"predicate": {"custom_model_data":     587}, "model":"item/weapons/ctar21_sh_scope"},
+		{"predicate": {"custom_model_data":     588}, "model":"item/weapons/keltecp50"},
+		{"predicate": {"custom_model_data":     589}, "model":"item/weapons/keltecp50_r"},
+		{"predicate": {"custom_model_data":     590}, "model":"item/weapons/m9a3"},
+		{"predicate": {"custom_model_data":     591}, "model":"item/weapons/shokaki"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
