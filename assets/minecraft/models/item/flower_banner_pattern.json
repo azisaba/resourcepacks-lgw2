@@ -597,6 +597,10 @@
 		{"predicate": {"custom_model_data":     589}, "model":"item/weapons/keltecp50_r"},
 		{"predicate": {"custom_model_data":     590}, "model":"item/weapons/m9a3"},
 		{"predicate": {"custom_model_data":     591}, "model":"item/weapons/shokaki"},
+		{"predicate": {"custom_model_data":     592}, "model":"item/weapons/aug"},
+		{"predicate": {"custom_model_data":     593}, "model":"item/weapons/suomi"},
+		{"predicate": {"custom_model_data":     594}, "model":"item/weapons/colt_walker"},
+		{"predicate": {"custom_model_data":     595}, "model":"item/weapons/ameli"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
