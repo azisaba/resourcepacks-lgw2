@@ -601,6 +601,10 @@
 		{"predicate": {"custom_model_data":     593}, "model":"item/weapons/suomi"},
 		{"predicate": {"custom_model_data":     594}, "model":"item/weapons/colt_walker"},
 		{"predicate": {"custom_model_data":     595}, "model":"item/weapons/ameli"},
+		{"predicate": {"custom_model_data":     596}, "model":"item/weapons/aug_hw"},
+		{"predicate": {"custom_model_data":     597}, "model":"item/weapons/suomi_hw"},
+		{"predicate": {"custom_model_data":     598}, "model":"item/weapons/colt_walker_mh"},
+		{"predicate": {"custom_model_data":     599}, "model":"item/weapons/ameli_mh"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
