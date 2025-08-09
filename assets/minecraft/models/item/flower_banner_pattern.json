@@ -609,7 +609,7 @@
 		{"predicate": {"custom_model_data":     601}, "model":"item/weapons/fiveseven_themultiverse"},
 		{"predicate": {"custom_model_data":     602}, "model":"item/weapons/fivesevenonesummerday"},
 		{"predicate": {"custom_model_data":     603}, "model":"item/weapons/fivesevenstardream"},
-		{"predicate": {"custom_model_data":     604}, "model":"item/weapons/holding_five seven"},
+		{"predicate": {"custom_model_data":     604}, "model":"item/weapons/holding_five_seven"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
