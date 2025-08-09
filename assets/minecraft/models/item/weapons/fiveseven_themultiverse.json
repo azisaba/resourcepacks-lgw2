@@ -1,0 +1,47 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/fiveseven_themultiverse"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-34, -90, 8],
+			"translation": [-0.25, 0.75, 1],
+			"scale": [0.75, 0.75, 0.77]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -43],
+			"translation": [0, 0.75, 1],
+			"scale": [0.75, 0.75, 0.77]
+		},
+		"firstperson_righthand": {
+			"rotation": [-42, -90, 0],
+			"translation": [0.75, 2.5, 0],
+			"scale": [0.84, 0.84, 0.84]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-39, 90, 0],
+			"translation": [0.25, 3.25, 0],
+			"scale": [0.84, 0.84, 0.84]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0]
+		},
+		"gui": {
+			"translation": [0.5, 0, 0]
+		},
+		"head": {
+			"rotation": [-111, -90, 0],
+			"translation": [7, -23.75, -1.5],
+			"scale": [1.18, 1.18, 1.18]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-1.5, -0.25, 0],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}

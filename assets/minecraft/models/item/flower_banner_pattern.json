@@ -605,6 +605,11 @@
 		{"predicate": {"custom_model_data":     597}, "model":"item/weapons/suomi_hw"},
 		{"predicate": {"custom_model_data":     598}, "model":"item/weapons/colt_walker_mh"},
 		{"predicate": {"custom_model_data":     599}, "model":"item/weapons/ameli_mh"},
+		{"predicate": {"custom_model_data":     600}, "model":"item/weapons/fivesevensummerraindiver"},
+		{"predicate": {"custom_model_data":     601}, "model":"item/weapons/fiveseven_themultiverse"},
+		{"predicate": {"custom_model_data":     602}, "model":"item/weapons/fivesevenonesummerday"},
+		{"predicate": {"custom_model_data":     603}, "model":"item/weapons/fivesevenstardream"},
+		{"predicate": {"custom_model_data":     604}, "model":"item/weapons/holding_five seven"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
