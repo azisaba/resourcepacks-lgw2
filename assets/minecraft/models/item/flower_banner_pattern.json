@@ -611,6 +611,8 @@
 		{"predicate": {"custom_model_data":     603}, "model":"item/weapons/fivesevenstardream"},
 		{"predicate": {"custom_model_data":     604}, "model":"item/weapons/holding_five_seven"},
 		{"predicate": {"custom_model_data":     605}, "model":"item/weapons/screwbullet"},
+		{"predicate": {"custom_model_data":     606}, "model":"item/weapons/hk416_ts"},
+		{"predicate": {"custom_model_data":     607}, "model":"item/weapons/kar98k_ws"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
