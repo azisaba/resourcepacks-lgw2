@@ -614,6 +614,7 @@
 		{"predicate": {"custom_model_data":     606}, "model":"item/weapons/hk416_ts"},
 		{"predicate": {"custom_model_data":     607}, "model":"item/weapons/kar98k_ws"},
 		{"predicate": {"custom_model_data":     608}, "model":"item/weapons/an94_blood"},
+		{"predicate": {"custom_model_data":     609}, "model":"item/weapons/mosin_triumphant_song"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
