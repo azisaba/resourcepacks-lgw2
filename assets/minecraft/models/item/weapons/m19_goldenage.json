@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/m19_goldenage"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-20, -90, 0],
+			"translation": [-0.5, 0, -0.5],
+			"scale": [0.55, 0.55, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-20, 90, 0],
+			"translation": [-0.5, 0, -0.5],
+			"scale": [0.55, 0.55, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [145, -80, 165],
+			"translation": [3.5, 2, -2.5],
+			"scale": [1, 1, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-20.25, 80, 5],
+			"translation": [3.5, 2, -2.5],
+			"scale": [1, 1, 0.8]
+		},
+		"ground": {
+			"rotation": [-90, 0, 45],
+			"translation": [0, -1.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"scale": [1.05, 1.05, 1.1]
+		},
+		"head": {
+			"rotation": [-135, -90, 0],
+			"translation": [-6.75, -26, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [-180, 0, -180],
+			"scale": [1.2, 1.2, 1.1]
+		}
+	}
+}
