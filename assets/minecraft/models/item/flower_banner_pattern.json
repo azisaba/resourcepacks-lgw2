@@ -616,6 +616,7 @@
 		{"predicate": {"custom_model_data":     608}, "model":"item/weapons/an94_blood"},
 		{"predicate": {"custom_model_data":     609}, "model":"item/weapons/mosin_triumphant_song"},
 		{"predicate": {"custom_model_data":     610}, "model":"item/weapons/m19_goldenage"},
+		{"predicate": {"custom_model_data":     611}, "model":"item/weapons/nc_karambitknife_chrisreeve"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
