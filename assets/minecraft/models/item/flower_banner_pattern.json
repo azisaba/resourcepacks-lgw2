@@ -619,6 +619,7 @@
 		{"predicate": {"custom_model_data":     611}, "model":"item/weapons/nc_karambitknife_chrisreeve"},
 		{"predicate": {"custom_model_data":     612}, "model":"item/weapons/g11"},
 		{"predicate": {"custom_model_data":     613}, "model":"item/weapons/g11oc"},
+		{"predicate": {"custom_model_data":     614}, "model":"item/weapons/89_cyber"},
 	
 
 		
