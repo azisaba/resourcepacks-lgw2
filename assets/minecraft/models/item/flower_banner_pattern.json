@@ -620,7 +620,7 @@
 		{"predicate": {"custom_model_data":     612}, "model":"item/weapons/g11"},
 		{"predicate": {"custom_model_data":     613}, "model":"item/weapons/g11oc"},
 		{"predicate": {"custom_model_data":     614}, "model":"item/weapons/89_cyber"},
-	
+		{"predicate": {"custom_model_data":     615}, "model":"item/weapons/de_likeaprayer"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
