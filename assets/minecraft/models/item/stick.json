@@ -29,7 +29,9 @@
 		{"predicate": {"custom_model_data":       21}, "model":"item/weapons/star_ball_watermelon"},
 		{"predicate": {"custom_model_data":       22}, "model":"item/weapons/star_dust"},
 	    {"predicate": {"custom_model_data":       23}, "model":"item/weapons/repairedamethyst"},
-		{"predicate": {"custom_model_data":       24}, "model":"item/weapons/fadedamethyst"}
+		{"predicate": {"custom_model_data":       24}, "model":"item/weapons/fadedamethyst"},
+		{"predicate": {"custom_model_data":       25}, "model":"item/weapons/mp1"},
+		{"predicate": {"custom_model_data":       26}, "model":"item/weapons/mp2"}
 		
        ]
 }        
