@@ -625,6 +625,8 @@
 		{"predicate": {"custom_model_data":     617}, "model":"item/weapons/89_cyber_reload"},
 		{"predicate": {"custom_model_data":     618}, "model":"item/weapons/rpk16"},
 		{"predicate": {"custom_model_data":     619}, "model":"item/weapons/rpk16bc"},
+		{"predicate": {"custom_model_data":     620}, "model":"item/weapons/ump40"},
+		{"predicate": {"custom_model_data":     621}, "model":"item/weapons/ump40ff"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
