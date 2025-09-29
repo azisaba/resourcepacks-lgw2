@@ -31,7 +31,9 @@
 	    {"predicate": {"custom_model_data":       23}, "model":"item/weapons/repairedamethyst"},
 		{"predicate": {"custom_model_data":       24}, "model":"item/weapons/fadedamethyst"},
 		{"predicate": {"custom_model_data":       25}, "model":"item/weapons/mp1"},
-		{"predicate": {"custom_model_data":       26}, "model":"item/weapons/mp2"}
+		{"predicate": {"custom_model_data":       26}, "model":"item/weapons/mp2"},
+		{"predicate": {"custom_model_data":       27}, "model":"item/weapons/firstaniv_enshu1"},
+		{"predicate": {"custom_model_data":       28}, "model":"item/weapons/firstaniv_enshu2"}
 		
        ]
 }        
