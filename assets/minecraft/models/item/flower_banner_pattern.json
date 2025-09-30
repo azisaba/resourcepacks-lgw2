@@ -628,6 +628,7 @@
 		{"predicate": {"custom_model_data":     620}, "model":"item/weapons/ump40"},
 		{"predicate": {"custom_model_data":     621}, "model":"item/weapons/ump40ff"},
 		{"predicate": {"custom_model_data":     622}, "model":"item/weapons/xm16e1"},
+		{"predicate": {"custom_model_data":     623}, "model":"item/weapons/m24_spirit"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
