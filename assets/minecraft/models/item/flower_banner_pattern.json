@@ -636,7 +636,7 @@
 		{"predicate": {"custom_model_data":     628}, "model":"item/weapons/coltpython_origin"},
 		{"predicate": {"custom_model_data":     629}, "model":"item/weapons/coltpython_pistolgalaxy"},
 		{"predicate": {"custom_model_data":     630}, "model":"item/weapons/coltpython_pistolgalaxy_animation"},
-
+		{"predicate": {"custom_model_data":     631}, "model":"item/weapons/scarhrow"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
