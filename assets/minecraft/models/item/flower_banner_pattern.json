@@ -629,6 +629,13 @@
 		{"predicate": {"custom_model_data":     621}, "model":"item/weapons/ump40ff"},
 		{"predicate": {"custom_model_data":     622}, "model":"item/weapons/xm16e1"},
 		{"predicate": {"custom_model_data":     623}, "model":"item/weapons/m24_spirit"},
+		{"predicate": {"custom_model_data":     624}, "model":"item/weapons/m4a1frejar"},
+		{"predicate": {"custom_model_data":     625}, "model":"item/weapons/mp5frejar"},
+		{"predicate": {"custom_model_data":     626}, "model":"item/weapons/m24frejar"},
+		{"predicate": {"custom_model_data":     627}, "model":"item/weapons/supernovafrejar"},
+		{"predicate": {"custom_model_data":     628}, "model":"item/weapons/coltpython_origin"},
+		{"predicate": {"custom_model_data":     629}, "model":"item/weapons/coltpython_pistolgalaxy"},
+		{"predicate": {"custom_model_data":     630}, "model":"item/weapons/coltpython_pistolgalaxy_animation"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
