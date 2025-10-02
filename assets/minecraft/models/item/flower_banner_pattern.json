@@ -637,6 +637,10 @@
 		{"predicate": {"custom_model_data":     629}, "model":"item/weapons/coltpython_pistolgalaxy"},
 		{"predicate": {"custom_model_data":     630}, "model":"item/weapons/coltpython_pistolgalaxy_animation"},
 		{"predicate": {"custom_model_data":     631}, "model":"item/weapons/scarhrow"},
+		{"predicate": {"custom_model_data":     632}, "model":"item/weapons/m5nv"},
+		{"predicate": {"custom_model_data":     633}, "model":"item/weapons/jmp5nv"},
+		{"predicate": {"custom_model_data":     634}, "model":"item/weapons/1a4bob"},
+		{"predicate": {"custom_model_data":     635}, "model":"item/weapons/mnovabob"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
