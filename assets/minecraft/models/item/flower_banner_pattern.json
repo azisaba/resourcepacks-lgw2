@@ -651,6 +651,9 @@
 		{"predicate": {"custom_model_data":     643}, "model":"item/weapons/tenjin"},
 		{"predicate": {"custom_model_data":     644}, "model":"item/weapons/chikuwa"},
 		{"predicate": {"custom_model_data":     645}, "model":"item/weapons/xtendnova"},
+		{"predicate": {"custom_model_data":     646}, "model":"item/weapons/luckygun2"},
+		{"predicate": {"custom_model_data":     647}, "model":"item/weapons/bren2"},
+		{"predicate": {"custom_model_data":     648}, "model":"item/weapons/typhoon"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
