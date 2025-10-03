@@ -1,10 +1,8 @@
 {
-	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/crimsonannihilator",
-		"particle": "item/crimsonannihilator"
+		"layer0": "item/crimsonannihilator"
 	},
 	"gui_light": "front",
 	"display": {
