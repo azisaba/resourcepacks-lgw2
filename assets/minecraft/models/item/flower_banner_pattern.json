@@ -654,6 +654,7 @@
 		{"predicate": {"custom_model_data":     646}, "model":"item/weapons/luckygun2"},
 		{"predicate": {"custom_model_data":     647}, "model":"item/weapons/bren2"},
 		{"predicate": {"custom_model_data":     648}, "model":"item/weapons/typhoon"},
+		{"predicate": {"custom_model_data":     649}, "model":"item/weapons/crimsonannihilator"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
