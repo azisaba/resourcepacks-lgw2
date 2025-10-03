@@ -407,7 +407,7 @@
 		{"predicate": {"custom_model_data":     399}, "model":"item/weapons/dsr1_ionbreak"},
 		{"predicate": {"custom_model_data":     400}, "model":"item/weapons/magpulpdw_ionbreak"},
 		{"predicate": {"custom_model_data":     401}, "model":"item/weapons/spas12_ionbreak"},
-                {"predicate": {"custom_model_data":     402}, "model":"item/weapons/lovebow"},
+		{"predicate": {"custom_model_data":     402}, "model":"item/weapons/lovebow"},
 		{"predicate": {"custom_model_data":     403}, "model":"item/weapons/lovebowr"},
 		{"predicate": {"custom_model_data":     404}, "model":"item/weapons/combataxe"},
 		{"predicate": {"custom_model_data":     405}, "model":"item/weapons/saltshotgun"},
@@ -655,6 +655,7 @@
 		{"predicate": {"custom_model_data":     647}, "model":"item/weapons/bren2"},
 		{"predicate": {"custom_model_data":     648}, "model":"item/weapons/typhoon"},
 		{"predicate": {"custom_model_data":     649}, "model":"item/weapons/crimsonannihilator"},
+		{"predicate": {"custom_model_data":     650}, "model":"item/weapons/mozanpieque"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
