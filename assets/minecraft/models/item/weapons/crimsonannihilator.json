@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"0": "item/crimsonannihilator",
+		"layer0": "item/crimsonannihilator",
 		"particle": "item/crimsonannihilator"
 	},
 	"gui_light": "front",
