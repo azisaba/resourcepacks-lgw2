@@ -659,6 +659,7 @@
 		{"predicate": {"custom_model_data":     651}, "model":"item/weapons/coltlawman"},
 		{"predicate": {"custom_model_data":     652}, "model":"item/weapons/omgmod"},
 		{"predicate": {"custom_model_data":     653}, "model":"item/weapons/electrical"},
+		{"predicate": {"custom_model_data":     654}, "model":"item/weapons/alda_ms"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
