@@ -661,6 +661,12 @@
 		{"predicate": {"custom_model_data":     653}, "model":"item/weapons/electrical"},
 		{"predicate": {"custom_model_data":     654}, "model":"item/weapons/alda_ms"},
 		{"predicate": {"custom_model_data":     655}, "model":"item/weapons/mac11widow"},
+		{"predicate": {"custom_model_data":     656}, "model":"item/weapons/ak74_ionbreak"},
+		{"predicate": {"custom_model_data":     657}, "model":"item/weapons/ddbrenten_ionbreak"},
+		{"predicate": {"custom_model_data":     658}, "model":"item/weapons/hkpsg1_ionbreak"},
+		{"predicate": {"custom_model_data":     659}, "model":"item/weapons/m16a2_ionbreak"},
+		{"predicate": {"custom_model_data":     660}, "model":"item/weapons/mp7_ionbreak"},
+		{"predicate": {"custom_model_data":     661}, "model":"item/weapons/rpd_ionbreak"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
