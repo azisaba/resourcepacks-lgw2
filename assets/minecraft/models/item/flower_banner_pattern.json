@@ -668,6 +668,7 @@
 		{"predicate": {"custom_model_data":     660}, "model":"item/weapons/mp7_ionbreak"},
 		{"predicate": {"custom_model_data":     661}, "model":"item/weapons/rpd_ionbreak"},
 		{"predicate": {"custom_model_data":     662}, "model":"item/weapons/g36_neon"},
+		{"predicate": {"custom_model_data":     663}, "model":"item/weapons/g36_neon_r"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
