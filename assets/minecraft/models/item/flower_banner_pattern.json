@@ -676,6 +676,7 @@
 		{"predicate": {"custom_model_data":     668}, "model":"item/weapons/lucky_dagger"},
 		{"predicate": {"custom_model_data":     669}, "model":"item/weapons/qbz-08"},
 		{"predicate": {"custom_model_data":     670}, "model":"item/weapons/tcsg-12"},
+		{"predicate": {"custom_model_data":     671}, "model":"item/weapons/9x19vsn"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
