@@ -31,6 +31,7 @@
 		{"predicate": {"custom_model_data":       22}, "model":"item/weapons/2025springeventtic"},
 		{"predicate": {"custom_model_data":       23}, "model":"item/weapons/kaizoutic"},
 		{"predicate": {"custom_model_data":       24}, "model":"item/weapons/sinseisyo"},
-		{"predicate": {"custom_model_data":       25}, "model":"item/weapons/hazurefav"}
+		{"predicate": {"custom_model_data":       25}, "model":"item/weapons/hazurefav"},
+		{"predicate": {"custom_model_data":       26}, "model":"item/weapons/dgeticket"}
        ]
 }        
