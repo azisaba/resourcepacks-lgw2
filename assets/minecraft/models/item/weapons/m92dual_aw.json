@@ -1,0 +1,33 @@
+{
+	"format_version": "1.16.5",
+	"credit": "HGWT",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/m92dual_aw"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 0],
+			"translation": [0, 0, -0.75],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [0, 0, -0.75],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [112.38, -84.98, 145.15],
+			"translation": [2.75, 4, -1.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-19.63, 77.85, -7.1],
+			"translation": [3, 4.5, -1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"translation": [-0.25, -0.25, 0]
+		}
+	}
+}

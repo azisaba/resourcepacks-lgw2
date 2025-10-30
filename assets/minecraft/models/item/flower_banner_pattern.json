@@ -688,6 +688,18 @@
 		{"predicate": {"custom_model_data":     680}, "model":"item/weapons/fivesevenfall"},
 		{"predicate": {"custom_model_data":     681}, "model":"item/weapons/hkmp7fall"},
 		{"predicate": {"custom_model_data":     682}, "model":"item/weapons/tarfall"},
+		{"predicate": {"custom_model_data":     683}, "model":"item/weapons/karambitknife_mtkjson"},
+		{"predicate": {"custom_model_data":     684}, "model":"item/weapons/karambitknife_gs"},
+		{"predicate": {"custom_model_data":     685}, "model":"item/weapons/m92dual_aw"},
+		{"predicate": {"custom_model_data":     686}, "model":"item/weapons/hw_hk417"},
+		{"predicate": {"custom_model_data":     687}, "model":"item/weapons/hw_ump45"},
+		{"predicate": {"custom_model_data":     688}, "model":"item/weapons/batbow"},
+		{"predicate": {"custom_model_data":     689}, "model":"item/weapons/pumpkin_luncher"},
+		{"predicate": {"custom_model_data":     690}, "model":"item/weapons/vorpalbunny_msd"},
+		{"predicate": {"custom_model_data":     691}, "model":"item/weapons/skullparty"},
+		{"predicate": {"custom_model_data":     692}, "model":"item/weapons/xm8_hnc"},
+		{"predicate": {"custom_model_data":     693}, "model":"item/weapons/witchstickjson"},
+		{"predicate": {"custom_model_data":     694}, "model":"item/weapons/eda_kouyou"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},

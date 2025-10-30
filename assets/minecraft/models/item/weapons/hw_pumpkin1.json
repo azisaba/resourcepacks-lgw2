@@ -1,0 +1,37 @@
+{
+	"format_version": "1.16.5",
+	"credit": "HGWT",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/hw_pumpkin1"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [100, 90, 0],
+			"translation": [0, -2.25, -4.25],
+			"scale": [0.8, 0.8, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [100, -90, 0],
+			"translation": [0, -2.25, -4.25],
+			"scale": [0.8, 0.8, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-2.16, -66.69, -15.51],
+			"translation": [1, 4.25, 0.5],
+			"scale": [0.7, 0.7, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [150.62, 74.47, -149.7],
+			"translation": [0, 4.5, 0],
+			"scale": [0.7, 0.7, 1.5]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0]
+		},
+		"head": {
+			"translation": [0, 2.5, -8],
+			"scale": [1.45, 1.5, 3]
+		}
+	}
+}

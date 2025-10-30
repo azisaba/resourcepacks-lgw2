@@ -1,0 +1,43 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/batbow",
+		"particle": "item/batbow"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 50],
+			"translation": [0, 1, -2.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -50],
+			"translation": [0, 1, -2.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [1.25, 7, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [1.25, 7, 0.5]
+		},
+		"ground": {
+			"rotation": [90, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, 34],
+			"translation": [1, 0, 0]
+		},
+		"head": {
+			"translation": [-1.25, 12.75, 0],
+			"scale": [0.6, 0.6, 1]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0.25, 0],
+			"scale": [1.2, 1.2, 1.6]
+		}
+	}
+}

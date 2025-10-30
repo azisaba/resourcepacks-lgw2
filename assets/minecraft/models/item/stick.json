@@ -35,7 +35,9 @@
 		{"predicate": {"custom_model_data":       27}, "model":"item/weapons/firstaniv_enshu1"},
 		{"predicate": {"custom_model_data":       28}, "model":"item/weapons/firstaniv_enshu2"},
 		{"predicate": {"custom_model_data":       29}, "model":"item/weapons/gold_carrot"},
-		{"predicate": {"custom_model_data":       30}, "model":"item/weapons/dango"}
+		{"predicate": {"custom_model_data":       30}, "model":"item/weapons/dango"},
+		{"predicate": {"custom_model_data":       31}, "model":"item/weapons/hw_pumpkin1"},
+		{"predicate": {"custom_model_data":       32}, "model":"item/weapons/hw_pumpkin2"}
 		
        ]
 }        

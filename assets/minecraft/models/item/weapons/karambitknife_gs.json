@@ -1,0 +1,38 @@
+{
+	"format_version": "1.16.5",
+	"credit": "HGWT",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/karambitknife_gs"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-50.26, -87.19, 129.92],
+			"translation": [0, -5.75, 3],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-104.4, 88.17, -82.63],
+			"translation": [0, -6.25, 3],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [115.08, -8.75, -79.22],
+			"translation": [-2, 3, 4.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-74.7, 3.38, -100.78],
+			"translation": [-0.25, 4, 4],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -51],
+			"translation": [2, -0.5, 0],
+			"scale": [0.9, 0.9, 0.9]
+		}
+	}
+}
