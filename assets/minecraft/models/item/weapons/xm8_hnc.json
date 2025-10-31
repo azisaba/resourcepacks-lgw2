@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/skullparty",
-		"particle": "item/skullparty"
+		"layer0": "item/xm8_hnc",
+		"particle": "item/xm8_hnc"
 	},
 	"display": {
 		"thirdperson_righthand": {
