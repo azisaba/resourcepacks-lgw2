@@ -3,8 +3,8 @@
   "credit": "Made with Blockbench",
   "parent": "item/handheld",
   "textures": {
-    "particle": "nc_kriss_vector_assault_sie1105",
-    "layer0": "nc_kriss_vector_assault_sie1105"
+    "particle": "item/nc_kriss_vector_assault_sie1105",
+    "layer0": "item/nc_kriss_vector_assault_sie1105"
   },
   "gui_light": "front",
   "display": {
