@@ -700,6 +700,7 @@
 		{"predicate": {"custom_model_data":     692}, "model":"item/weapons/xm8_hnc"},
 		{"predicate": {"custom_model_data":     693}, "model":"item/weapons/witchstickjson"},
 		{"predicate": {"custom_model_data":     694}, "model":"item/weapons/eda_kouyou"},
+		{"predicate": {"custom_model_data":     695}, "model":"item/weapons/nc_kriss_vector_assault_sie1105"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
