@@ -706,7 +706,9 @@
 		{"predicate": {"custom_model_data":     698}, "model":"item/weapons/steyrtmp"},
 		{"predicate": {"custom_model_data":     699}, "model":"item/weapons/vepr8kulz"},
 		{"predicate": {"custom_model_data":     700}, "model":"item/weapons/waltherpp"},
-		
+		{"predicate": {"custom_model_data":     700}, "model":"item/weapons/sigmpx"},
+		{"predicate": {"custom_model_data":     700}, "model":"item/weapons/sigmpx_nf"},
+
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
