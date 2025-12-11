@@ -716,6 +716,7 @@
 		{"predicate": {"custom_model_data":     708}, "model":"item/weapons/9a91"},
 		{"predicate": {"custom_model_data":     709}, "model":"item/weapons/makarovpm"},
 		{"predicate": {"custom_model_data":     710}, "model":"item/weapons/sitesspectem4"},
+		{"predicate": {"custom_model_data":     711}, "model":"item/weapons/asval_be"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
