@@ -717,6 +717,8 @@
 		{"predicate": {"custom_model_data":     709}, "model":"item/weapons/makarovpm"},
 		{"predicate": {"custom_model_data":     710}, "model":"item/weapons/sitesspectem4"},
 		{"predicate": {"custom_model_data":     711}, "model":"item/weapons/asval_be"},
+		{"predicate": {"custom_model_data":     712}, "model":"item/weapons/nc_drain_kokeishi001"},
+		{"predicate": {"custom_model_data":     713}, "model":"item/weapons/nc_pkp_kokeishi001"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
