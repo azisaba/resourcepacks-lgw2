@@ -709,6 +709,16 @@
 		{"predicate": {"custom_model_data":     701}, "model":"item/weapons/sigmpx"},
 		{"predicate": {"custom_model_data":     702}, "model":"item/weapons/sigmpx_nf"},
 		{"predicate": {"custom_model_data":     703}, "model":"item/weapons/alda_tof"},
+		{"predicate": {"custom_model_data":     704}, "model":"item/weapons/asval"},
+		{"predicate": {"custom_model_data":     705}, "model":"item/weapons/m4a1bc"},
+		{"predicate": {"custom_model_data":     706}, "model":"item/weapons/m60bc"},
+		{"predicate": {"custom_model_data":     707}, "model":"item/weapons/nagantm1895bc"},
+		{"predicate": {"custom_model_data":     708}, "model":"item/weapons/9a91"},
+		{"predicate": {"custom_model_data":     709}, "model":"item/weapons/makarovpm"},
+		{"predicate": {"custom_model_data":     710}, "model":"item/weapons/sitesspectem4"},
+		{"predicate": {"custom_model_data":     711}, "model":"item/weapons/asval_be"},
+		{"predicate": {"custom_model_data":     712}, "model":"item/weapons/nc_drain_kokeishi001"},
+		{"predicate": {"custom_model_data":     713}, "model":"item/weapons/nc_pkp_kokeishi001"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
