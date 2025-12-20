@@ -37,7 +37,15 @@
 		{"predicate": {"custom_model_data":       29}, "model":"item/weapons/gold_carrot"},
 		{"predicate": {"custom_model_data":       30}, "model":"item/weapons/dango"},
 		{"predicate": {"custom_model_data":       31}, "model":"item/weapons/hw_pumpkin1"},
-		{"predicate": {"custom_model_data":       32}, "model":"item/weapons/hw_pumpkin2"}
+		{"predicate": {"custom_model_data":       32}, "model":"item/weapons/hw_pumpkin2"},
+		{"predicate": {"custom_model_data":       33}, "model":"item/weapons/yukidama"},
+		{"predicate": {"custom_model_data":       34}, "model":"item/weapons/bluesnow"},
+		{"predicate": {"custom_model_data":       35}, "model":"item/weapons/whitesnow"},
+		{"predicate": {"custom_model_data":       36}, "model":"item/weapons/small_tree"},
+		{"predicate": {"custom_model_data":       37}, "model":"item/weapons/big_tree"},
+		{"predicate": {"custom_model_data":       38}, "model":"item/weapons/turara"},
+		{"predicate": {"custom_model_data":       39}, "model":"item/weapons/xmasmedal"},
+		{"predicate": {"custom_model_data":       40}, "model":"item/weapons/silvermedal"}
 		
        ]
 }        
