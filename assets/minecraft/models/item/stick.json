@@ -45,7 +45,9 @@
 		{"predicate": {"custom_model_data":       37}, "model":"item/weapons/big_tree"},
 		{"predicate": {"custom_model_data":       38}, "model":"item/weapons/turara"},
 		{"predicate": {"custom_model_data":       39}, "model":"item/weapons/xmasmedal"},
-		{"predicate": {"custom_model_data":       40}, "model":"item/weapons/silvermedal"}
+		{"predicate": {"custom_model_data":       40}, "model":"item/weapons/silvermedal"},
+		{"predicate": {"custom_model_data":       41}, "model":"item/weapons/icekey"},
+		{"predicate": {"custom_model_data":       42}, "model":"item/weapons/icecrystal"}
 		
        ]
 }        
