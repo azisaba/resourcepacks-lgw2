@@ -719,7 +719,17 @@
 		{"predicate": {"custom_model_data":     711}, "model":"item/weapons/asval_be"},
 		{"predicate": {"custom_model_data":     712}, "model":"item/weapons/nc_drain_kokeishi001"},
 		{"predicate": {"custom_model_data":     713}, "model":"item/weapons/nc_pkp_kokeishi001"},
-		{"predicate": {"custom_model_data":     714}, "model":"item/weapons/aurorasong"},
+		{"predicate": {"custom_model_data":     715}, "model":"item/weapons/hkusp_ws"},
+		{"predicate": {"custom_model_data":     716}, "model":"item/weapons/dp28_ws"},
+		{"predicate": {"custom_model_data":     717}, "model":"item/weapons/benellinova_ws"},
+		{"predicate": {"custom_model_data":     718}, "model":"item/weapons/trg42"},
+		{"predicate": {"custom_model_data":     719}, "model":"item/weapons/sg550"},
+		{"predicate": {"custom_model_data":     720}, "model":"item/weapons/wa2000"},
+		{"predicate": {"custom_model_data":     721}, "model":"item/weapons/vz61"},
+		{"predicate": {"custom_model_data":     722}, "model":"item/weapons/trg42_stellarxmas"},
+		{"predicate": {"custom_model_data":     723}, "model":"item/weapons/sg550_stellarxmas"},
+		{"predicate": {"custom_model_data":     724}, "model":"item/weapons/wa2000_stellarxmas"},
+		{"predicate": {"custom_model_data":     725}, "model":"item/weapons/vz61_stellarxmas"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
