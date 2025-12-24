@@ -754,6 +754,7 @@
 		{"predicate": {"custom_model_data":     747}, "model":"item/weapons/heal_girl2"},
 		{"predicate": {"custom_model_data":     748}, "model":"item/weapons/heal_girl3"},
 		{"predicate": {"custom_model_data":     749}, "model":"item/weapons/hkmp5_st"},
+		{"predicate": {"custom_model_data":     750}, "model":"item/weapons/smg11_aurora"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
