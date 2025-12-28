@@ -755,6 +755,9 @@
 		{"predicate": {"custom_model_data":     748}, "model":"item/weapons/heal_girl3"},
 		{"predicate": {"custom_model_data":     749}, "model":"item/weapons/hkmp5_st"},
 		{"predicate": {"custom_model_data":     750}, "model":"item/weapons/smg11_aurora"},
+		{"predicate": {"custom_model_data":     751}, "model":"item/weapons/krissvector_cb"},
+		{"predicate": {"custom_model_data":     752}, "model":"item/weapons/krissvector_cb_reload"},
+		{"predicate": {"custom_model_data":     753}, "model":"item/weapons/nc_sigmpx_koru_1004"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
