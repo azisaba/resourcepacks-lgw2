@@ -3,7 +3,8 @@
 	"credit": "HGZJ",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/ballisticknifewcse"
+		"layer0": "item/ballisticknifewcs",
+		"particle": "item/ballisticknifewcs"
 	},
 	"display": {
 		"thirdperson_righthand": {
