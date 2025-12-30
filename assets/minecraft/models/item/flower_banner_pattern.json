@@ -771,6 +771,7 @@
 		{"predicate": {"custom_model_data":     764}, "model":"item/weapons/ballisticknifewcs"},
 		{"predicate": {"custom_model_data":     765}, "model":"item/weapons/FRF2"},
 		{"predicate": {"custom_model_data":     766}, "model":"item/weapons/FRF2_SP"},
+
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
