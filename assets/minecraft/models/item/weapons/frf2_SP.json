@@ -1,0 +1,31 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/frf2_SP"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-48, -90, 0],
+			"translation": [-0.25, 0.25, -1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 82, -43],
+			"translation": [0.25, 0.5, -1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-33, -92, 12],
+			"translation": [-0.75, 3, -2.95],
+			"scale": [1.25, 1.32, 1.16]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-49, 87, -1],
+			"translation": [-3.5, 4.25, 5.25],
+			"scale": [1, 1, 0.71]
+		},
+		"head": {
+			"rotation": [0, 0, 111],
+			"translation": [0, -17.25, 4],
+			"scale": [1.4, 1.4, 1.37]
+		}
+	}
+}
