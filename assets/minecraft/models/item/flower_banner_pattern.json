@@ -769,7 +769,9 @@
 		{"predicate": {"custom_model_data":     762}, "model":"item/weapons/m32_absolutezero"},
 		{"predicate": {"custom_model_data":     763}, "model":"item/weapons/mg3_arcticstorm"},
 		{"predicate": {"custom_model_data":     764}, "model":"item/weapons/ballisticknifewcs"},
-
+		{"predicate": {"custom_model_data":     765}, "model":"FRF2"},
+		{"predicate": {"custom_model_data":     766}, "model":"FRF2_SP"},
+		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
