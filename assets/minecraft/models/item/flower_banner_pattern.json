@@ -758,6 +758,9 @@
 		{"predicate": {"custom_model_data":     751}, "model":"item/weapons/krissvector_cb"},
 		{"predicate": {"custom_model_data":     752}, "model":"item/weapons/krissvector_cb_reload"},
 		{"predicate": {"custom_model_data":     753}, "model":"item/weapons/nc_sigmpx_koru_1004"},
+		{"predicate": {"custom_model_data":     753}, "model":"item/weapons/m32_absolutezero"},
+		{"predicate": {"custom_model_data":     753}, "model":"item/weapons/mg3_arcticstorm"},
+		{"predicate": {"custom_model_data":     753}, "model":"item/weapons/ballisticknifewcs"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
