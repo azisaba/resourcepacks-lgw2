@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/frf2"
+        "layer0": "item/frf2_SP"
     },
 	"display": {
 		"thirdperson_righthand": {
