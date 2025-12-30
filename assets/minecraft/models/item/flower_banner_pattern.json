@@ -766,6 +766,8 @@
 		{"predicate": {"custom_model_data":     759}, "model":"item/weapons/type35_ii"},
 		{"predicate": {"custom_model_data":     760}, "model":"item/weapons/type35_iii"},
 		{"predicate": {"custom_model_data":     761}, "model":"item/weapons/type35_water_ruler"},
+				{"predicate": {"custom_model_data":     761}, "model":"item/FRF2"},
+				{"predicate": {"custom_model_data":     761}, "model":"item/FRF2_SP"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
