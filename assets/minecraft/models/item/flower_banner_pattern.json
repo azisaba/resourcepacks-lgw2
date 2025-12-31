@@ -771,6 +771,7 @@
 		{"predicate": {"custom_model_data":     764}, "model":"item/weapons/ballisticknifewcs"},
 		{"predicate": {"custom_model_data":     765}, "model":"item/weapons/frf2"},
 		{"predicate": {"custom_model_data":     766}, "model":"item/weapons/frf2_sp"},
+		{"predicate": {"custom_model_data":     767}, "model":"item/weapons/smg11_asiimov"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
