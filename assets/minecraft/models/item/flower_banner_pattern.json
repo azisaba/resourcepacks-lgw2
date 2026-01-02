@@ -773,6 +773,9 @@
 		{"predicate": {"custom_model_data":     766}, "model":"item/weapons/frf2_sp"},
 		{"predicate": {"custom_model_data":     767}, "model":"item/weapons/smg11_asiimov"},
 		{"predicate": {"custom_model_data":     768}, "model":"item/weapons/scorpionhorse"},
+		{"predicate": {"custom_model_data":     769}, "model":"item/weapons/negev_turquoisetycoon"},
+		{"predicate": {"custom_model_data":     770}, "model":"item/weapons/type89_wereworf"},
+		{"predicate": {"custom_model_data":     771}, "model":"item/weapons/stimulant_oneshot"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},

@@ -1,0 +1,45 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/type89_wereworf",
+		"particle": "item/type89_wereworf"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 50],
+			"translation": [0, 0.75, -2.25],
+			"scale": [0.8, 0.8, 1.05]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -50],
+			"translation": [0, 0.75, -2.25],
+			"scale": [0.8, 0.8, 1.05]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [1.25, 4, 0],
+			"scale": [0.8, 0.8, 1.05]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [1.25, 4, 0],
+			"scale": [0.8, 0.8, 1.05]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1, 0],
+			"scale": [0.8, 0.8, 1.05]
+		},
+		"head": {
+			"rotation": [0, -180, 45],
+			"translation": [0, 11.25, 0],
+			"scale": [0.8, 0.8, 1.05]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [1.2, 1.2, 1.45]
+		}
+	}
+}
