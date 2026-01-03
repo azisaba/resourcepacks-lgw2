@@ -776,6 +776,7 @@
 		{"predicate": {"custom_model_data":     769}, "model":"item/weapons/negev_turquoisetycoon"},
 		{"predicate": {"custom_model_data":     770}, "model":"item/weapons/type89_wereworf"},
 		{"predicate": {"custom_model_data":     771}, "model":"item/weapons/stimulant_oneshot"},
+		{"predicate": {"custom_model_data":     772}, "model":"item/weapons/tecdc9_br"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
