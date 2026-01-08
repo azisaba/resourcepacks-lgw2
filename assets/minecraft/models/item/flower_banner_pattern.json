@@ -778,6 +778,9 @@
 		{"predicate": {"custom_model_data":     771}, "model":"item/weapons/stimulant_oneshot"},
 		{"predicate": {"custom_model_data":     772}, "model":"item/weapons/tecdc9_br"},
 		{"predicate": {"custom_model_data":     773}, "model":"item/weapons/awpcof2"},
+		{"predicate": {"custom_model_data":     774}, "model":"item/weapons/takekout_bentou"},
+		{"predicate": {"custom_model_data":     775}, "model":"item/weapons/takeout_spagetti"},
+		{"predicate": {"custom_model_data":     776}, "model":"item/weapons/takeout_yakitori"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
