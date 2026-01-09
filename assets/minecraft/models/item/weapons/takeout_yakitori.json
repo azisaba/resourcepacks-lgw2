@@ -3,18 +3,18 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/takeout_yakitori",
+		"layer0": "item/takeout_yakitori,
 		"particle": "item/takeout_yakitori"
 	},
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [0, -90, 18],
-			"translation": [0, 1, -1.75],
+			"rotation": [0, -90, 12],
+			"translation": [0, 1.5, -0.25],
 			"scale": [0.5, 0.5, 0.8]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [0, 90, -18],
-			"translation": [0, 1, -1.75],
+			"rotation": [0, 90, -12],
+			"translation": [0, 1.5, -0.25],
 			"scale": [0.5, 0.5, 0.8]
 		},
 		"firstperson_righthand": {
@@ -23,7 +23,7 @@
 			"scale": [0.5, 0.5, 0.8]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, -35, -28],
+			"rotation": [0, -35, 0],
 			"translation": [2, 3.5, 0],
 			"scale": [0.5, 0.5, 0.8]
 		},
@@ -32,7 +32,7 @@
 			"scale": [0.5, 0.5, 0.8]
 		},
 		"gui": {
-			"translation": [0, 1, 0]
+			"translation": [-0.25, -0.5, 0]
 		},
 		"head": {
 			"translation": [0, 10.25, 0],
@@ -40,7 +40,7 @@
 		},
 		"fixed": {
 			"rotation": [0, -180, 0],
-			"translation": [0.25, 1.75, 0],
+			"translation": [0.25, 0, 0],
 			"scale": [1.2, 1.2, 1.5]
 		}
 	}
