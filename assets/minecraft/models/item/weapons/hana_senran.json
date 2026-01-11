@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "hana_senran"
+		"layer0": "items/hana_senran"
 	},
 	"gui_light": "front",
 	"display": {
