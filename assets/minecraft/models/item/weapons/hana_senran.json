@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "hana_senran"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-150, 90, 0],
+			"translation": [-0.5, -4.25, 0.5],
+			"scale": [0.55, 0.55, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-150, -90, 0],
+			"translation": [-0.5, -4.25, 0.5],
+			"scale": [0.55, 0.55, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-66.04, 15, -95],
+			"translation": [7, 0, -2.5],
+			"scale": [1, 1, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [125, -15, -60],
+			"translation": [7, 0, -2.5],
+			"scale": [0.75, 0.75, 0.8]
+		},
+		"ground": {
+			"rotation": [-90, 0, 45],
+			"translation": [0, -1.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [0, 0, -180],
+			"translation": [0.5, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 0, -180],
+			"translation": [1, -22, 4.75],
+			"scale": [3, 3, 1]
+		},
+		"fixed": {
+			"rotation": [-180, 0, 0],
+			"scale": [1.2, 1.2, 1.1]
+		}
+	}
+}
