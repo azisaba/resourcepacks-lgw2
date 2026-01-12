@@ -3,19 +3,19 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/hana_senran",
-		"particle": "item/hana_senran"
+		"particle": "item/hana_senran",
+		"layer0": "item/hana_senran"
 	},
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-150, 90, 0],
-			"translation": [-0.5, -4.25, 0.5],
+			"translation": [-0.5, -4.5, 0.75],
 			"scale": [0.55, 0.55, 0.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [-150, -90, 0],
-			"translation": [-0.5, -4.25, 0.5],
+			"translation": [-0.5, -4.5, 0.75],
 			"scale": [0.55, 0.55, 0.5]
 		},
 		"firstperson_righthand": {
