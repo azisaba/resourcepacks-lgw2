@@ -781,6 +781,7 @@
 		{"predicate": {"custom_model_data":     774}, "model":"item/weapons/takekout_bentou"},
 		{"predicate": {"custom_model_data":     775}, "model":"item/weapons/takeout_spagetti"},
 		{"predicate": {"custom_model_data":     776}, "model":"item/weapons/takeout_yakitori"},
+		{"predicate": {"custom_model_data":     777}, "model":"item/weapons/origin12_nightvision"},
 
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
