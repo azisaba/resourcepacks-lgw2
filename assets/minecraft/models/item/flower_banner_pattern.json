@@ -791,6 +791,7 @@
 		{"predicate": {"custom_model_data":     784}, "model":"item/weapons/mondoragonm1908"},
 		{"predicate": {"custom_model_data":     785}, "model":"item/weapons/mp444"},
 		{"predicate": {"custom_model_data":     786}, "model":"item/weapons/origin12_nightvision"},
+		{"predicate": {"custom_model_data":     787}, "model":"item/weapons/scarl_black_scope"},
 
 	
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
