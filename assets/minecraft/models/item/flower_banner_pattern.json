@@ -795,6 +795,7 @@
 		{"predicate": {"custom_model_data":     788}, "model":"item/weapons/fnballista_r9000"},
 		{"predicate": {"custom_model_data":     789}, "model":"item/weapons/ak47_inv"},
 		{"predicate": {"custom_model_data":     790}, "model":"item/weapons/rugerblackhawk"},
+		{"predicate": {"custom_model_data":     791}, "model":"item/weapons/mp155_ultima"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
