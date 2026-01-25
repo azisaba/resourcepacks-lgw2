@@ -50,7 +50,9 @@
 		{"predicate": {"custom_model_data":       42}, "model":"item/weapons/icecrystal"},
 		{"predicate": {"custom_model_data":       43}, "model":"item/weapons/rena_empty"},
 		{"predicate": {"custom_model_data":       44}, "model":"item/weapons/2025winter_third_2"},
-		{"predicate": {"custom_model_data":       45}, "model":"item/weapons/dollstone"}
+		{"predicate": {"custom_model_data":       45}, "model":"item/weapons/dollstone"},
+		{"predicate": {"custom_model_data":       46}, "model":"item/weapons/xmas2025goldmedal_proof"},
+		{"predicate": {"custom_model_data":       47}, "model":"item/weapons/xmas2025silvermedal_proof"}
 		
        ]
 }        
