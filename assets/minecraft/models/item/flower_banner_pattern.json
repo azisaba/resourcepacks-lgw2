@@ -797,6 +797,8 @@
 		{"predicate": {"custom_model_data":     790}, "model":"item/weapons/rugerblackhawk"},
 		{"predicate": {"custom_model_data":     791}, "model":"item/weapons/mp155_ultima"},
 		{"predicate": {"custom_model_data":     792}, "model":"item/weapons/nc_karambitknife_siildo"},
+		{"predicate": {"custom_model_data":     793}, "model":"item/weapons/apc308"},
+		{"predicate": {"custom_model_data":     794}, "model":"item/weapons/apc308_db"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
