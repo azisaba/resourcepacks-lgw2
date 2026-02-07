@@ -800,6 +800,10 @@
 		{"predicate": {"custom_model_data":     793}, "model":"item/weapons/apc308"},
 		{"predicate": {"custom_model_data":     794}, "model":"item/weapons/apc308_db"},
 		{"predicate": {"custom_model_data":     795}, "model":"item/weapons/nc_awp_naturi0306"},
+		{"predicate": {"custom_model_data":     796}, "model":"item/weapons/lasergun_red"},
+		{"predicate": {"custom_model_data":     797}, "model":"item/weapons/lasergun_blue"},
+		{"predicate": {"custom_model_data":     798}, "model":"item/weapons/lasergun_red_cm"},
+		{"predicate": {"custom_model_data":     799}, "model":"item/weapons/lasergun_blue_cm"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
