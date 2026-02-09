@@ -805,6 +805,7 @@
 		{"predicate": {"custom_model_data":     798}, "model":"item/weapons/lasergun_red_cm"},
 		{"predicate": {"custom_model_data":     799}, "model":"item/weapons/lasergun_blue_cm"},
 	    {"predicate": {"custom_model_data":     800}, "model":"item/weapons/lasergun_gaming_cm"},
+		{"predicate": {"custom_model_data":     801}, "model":"item/weapons/nc_kar98kwhiteshark_akimarugon"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
