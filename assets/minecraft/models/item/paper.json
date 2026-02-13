@@ -36,6 +36,7 @@
 		{"predicate": {"custom_model_data":       27}, "model":"item/weapons/hazurefall"},
 		{"predicate": {"custom_model_data":       28}, "model":"item/weapons/dogtag"},
 		{"predicate": {"custom_model_data":       29}, "model":"item/weapons/ticket_winter"},
-		{"predicate": {"custom_model_data":       30}, "model":"item/weapons/priticket"}
+		{"predicate": {"custom_model_data":       30}, "model":"item/weapons/priticket"},
+		{"predicate": {"custom_model_data":       31}, "model":"item/weapons/2026vt_item_hazu"}
        ]
 }        
