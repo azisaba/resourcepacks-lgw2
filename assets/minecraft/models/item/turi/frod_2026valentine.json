@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/frod_2026valentine",
-		"particle": "item/frod_2026valentine"
+		"layer0": "item/turi/frod_2026valentine",
+		"particle": "item/turi/frod_2026valentine"
 	},
 	"display": {
 		"thirdperson_righthand": {
