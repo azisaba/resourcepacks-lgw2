@@ -59,7 +59,11 @@
 		{"predicate": {"custom_model_data":       51}, "model":"item/weapons/2026vt_item2"},
 		{"predicate": {"custom_model_data":       52}, "model":"item/weapons/2026vt_item3"},
 		{"predicate": {"custom_model_data":       53}, "model":"item/weapons/2026vt_item4"},
-		{"predicate": {"custom_model_data":       54}, "model":"item/weapons/2026valentine_key"}
+		{"predicate": {"custom_model_data":       54}, "model":"item/weapons/2026valentine_key"},
+		{"predicate": {"custom_model_data":       55}, "model":"item/weapons/2026vt_item5"},
+		{"predicate": {"custom_model_data":       56}, "model":"item/weapons/2026vt_item6"},
+		{"predicate": {"custom_model_data":       57}, "model":"item/weapons/2026vt_item7"}
+
 
 		
        ]
