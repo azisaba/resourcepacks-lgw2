@@ -810,6 +810,8 @@
 		{"predicate": {"custom_model_data":     803}, "model":"item/weapons/walthermp_eisen"},
 		{"predicate": {"custom_model_data":     804}, "model":"item/weapons/scarl_cible"},
 		{"predicate": {"custom_model_data":     805}, "model":"item/weapons/origin12_divinus"},
+		{"predicate": {"custom_model_data":     806}, "model":"item/weapons/fnballista_soe"},
+		{"predicate": {"custom_model_data":     807}, "model":"item/weapons/fnballista_soereload"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
