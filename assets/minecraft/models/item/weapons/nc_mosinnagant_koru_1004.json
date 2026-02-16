@@ -3,7 +3,7 @@
 	"credit": "Made with HenGenWorksTeam",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/mosin_co"
+		"layer0": "item/nc_mosinnagant_koru_1004"
 	},
 	"display": {
 		"thirdperson_righthand": {
