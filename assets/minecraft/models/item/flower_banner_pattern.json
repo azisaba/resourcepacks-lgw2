@@ -815,6 +815,11 @@
 		{"predicate": {"custom_model_data":     808}, "model":"item/weapons/nc_mosinnagant_koru_1004"},
 		{"predicate": {"custom_model_data":     809}, "model":"item/weapons/scorpionevo3"},
 		{"predicate": {"custom_model_data":     810}, "model":"item/weapons/nc_apache_knife_mashlime"},
+		{"predicate": {"custom_model_data":     811}, "model":"item/weapons/an94_mod"},
+		{"predicate": {"custom_model_data":     812}, "model":"item/weapons/dualgrenade"},
+		{"predicate": {"custom_model_data":     813}, "model":"item/weapons/dynamite"},
+		{"predicate": {"custom_model_data":     814}, "model":"item/weapons/fliegerfaust"},
+		{"predicate": {"custom_model_data":     815}, "model":"item/weapons/remington_m700"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
