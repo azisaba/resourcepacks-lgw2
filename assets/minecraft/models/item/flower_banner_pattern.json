@@ -814,7 +814,7 @@
 		{"predicate": {"custom_model_data":     807}, "model":"item/weapons/fnballista_soereload"},
 		{"predicate": {"custom_model_data":     808}, "model":"item/weapons/nc_mosinnagant_koru_1004"},
 		{"predicate": {"custom_model_data":     809}, "model":"item/weapons/scorpionevo3"},
-		{"predicate": {"custom_model_data":     809}, "model":"item/weapons/nc_apache_knife_mashlime"},
+		{"predicate": {"custom_model_data":     810}, "model":"item/weapons/nc_apache_knife_mashlime"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
