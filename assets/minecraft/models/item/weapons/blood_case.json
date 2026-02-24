@@ -1,0 +1,54 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/blood_case",
+		"particle": "item/blood_case"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -90, 0],
+			"translation": [-0.5, -2, -1.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -90, 0],
+			"translation": [-0.5, -2, -1.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [5.25, 0.75, -0.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [5.25, 0.75, -0.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1.25, 0],
+			"scale": [0.6, 0.6, 1]
+		},
+		"gui": {
+			"translation": [0, 1, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -23, -6.25],
+			"scale": [0.9, 0.9, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 1.5, 0],
+			"scale": [1.2, 1.2, 2]
+		},
+		"on_shelf": {
+			"translation": [1.25, 0, 0],
+			"scale": [0.7225, 0.7225, 0.7225]
+		}
+	}
+}

@@ -820,6 +820,7 @@
 		{"predicate": {"custom_model_data":     813}, "model":"item/weapons/dynamite"},
 		{"predicate": {"custom_model_data":     814}, "model":"item/weapons/fliegerfaust"},
 		{"predicate": {"custom_model_data":     815}, "model":"item/weapons/remington_m700"},
+		{"predicate": {"custom_model_data":     816}, "model":"item/weapons/blood_case"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
