@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/deflection_shield"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-107, 20, 160],
+			"translation": [11, -12, 20],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [73, -20, 20],
+			"translation": [11, -12, 20],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [46.63, 57.48, -48.02],
+			"translation": [-2, 5.75, 4.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-132.68, -60.15, -132.25],
+			"translation": [-2, 5.75, 4.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [-120, 90, 75],
+			"translation": [0.25, 5, 0.25],
+			"scale": [1.2, 1.2, 1]
+		},
+		"gui": {
+			"rotation": [-180, -180, 171],
+			"translation": [0.5, -0.75, 0],
+			"scale": [0.9, 0.9, 1]
+		},
+		"head": {
+			"rotation": [-18.25, 90, 0],
+			"translation": [0, -0.5, 30.75],
+			"scale": [3, 3, 2]
+		},
+		"fixed": {
+			"rotation": [-180, 0, 154],
+			"translation": [-0.5, -2, 0],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}
