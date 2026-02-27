@@ -9,6 +9,6 @@
 		{"predicate": {"custom_model_data":2}, "model": "item/turi/hw_frod"},
 		{"predicate": {"custom_model_data":3}, "model": "item/turi/turizao_haru"},
 		{"predicate": {"custom_model_data":4}, "model": "item/turi/frod_2026valentine"},
-		{"predicate": {"custom_model_data":5}, "model": "item/turi/redtsuri"}
+		{"predicate": {"custom_model_data":5}, "model": "item/turi/bluetsuri"}
 	]
 }
