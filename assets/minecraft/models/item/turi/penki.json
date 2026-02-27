@@ -1,9 +1,8 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"particle": "items/turi/penki",
-		"layer0": "items/turi/penki"
+		"particle": "item/turi/penki",
+		"layer0": "item/turi/penki"
 	},
 	"display": {
 		"thirdperson_righthand": {
