@@ -826,6 +826,7 @@
 		{"predicate": {"custom_model_data":     819}, "model":"item/weapons/galil_2026vt"},
 		{"predicate": {"custom_model_data":     820}, "model":"item/weapons/ukm_2026vt"},
 		{"predicate": {"custom_model_data":     821}, "model":"item/weapons/supershorty_2026vt"},
+		{"predicate": {"custom_model_data":     822}, "model":"item/weapons/m24_leadingtheway"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
