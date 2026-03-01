@@ -64,7 +64,12 @@
 		{"predicate": {"custom_model_data":       56}, "model":"item/weapons/2026vt_item6"},
 		{"predicate": {"custom_model_data":       57}, "model":"item/weapons/2026vt_item7"},
 		{"predicate": {"custom_model_data":       58}, "model":"item/weapons/2026valentine_newkey"},
-		{"predicate": {"custom_model_data":       59}, "model":"item/turi/penki"}
+		{"predicate": {"custom_model_data":       59}, "model":"item/turi/penki"},
+		{"predicate": {"custom_model_data":       60}, "model":"item/maizoukinbox/2026vt_treasure_2"},
+		{"predicate": {"custom_model_data":       61}, "model":"item/maizoukinbox/2026vt_treasure_3"},
+		{"predicate": {"custom_model_data":       62}, "model":"item/maizoukinbox/2026vt_treasure_4"},
+		{"predicate": {"custom_model_data":       63}, "model":"item/maizoukinbox/2026vt_treasure_5"},
+		{"predicate": {"custom_model_data":       64}, "model":"item/maizoukinbox/2026vt_treasure_6"}
 
 
 		
