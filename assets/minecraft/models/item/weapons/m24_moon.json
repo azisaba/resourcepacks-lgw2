@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/m24_moon",
+		"particle": "item/m24_moon"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 0.75, -2.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 0.75, -2.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [5.75, 2.25, -4.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [5.75, 2.25, -4.25]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1, 0]
+		},
+		"gui": {
+			"translation": [0.75, 0, 0]
+		},
+		"head": {
+			"rotation": [0, -180, 45],
+			"translation": [0, 10.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-2, 0, 0],
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}
