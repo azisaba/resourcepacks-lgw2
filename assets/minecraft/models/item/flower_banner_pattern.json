@@ -832,7 +832,7 @@
 		{"predicate": {"custom_model_data":     825}, "model":"item/weapons/ak12_flame"},
 		{"predicate": {"custom_model_data":     826}, "model":"item/weapons/honeybadger_magic"},
 		{"predicate": {"custom_model_data":     827}, "model":"item/weapons/m24_moon"},
-		{"predicate": {"custom_model_data":     828}, "model":"item/weapons/l96a1_moody-cat"},
+		{"predicate": {"custom_model_data":     828}, "model":"item/weapons/l96a1_moodycat"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
