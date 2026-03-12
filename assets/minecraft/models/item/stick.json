@@ -69,7 +69,9 @@
 		{"predicate": {"custom_model_data":       61}, "model":"item/maizoukinbox/2026vt_treasure_3"},
 		{"predicate": {"custom_model_data":       62}, "model":"item/maizoukinbox/2026vt_treasure_4"},
 		{"predicate": {"custom_model_data":       63}, "model":"item/maizoukinbox/2026vt_treasure_5"},
-		{"predicate": {"custom_model_data":       64}, "model":"item/maizoukinbox/2026vt_treasure_6"}
+		{"predicate": {"custom_model_data":       64}, "model":"item/maizoukinbox/2026vt_treasure_6"},
+		{"predicate": {"custom_model_data":       65}, "model":"item/4000vote_coin1"},
+		{"predicate": {"custom_model_data":       66}, "model":"item/4000vote_coin2"}
 
 
 		

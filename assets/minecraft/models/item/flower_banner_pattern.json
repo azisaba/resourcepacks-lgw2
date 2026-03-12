@@ -834,6 +834,10 @@
 		{"predicate": {"custom_model_data":     827}, "model":"item/weapons/m24_moon"},
 		{"predicate": {"custom_model_data":     828}, "model":"item/weapons/l96a1_moodycat"},
 		{"predicate": {"custom_model_data":     829}, "model":"item/weapons/cz75_cosmicbreak"},
+		{"predicate": {"custom_model_data":     830}, "model":"item/weapons/browning_m2"},
+		{"predicate": {"custom_model_data":     831}, "model":"item/weapons/m200"},
+		{"predicate": {"custom_model_data":     832}, "model":"item/weapons/rv_04"},
+		{"predicate": {"custom_model_data":     833}, "model":"item/weapons/zk_383"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
