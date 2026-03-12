@@ -839,6 +839,7 @@
 		{"predicate": {"custom_model_data":     832}, "model":"item/weapons/rv_04"},
 		{"predicate": {"custom_model_data":     834}, "model":"item/weapons/x95r"},
 		{"predicate": {"custom_model_data":     835}, "model":"item/weapons/zk_383"},
+		{"predicate": {"custom_model_data":     836}, "model":"item/weapons/suginoki"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
