@@ -1,7 +1,7 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"parent": "item/handheld",
+	"parent": "item/stick",
 	"textures": {
 		"layer0": "item/4000vote_coin1",
 		"particle": "item/4000vote_coin1"
