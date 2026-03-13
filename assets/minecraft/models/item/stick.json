@@ -71,7 +71,8 @@
 		{"predicate": {"custom_model_data":       63}, "model":"item/maizoukinbox/2026vt_treasure_5"},
 		{"predicate": {"custom_model_data":       64}, "model":"item/maizoukinbox/2026vt_treasure_6"},
 		{"predicate": {"custom_model_data":       65}, "model":"item/weapons/4000vote_coin1"},
-		{"predicate": {"custom_model_data":       66}, "model":"item/weapons/4000vote_coin2"}
+		{"predicate": {"custom_model_data":       66}, "model":"item/weapons/4000vote_coin2"},
+		{"predicate": {"custom_model_data":       67}, "model":"item/weapons/4000vote_key"}
 
 
 		
