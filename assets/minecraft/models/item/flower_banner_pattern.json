@@ -844,6 +844,7 @@
 		{"predicate": {"custom_model_data":     838}, "model":"item/weapons/molotov"},
 		{"predicate": {"custom_model_data":     839}, "model":"item/weapons/nc_vorpalbunny_shinkuma_cloud"},
 		{"predicate": {"custom_model_data":     840}, "model":"item/weapons/x95r_uranium"},
+		{"predicate": {"custom_model_data":     841}, "model":"item/weapons/nc_hiraishin_chrisreeve"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
