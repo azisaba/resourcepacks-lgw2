@@ -1,10 +1,9 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/handheld",
+	"parent": "item/handheld",
 	"textures": {
-		"1": "item/nc_hiraishin_wakasyu",
-		"particle": "item/nc_hiraishin_wakasyu"
+		"layer0": "item/nc_hiraishin_wakasyu"
 	},
 	"display": {
 		"thirdperson_righthand": {
