@@ -1,0 +1,39 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"1": "item/nc_hiraishin_wakasyu",
+		"particle": "item/nc_hiraishin_wakasyu"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [83, -90, 110],
+			"translation": [-0.5, 6.75, 6.5],
+			"scale": [1.5, 1.5, 0.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-40, -90, 110],
+			"translation": [-0.5, -11, 6],
+			"scale": [1.5, 1.5, 0.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [48, -90, 110],
+			"translation": [7.25, 6.5, -2.75],
+			"scale": [1.4, 1.4, 0.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [100, -180, -125],
+			"translation": [-4.5, 4.75, 4.25],
+			"scale": [1, 1, 0.65]
+		},
+		"gui": {
+			"rotation": [0, -180, 166]
+		},
+		"head": {
+			"rotation": [0, 0, -160],
+			"translation": [0.25, -16, 5.75],
+			"scale": [2.2, 2.2, 1.2]
+		}
+	}
+}
