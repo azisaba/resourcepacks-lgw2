@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/NC_VorpalBunny_shinkuma_cloud",
-		"particle": "item/NC_VorpalBunny_shinkuma_cloud"
+		"layer0": "item/nc_vorpalbunny_shinkuma_cloud",
+		"particle": "item/nc_vorpalbunny_shinkuma_cloud"
 	},
 	"display": {
 		"thirdperson_righthand": {
