@@ -38,6 +38,15 @@
 		{"predicate": {"custom_model_data":       29}, "model":"item/weapons/ticket_winter"},
 		{"predicate": {"custom_model_data":       30}, "model":"item/weapons/priticket"},
 		{"predicate": {"custom_model_data":       31}, "model":"item/weapons/2026vt_item_hazu"},
-		{"predicate": {"custom_model_data":       32}, "model":"item/weapons/4000vote_ticket"}
+		{"predicate": {"custom_model_data":       32}, "model":"item/weapons/4000vote_ticket"},
+		{"predicate": {"custom_model_data":       33}, "model":"item/weapons/rinon_tanzaku"},
+		{"predicate": {"custom_model_data":       34}, "model":"item/weapons/rena_tanzaku"},
+		{"predicate": {"custom_model_data":       35}, "model":"item/weapons/erica_tanzaku"},
+		{"predicate": {"custom_model_data":       36}, "model":"item/weapons/sasha_tanzaku"},
+		{"predicate": {"custom_model_data":       37}, "model":"item/weapons/kaho_tanzaku"},
+		{"predicate": {"custom_model_data":       38}, "model":"item/weapons/sielle_tanzaku"},
+		{"predicate": {"custom_model_data":       39}, "model":"item/weapons/yuina_tanzaku"},
+		{"predicate": {"custom_model_data":       40}, "model":"item/weapons/tiharu_tanzaku"}
+
        ]
 }        
