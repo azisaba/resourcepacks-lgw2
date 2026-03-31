@@ -857,6 +857,8 @@
 		{"predicate": {"custom_model_data":     851}, "model":"item/weapons/phoenichika"},
 		{"predicate": {"custom_model_data":     852}, "model":"item/weapons/yellen"},
 		{"predicate": {"custom_model_data":     853}, "model":"item/weapons/neve"},
+		{"predicate": {"custom_model_data":     854}, "model":"item/weapons/spas15"},
+		{"predicate": {"custom_model_data":     855}, "model":"item/weapons/spas15sa"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
