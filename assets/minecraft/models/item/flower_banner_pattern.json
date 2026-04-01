@@ -859,6 +859,15 @@
 		{"predicate": {"custom_model_data":     853}, "model":"item/weapons/neve"},
 		{"predicate": {"custom_model_data":     854}, "model":"item/weapons/spas15"},
 		{"predicate": {"custom_model_data":     855}, "model":"item/weapons/spas15sa"},
+		{"predicate": {"custom_model_data":     856}, "model":"item/weapons/rinon_classic"},
+		{"predicate": {"custom_model_data":     857}, "model":"item/weapons/rena_classic"},
+		{"predicate": {"custom_model_data":     858}, "model":"item/weapons/erica_classic"},
+		{"predicate": {"custom_model_data":     859}, "model":"item/weapons/sielle_classic"},
+		{"predicate": {"custom_model_data":     860}, "model":"item/weapons/sasha_classic"},
+		{"predicate": {"custom_model_data":     861}, "model":"item/weapons/kaho_classic"},
+		{"predicate": {"custom_model_data":     862}, "model":"item/weapons/tiharu_classic"},
+		{"predicate": {"custom_model_data":     863}, "model":"item/weapons/yuina_classic"},
+		{"predicate": {"custom_model_data":     864}, "model":"item/weapons/phoenichika_classic"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},

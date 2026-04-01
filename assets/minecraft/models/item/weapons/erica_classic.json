@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/erica_classic",
+		"particle": "item/erica_classic"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 0.75, -0.75],
+			"scale": [0.65, 0.65, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 0.75, -0.75],
+			"scale": [0.65, 0.65, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [3.5, 2.25, -0.75],
+			"scale": [0.65, 0.65, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [3.5, 2.25, -0.75],
+			"scale": [0.65, 0.65, 0.7]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.65, 0.65, 0.7]
+		},
+		"gui": {
+			"translation": [-0.75, 1.75, 0]
+		},
+		"head": {
+			"rotation": [0, -180, 45],
+			"translation": [1, 10.5, 0],
+			"scale": [0.975, 0.975, 1.025]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0.75, 2, 0],
+			"scale": [1.2, 1.2, 1.25]
+		}
+	}
+}
