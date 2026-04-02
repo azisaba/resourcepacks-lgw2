@@ -887,6 +887,11 @@
 		{"predicate": {"custom_model_data":     881}, "model":"item/weapons/hk416a5"},
 		{"predicate": {"custom_model_data":     882}, "model":"item/weapons/dtmdr_762"},
 		{"predicate": {"custom_model_data":     883}, "model":"item/weapons/rsh12"},
+		{"predicate": {"custom_model_data":     884}, "model":"item/weapons/mp40"},
+		{"predicate": {"custom_model_data":     885}, "model":"item/weapons/k2c1"},
+		{"predicate": {"custom_model_data":     886}, "model":"item/weapons/piratespistol"},
+		{"predicate": {"custom_model_data":     887}, "model":"item/weapons/pulsesg"},
+		{"predicate": {"custom_model_data":     888}, "model":"item/weapons/1am4"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
