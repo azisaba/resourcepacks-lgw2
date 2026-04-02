@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/m1garand_metalcoating",
+		"particle": "item/m1garand_metalcoating"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0.25, 0.75, -1.25],
+			"scale": [0.8, 0.8, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0.25, 0.75, -1.25],
+			"scale": [0.8, 0.8, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [2.5, 3.25, 0.5],
+			"scale": [0.8, 0.8, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [2.5, 3.25, 0.5],
+			"scale": [0.8, 0.8, 0.6]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 2.75, 0],
+			"scale": [0.8, 0.8, 0.6]
+		},
+		"gui": {
+			"translation": [1, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 45],
+			"translation": [-1, 9.75, 0],
+			"scale": [1.2, 1.2, 1]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-1.25, 0, 0],
+			"scale": [1.2, 1.2, 1]
+		}
+	}
+}
