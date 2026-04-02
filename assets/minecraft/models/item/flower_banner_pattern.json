@@ -868,7 +868,17 @@
 		{"predicate": {"custom_model_data":     862}, "model":"item/weapons/tiharu_classic"},
 		{"predicate": {"custom_model_data":     863}, "model":"item/weapons/yuina_classic"},
 		{"predicate": {"custom_model_data":     864}, "model":"item/weapons/phoenichika_classic"},
-		
+		{"predicate": {"custom_model_data":     865}, "model":"item/weapons/recol_lolita"},
+		{"predicate": {"custom_model_data":     866}, "model":"item/weapons/recol_lolita_rinon"},
+		{"predicate": {"custom_model_data":     867}, "model":"item/weapons/recol_lolita_rena"},
+		{"predicate": {"custom_model_data":     868}, "model":"item/weapons/recol_lolita_erica"},
+		{"predicate": {"custom_model_data":     869}, "model":"item/weapons/recol_lolita_sielle"},
+		{"predicate": {"custom_model_data":     870}, "model":"item/weapons/recol_lolita_sasha"},
+		{"predicate": {"custom_model_data":     871}, "model":"item/weapons/recol_lolita_kaho"},
+		{"predicate": {"custom_model_data":     872}, "model":"item/weapons/recol_lolita_yuina"},
+		{"predicate": {"custom_model_data":     873}, "model":"item/weapons/recol_lolita_tiharu"},
+		{"predicate": {"custom_model_data":     874}, "model":"item/weapons/recol_lolita_yellen"},
+		{"predicate": {"custom_model_data":     875}, "model":"item/weapons/recol_lolita_neave"},
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},

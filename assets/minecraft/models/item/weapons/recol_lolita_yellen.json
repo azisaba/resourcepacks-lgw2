@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/recol_lolita_yellen",
+		"particle": "item/recol_lolita_yellen"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 45],
+			"translation": [0, 3.25, 0],
+			"scale": [0.5, 0.5, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, -45],
+			"translation": [0, 3.25, 0],
+			"scale": [0.5, 0.5, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [1, 3.75, 3.25],
+			"scale": [0.5, 0.5, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [1, 3.75, 3.25],
+			"scale": [0.5, 0.5, 0.8]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.5, 0.5, 0.8]
+		},
+		"gui": {
+			"translation": [0, -0.5, 0]
+		},
+		"head": {
+			"rotation": [0, -180, 45],
+			"translation": [-0.25, 11.5, 0],
+			"scale": [0.75, 0.75, 1.05]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 0, 0],
+			"scale": [1.2, 1.2, 1.5]
+		}
+	}
+}
