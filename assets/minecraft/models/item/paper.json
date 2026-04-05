@@ -47,7 +47,6 @@
 		{"predicate": {"custom_model_data":       38}, "model":"item/weapons/sielle_tanzaku"},
 		{"predicate": {"custom_model_data":       39}, "model":"item/weapons/yuina_tanzaku"},
 		{"predicate": {"custom_model_data":       40}, "model":"item/weapons/tiharu_tanzaku"},
-		{"predicate": {"custom_model_data":       41}, "model":"item/weapons/silver_hazu"},
-
+		{"predicate": {"custom_model_data":       41}, "model":"item/weapons/silver_hazu"}
        ]
 }        
