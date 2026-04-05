@@ -1,0 +1,47 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/silver_hazu",
+		"particle": "item/silver_hazu"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0.75, 0.75],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0.75, 0.75],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"translation": [1, 2.5, 1.5],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -45, 0],
+			"translation": [2.25, 2.5, 1.5],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"ground": {
+			"translation": [0, 1, 0],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"gui": {
+			"translation": [0, -0.75, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 9.5, 0],
+			"scale": [0.6, 0.6, 0.75]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -1.5, 0],
+			"scale": [1, 1, 1.1]
+		}
+	}
+}
