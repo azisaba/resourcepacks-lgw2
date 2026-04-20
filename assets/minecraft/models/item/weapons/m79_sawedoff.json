@@ -1,0 +1,48 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"particle": "item/m79_sawedoff",
+		"layer0": "item/m79_sawedoff"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 1.5, 0],
+			"scale": [1, 1, 1.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 1.5, 0],
+			"scale": [1, 1, 1.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [180, -78.75, -140],
+			"translation": [4, 3.25, -0.5],
+			"scale": [1, 1, 1.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 78.75, -40],
+			"translation": [4, 3.25, -0.5],
+			"scale": [1, 1, 1.1]
+		},
+		"ground": {
+			"rotation": [0, -45, 0],
+			"scale": [1, 1, 1.1]
+		},
+		"gui": {
+			"translation": [2, 0, 0],
+			"scale": [1.8, 1.8, 1.25]
+		},
+		"head": {
+			"rotation": [0, -180, 45],
+			"translation": [-0.5, 9.5, 0],
+			"scale": [1, 1, 1.1]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [1.7, 1.7, 1.5]
+		}
+	}
+}
