@@ -79,5 +79,14 @@
         "volume": 1.0
       }
     ]
+  },
+  "m4a1_ajn": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "shoot/m4a1_ajn",
+        "volume": 1.0
+      }
+    ]
   }
 }
