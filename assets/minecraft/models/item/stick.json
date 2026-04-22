@@ -78,7 +78,7 @@
 		{"predicate": {"custom_model_data":       70}, "model":"item/weapons/harukey1"},
 		{"predicate": {"custom_model_data":       71}, "model":"item/weapons/harukey2"},
 		{"predicate": {"custom_model_data":       72}, "model":"item/weapons/goldenkey"},
-		{"predicate": {"custom_model_data":       73}, "model":"item/weapons/harukey4"},
+		{"predicate": {"custom_model_data":       73}, "model":"item/weapons/harukey4"}
 
        ]
 }        
