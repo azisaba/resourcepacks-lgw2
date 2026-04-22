@@ -74,7 +74,11 @@
 		{"predicate": {"custom_model_data":       66}, "model":"item/weapons/4000vote_coin2"},
 		{"predicate": {"custom_model_data":       67}, "model":"item/weapons/4000vote_key"},
 		{"predicate": {"custom_model_data":       68}, "model":"item/weapons/weldingmachine"},
-		{"predicate": {"custom_model_data":       69}, "model":"item/weapons/rainbow_feather"}
+		{"predicate": {"custom_model_data":       69}, "model":"item/weapons/rainbow_feather"},
+		{"predicate": {"custom_model_data":       70}, "model":"item/weapons/harukey1"},
+		{"predicate": {"custom_model_data":       71}, "model":"item/weapons/harukey2"},
+		{"predicate": {"custom_model_data":       72}, "model":"item/weapons/goldenkey"},
+		{"predicate": {"custom_model_data":       73}, "model":"item/weapons/harukey4"},
 
        ]
 }        
