@@ -914,6 +914,10 @@
 		{"predicate": {"custom_model_data":     908}, "model":"item/weapons/ca09"},
 		{"predicate": {"custom_model_data":     909}, "model":"item/weapons/antithrdharu"},
 		{"predicate": {"custom_model_data":     910}, "model":"item/weapons/ak47sakura"},
+		{"predicate": {"custom_model_data":     911}, "model":"item/weapons/kahun"},
+		{"predicate": {"custom_model_data":     912}, "model":"item/weapons/m4_outlaw"},
+		{"predicate": {"custom_model_data":     913}, "model":"item/weapons/m1900"},
+		{"predicate": {"custom_model_data":     914}, "model":"item/weapons/monoknife"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
