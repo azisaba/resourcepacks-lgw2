@@ -918,6 +918,9 @@
 		{"predicate": {"custom_model_data":     912}, "model":"item/weapons/m4_outlaw"},
 		{"predicate": {"custom_model_data":     913}, "model":"item/weapons/m1900"},
 		{"predicate": {"custom_model_data":     914}, "model":"item/weapons/monoknife"},
+		{"predicate": {"custom_model_data":     915}, "model":"item/weapons/mp9_rg"},
+		{"predicate": {"custom_model_data":     916}, "model":"item/weapons/vhsd_br"},
+		{"predicate": {"custom_model_data":     917}, "model":"item/weapons/ca09_ge"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
