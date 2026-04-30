@@ -921,6 +921,8 @@
 		{"predicate": {"custom_model_data":     915}, "model":"item/weapons/mp9_rg"},
 		{"predicate": {"custom_model_data":     916}, "model":"item/weapons/vhsd_br"},
 		{"predicate": {"custom_model_data":     917}, "model":"item/weapons/ca09_ge"},
+		{"predicate": {"custom_model_data":     918}, "model":"item/weapons/hk433"},
+		{"predicate": {"custom_model_data":     919}, "model":"item/weapons/hk433_la"},
 		
 		
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
