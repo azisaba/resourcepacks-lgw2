@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/slime_ball"
+	},
+	"overrides": [
+
+		{"predicate": {"custom_model_data":       0}, "model":"item/creeper_banner_pattern"},
+
+		{"predicate": {"custom_model_data":       1}, "model":"item/weapons/m67_grenade"}
+       ]
+}        

@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/firework_star",
-		"particle": "item/firework_star"
+		"layer0": "item/m67_grenade",
+		"particle": "item/m67_grenade"
 	},
 	"display": {
 		"thirdperson_righthand": {
