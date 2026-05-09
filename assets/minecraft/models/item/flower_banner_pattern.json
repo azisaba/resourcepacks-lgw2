@@ -932,6 +932,7 @@
 		{"predicate": {"custom_model_data":     926}, "model":"item/weapons/m67_grenade"},
 		{"predicate": {"custom_model_data":     927}, "model":"item/weapons/stungrenade2"},
 		{"predicate": {"custom_model_data":     928}, "model":"item/weapons/smokegrenade2"},
+		{"predicate": {"custom_model_data":     929}, "model":"item/weapons/nc_scarfast_pholynes_veiled"},
 		
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
