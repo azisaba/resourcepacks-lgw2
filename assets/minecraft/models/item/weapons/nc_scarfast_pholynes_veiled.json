@@ -1,0 +1,39 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/nc_scarfast_pholynes_veiled",
+		"particle": "item/nc_scarfast_pholynes_veiled"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [51, -109, 168],
+			"translation": [1.75, 0, -4],
+			"scale": [1, 1, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 59, 176],
+			"translation": [2.25, -0.25, -4.5],
+			"scale": [1, 1, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [-91, 141, 46],
+			"translation": [-4.25, 5.75, 5.5],
+			"scale": [1, 1, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-91, 141, -42],
+			"translation": [-4.25, 6, 6.25],
+			"scale": [1, 1, 0.6]
+		},
+		"gui": {
+			"translation": [0.25, 0, 0],
+			"scale": [1.1, 1.1, 1]
+		},
+		"head": {
+			"translation": [1.25, -16, 4],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}
