@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/koujoukoukan_ticket",
+		"particle": "item/koujoukoukan_ticket"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 90],
+			"translation": [0, 1.75, 0.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -90],
+			"translation": [0, 1.75, 0.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 70],
+			"translation": [5.5, 2.5, -1.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -70],
+			"translation": [5.5, 2.5, -1.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [0, 0, 45],
+			"translation": [0, 0.25, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1, -7.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -1.25, 0],
+			"scale": [1.1, 1.1, 1.1]
+		}
+	}
+}
