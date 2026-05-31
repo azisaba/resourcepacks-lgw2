@@ -935,6 +935,8 @@
 		{"predicate": {"custom_model_data":     929}, "model":"item/weapons/nc_scarfast_pholynes_veiled"},
 		{"predicate": {"custom_model_data":     930}, "model":"item/weapons/combat_knife"},
 		{"predicate": {"custom_model_data":     931}, "model":"item/weapons/wesn"},
+		{"predicate": {"custom_model_data":     932}, "model":"item/weapons/qjy201"},
+		{"predicate": {"custom_model_data":     933}, "model":"item/weapons/qjy201_rh"},
 		
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
