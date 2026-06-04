@@ -937,6 +937,11 @@
 		{"predicate": {"custom_model_data":     931}, "model":"item/weapons/wesn"},
 		{"predicate": {"custom_model_data":     932}, "model":"item/weapons/qjy201"},
 		{"predicate": {"custom_model_data":     933}, "model":"item/weapons/qjy201_rh"},
+		{"predicate": {"custom_model_data":     934}, "model":"item/weapons/m4a1_rainy"},
+		{"predicate": {"custom_model_data":     935}, "model":"item/weapons/cz75_rainy"},
+		{"predicate": {"custom_model_data":     936}, "model":"item/weapons/scorpion_evo3_rainy"},
+		{"predicate": {"custom_model_data":     937}, "model":"item/weapons/mp155_ultima_rainy"},
+		{"predicate": {"custom_model_data":     938}, "model":"item/weapons/awp_rainy"},
 		
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
