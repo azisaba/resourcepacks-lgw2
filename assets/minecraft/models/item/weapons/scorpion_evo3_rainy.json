@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer": "item/scorpion_evo3_rainy",
+		"layer0": "item/scorpion_evo3_rainy",
 		"particle": "item/scorpion_evo3_rainy"
 	},
 	"display": {
