@@ -942,6 +942,9 @@
 		{"predicate": {"custom_model_data":     936}, "model":"item/weapons/scorpion_evo3_rainy"},
 		{"predicate": {"custom_model_data":     937}, "model":"item/weapons/mp155_ultima_rainy"},
 		{"predicate": {"custom_model_data":     938}, "model":"item/weapons/awp_rainy"},
+		{"predicate": {"custom_model_data":     939}, "model":"item/weapons/cz75_graymode"},
+		{"predicate": {"custom_model_data":     940}, "model":"item/weapons/mp155_graymode"},
+		{"predicate": {"custom_model_data":     941}, "model":"item/weapons/l96a1_graymode"},
 		
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
