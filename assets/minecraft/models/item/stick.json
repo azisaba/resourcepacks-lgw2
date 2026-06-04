@@ -78,7 +78,11 @@
 		{"predicate": {"custom_model_data":       70}, "model":"item/weapons/harukey1"},
 		{"predicate": {"custom_model_data":       71}, "model":"item/weapons/harukey2"},
 		{"predicate": {"custom_model_data":       72}, "model":"item/weapons/goldenkey"},
-		{"predicate": {"custom_model_data":       73}, "model":"item/weapons/harukey4"}
+		{"predicate": {"custom_model_data":       73}, "model":"item/weapons/2026rainykey_step1"},
+		{"predicate": {"custom_model_data":       74}, "model":"item/weapons/2026rainykey_step2"},
+		{"predicate": {"custom_model_data":       75}, "model":"item/weapons/prismcore"},
+		{"predicate": {"custom_model_data":       76}, "model":"item/weapons/tsuyu"},
+		{"predicate": {"custom_model_data":       77}, "model":"item/weapons/wet_shard"}
 
        ]
 }        
