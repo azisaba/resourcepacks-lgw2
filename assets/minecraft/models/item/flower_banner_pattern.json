@@ -950,7 +950,7 @@
 		{"predicate": {"custom_model_data":     944}, "model":"item/weapons/l96a1_dop"},
 		{"predicate": {"custom_model_data":     945}, "model":"item/weapons/m4a1_aurora"},
 		{"predicate": {"custom_model_data":     946}, "model":"item/weapons/wolf_lightning_animation"},
-		{"predicate": {"custom_model_data":     947}, "model":"item/walther_p38"},
+		{"predicate": {"custom_model_data":     947}, "model":"item/weapons/walther_p38"},
 		
 		
 
