@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/m4a1_rainy ",
-		"particle": "item/m4a1_rainy "
+		"layer0": "item/m4a1_rainy",
+		"particle": "item/m4a1_rainy"
 	},
 	"display": {
 		"thirdperson_righthand": {
