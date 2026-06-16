@@ -951,6 +951,7 @@
 		{"predicate": {"custom_model_data":     945}, "model":"item/weapons/m4a1_aurora"},
 		{"predicate": {"custom_model_data":     946}, "model":"item/weapons/wolf_lightning_animation"},
 		{"predicate": {"custom_model_data":     947}, "model":"item/weapons/walther_p38"},
+		{"predicate": {"custom_model_data":     948}, "model":"item/weapons/nc_aek971_mashlime"},
 		
 		
 
