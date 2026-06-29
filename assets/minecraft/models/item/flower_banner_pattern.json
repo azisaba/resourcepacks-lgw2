@@ -954,6 +954,7 @@
 		{"predicate": {"custom_model_data":     948}, "model":"item/weapons/nc_aek971_mashlime"},
 		{"predicate": {"custom_model_data":     949}, "model":"item/weapons/hkfabarm_fp6"},
 		{"predicate": {"custom_model_data":     950}, "model":"item/weapons/hkfabarm_fp6_mm"},
+		{"predicate": {"custom_model_data":     951}, "model":"item/weapons/ak12_bc"},
 		
 		
 
