@@ -952,6 +952,8 @@
 		{"predicate": {"custom_model_data":     946}, "model":"item/weapons/wolf_lightning_animation"},
 		{"predicate": {"custom_model_data":     947}, "model":"item/weapons/walther_p38"},
 		{"predicate": {"custom_model_data":     948}, "model":"item/weapons/nc_aek971_mashlime"},
+		{"predicate": {"custom_model_data":     949}, "model":"item/weapons/hkfabarm_fp6"},
+		{"predicate": {"custom_model_data":     950}, "model":"item/weapons/hkfabarm_fp6_mm"},
 		
 		
 
