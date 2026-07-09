@@ -982,6 +982,8 @@
 		{"predicate": {"custom_model_data":     973}, "model":"item/weapons/aa12_starry_overdrive"},
 		{"predicate": {"custom_model_data":     974}, "model":"item/weapons/hkmp5_starry_sprinting"},
 		{"predicate": {"custom_model_data":     975}, "model":"item/weapons/mk14_starry_explosive"},
+		{"predicate": {"custom_model_data":     976}, "model":"item/weapons/dp28_srn"},
+		{"predicate": {"custom_model_data":     977}, "model":"item/weapons/psg1_womw"},
 		
 		
 
