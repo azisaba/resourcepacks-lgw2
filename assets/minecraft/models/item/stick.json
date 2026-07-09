@@ -82,7 +82,12 @@
 		{"predicate": {"custom_model_data":       74}, "model":"item/weapons/2026rainykey_step2"},
 		{"predicate": {"custom_model_data":       75}, "model":"item/weapons/prismcore"},
 		{"predicate": {"custom_model_data":       76}, "model":"item/weapons/tsuyu"},
-		{"predicate": {"custom_model_data":       77}, "model":"item/weapons/wet_shard"}
+		{"predicate": {"custom_model_data":       77}, "model":"item/weapons/wet_shard"},
+		{"predicate": {"custom_model_data":       78}, "model":"item/weapons/small_stardust"},
+		{"predicate": {"custom_model_data":       79}, "model":"item/weapons/large_stardust"},
+		{"predicate": {"custom_model_data":       80}, "model":"item/weapons/glass_stick"},
+		{"predicate": {"custom_model_data":       81}, "model":"item/weapons/tanzaku_negai"},
+		{"predicate": {"custom_model_data":       82}, "model":"item/weapons/planetarium_cloth"}
 
        ]
 }        
