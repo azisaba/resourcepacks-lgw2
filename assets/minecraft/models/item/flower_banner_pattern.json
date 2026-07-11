@@ -979,11 +979,11 @@
 		{"predicate": {"custom_model_data":     973}, "model":"item/weapons/fnfal_starry_quad"},
 		{"predicate": {"custom_model_data":     974}, "model":"item/weapons/m249_starry_silent"},
 		{"predicate": {"custom_model_data":     975}, "model":"item/weapons/m1911_starry_zapping"},
-		{"predicate": {"custom_model_data":     973}, "model":"item/weapons/aa12_starry_overdrive"},
-		{"predicate": {"custom_model_data":     974}, "model":"item/weapons/hkmp5_starry_sprinting"},
-		{"predicate": {"custom_model_data":     975}, "model":"item/weapons/mk14_starry_explosive"},
-		{"predicate": {"custom_model_data":     976}, "model":"item/weapons/dp28_srn"},
-		{"predicate": {"custom_model_data":     977}, "model":"item/weapons/psg1_womw"},
+		{"predicate": {"custom_model_data":     976}, "model":"item/weapons/aa12_starry_overdrive"},
+		{"predicate": {"custom_model_data":     977}, "model":"item/weapons/hkmp5_starry_sprinting"},
+		{"predicate": {"custom_model_data":     978}, "model":"item/weapons/mk14_starry_explosive"},
+		{"predicate": {"custom_model_data":     979}, "model":"item/weapons/dp28_srn"},
+		{"predicate": {"custom_model_data":     980}, "model":"item/weapons/psg1_womw"},
 		
 		
 
