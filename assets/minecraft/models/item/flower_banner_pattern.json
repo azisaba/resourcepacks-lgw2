@@ -984,6 +984,9 @@
 		{"predicate": {"custom_model_data":     978}, "model":"item/weapons/mk14_starry_explosive"},
 		{"predicate": {"custom_model_data":     979}, "model":"item/weapons/dp28_srn"},
 		{"predicate": {"custom_model_data":     980}, "model":"item/weapons/psg1_womw"},
+		{"predicate": {"custom_model_data":     981}, "model":"item/weapons/fnf2000_cr"},
+		{"predicate": {"custom_model_data":     982}, "model":"item/weapons/vss_rb"},
+		{"predicate": {"custom_model_data":     983}, "model":"item/weapons/m82a3_bn"},
 		
 		
 
