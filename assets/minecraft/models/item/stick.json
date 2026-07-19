@@ -89,6 +89,7 @@
 		{"predicate": {"custom_model_data":       81}, "model":"item/weapons/tanzaku_negai"},
 		{"predicate": {"custom_model_data":       82}, "model":"item/weapons/planetarium_cloth"},
         {"predicate": {"custom_model_data":       83}, "model":"item/weapons/tanabata_gacha_key_first"},
-        {"predicate": {"custom_model_data":       84}, "model":"item/weapons/tanabata_gacha_key_second"}
+        {"predicate": {"custom_model_data":       84}, "model":"item/weapons/tanabata_gacha_key_second"},
+		{"predicate": {"custom_model_data":       85}, "model":"item/weapons/d_ticket_shikure"}
        ]
 }
