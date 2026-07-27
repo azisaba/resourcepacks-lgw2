@@ -1008,6 +1008,8 @@
 		{"predicate": {"custom_model_data":    1002}, "model":"item/weapons/d_saiga12_shikure"},
 		{"predicate": {"custom_model_data":    1003}, "model":"item/weapons/d_tar21_shikure"},
 		{"predicate": {"custom_model_data":    1004}, "model":"item/weapons/d_type89_shikure"},
+		{"predicate": {"custom_model_data":    1005}, "model":"item/weapons/coltwoodsman"},
+		{"predicate": {"custom_model_data":    1006}, "model":"item/weapons/coltwoodsman_fs"},
 		
 		
 		
