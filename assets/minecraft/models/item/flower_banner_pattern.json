@@ -1010,6 +1010,7 @@
 		{"predicate": {"custom_model_data":    1004}, "model":"item/weapons/d_type89_shikure"},
 		{"predicate": {"custom_model_data":    1005}, "model":"item/weapons/coltwoodsman"},
 		{"predicate": {"custom_model_data":    1006}, "model":"item/weapons/coltwoodsman_fs"},
+		{"predicate": {"custom_model_data":    1007}, "model":"item/weapons/ak47_warwave"},
 		
 		
 		
