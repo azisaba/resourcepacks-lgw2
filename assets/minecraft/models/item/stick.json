@@ -91,6 +91,9 @@
         {"predicate": {"custom_model_data":       83}, "model":"item/weapons/tanabata_gacha_key_first"},
         {"predicate": {"custom_model_data":       84}, "model":"item/weapons/tanabata_gacha_key_second"},
 		{"predicate": {"custom_model_data":       85}, "model":"item/weapons/d_ticket_shikure"},
-		{"predicate": {"custom_model_data":       86}, "model":"item/weapons/harturoko"}
+		{"predicate": {"custom_model_data":       86}, "model":"item/weapons/harturoko"},
+		{"predicate": {"custom_model_data":       87}, "model":"item/weapons/she_first_key"},
+		{"predicate": {"custom_model_data":       88}, "model":"item/weapons/she_second_key"},
+		{"predicate": {"custom_model_data":       89}, "model":"item/weapons/she_third_key"}
        ]
 }
