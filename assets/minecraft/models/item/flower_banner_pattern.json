@@ -1042,6 +1042,9 @@
 		{"predicate": {"custom_model_data":    1036}, "model":"item/weapons/cz75_texcontest_2"},
 		{"predicate": {"custom_model_data":    1037}, "model":"item/weapons/cz75_texcontest_3"},
 		{"predicate": {"custom_model_data":    1038}, "model":"item/weapons/zh29"},
+		{"predicate": {"custom_model_data":    1039}, "model":"item/weapons/ks23"},
+		{"predicate": {"custom_model_data":    1040}, "model":"item/weapons/mat49"},
+		{"predicate": {"custom_model_data":    1041}, "model":"item/weapons/villarperosa"},
 		
 		
 		
