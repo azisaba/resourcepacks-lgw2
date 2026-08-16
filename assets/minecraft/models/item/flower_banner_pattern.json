@@ -1035,6 +1035,13 @@
 		{"predicate": {"custom_model_data":    1029}, "model":"item/weapons/xm8_wj"},
 		{"predicate": {"custom_model_data":    1030}, "model":"item/weapons/m4a1_blackbird"},
 		{"predicate": {"custom_model_data":    1031}, "model":"item/weapons/type89_whitebird"},
+		{"predicate": {"custom_model_data":    1032}, "model":"item/weapons/wesn_texcontest_1"},
+		{"predicate": {"custom_model_data":    1033}, "model":"item/weapons/wesn_texcontest_2"},
+		{"predicate": {"custom_model_data":    1034}, "model":"item/weapons/wesn_texcontest_3"},
+		{"predicate": {"custom_model_data":    1035}, "model":"item/weapons/cz75_texcontest_1"},
+		{"predicate": {"custom_model_data":    1036}, "model":"item/weapons/cz75_texcontest_2"},
+		{"predicate": {"custom_model_data":    1037}, "model":"item/weapons/cz75_texcontest_3"},
+		
 		
 		
 		
