@@ -1041,6 +1041,7 @@
 		{"predicate": {"custom_model_data":    1035}, "model":"item/weapons/cz75_texcontest_1"},
 		{"predicate": {"custom_model_data":    1036}, "model":"item/weapons/cz75_texcontest_2"},
 		{"predicate": {"custom_model_data":    1037}, "model":"item/weapons/cz75_texcontest_3"},
+		{"predicate": {"custom_model_data":    1038}, "model":"item/weapons/zh29"},
 		
 		
 		
