@@ -1045,6 +1045,7 @@
 		{"predicate": {"custom_model_data":    1039}, "model":"item/weapons/ks23"},
 		{"predicate": {"custom_model_data":    1040}, "model":"item/weapons/mat49"},
 		{"predicate": {"custom_model_data":    1041}, "model":"item/weapons/villarperosa"},
+		{"predicate": {"custom_model_data":    1042}, "model":"item/weapons/aa52_empty"},
 		
 		
 		
