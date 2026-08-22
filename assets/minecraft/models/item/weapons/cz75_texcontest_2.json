@@ -1,0 +1,47 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/cz75_texcontest_2"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-23, -90, 0],
+			"translation": [0, 0.25, 0.25],
+			"scale": [0.5, 0.5, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [23, 90, -45],
+			"translation": [0, 0.25, 0.25],
+			"scale": [0.5, 0.5, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-168.25, -84, -146],
+			"translation": [1.25, 4.25, 2.5],
+			"scale": [0.5, 0.5, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [9.5, 84, -34],
+			"translation": [1.25, 4.25, 2.5],
+			"scale": [0.5, 0.5, 0.7]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"translation": [-0.25, 0, 0]
+		},
+		"head": {
+			"rotation": [-26.75, -90, 0],
+			"translation": [0, 6.75, -8],
+			"scale": [1, 1, 1.2]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0.5, 0, 0],
+			"scale": [1.2, 1.2, 1.4]
+		}
+	}
+}

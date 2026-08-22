@@ -1,0 +1,43 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wesn_texcontest_3"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -90, 45],
+			"translation": [0, 5, 0.75],
+			"scale": [2.4, 2.4, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 90, 0],
+			"translation": [0, 4.25, 0.75],
+			"scale": [2.4, 2.4, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [173.25, -84, -146],
+			"translation": [1.25, 4.25, 1.5],
+			"scale": [1.4, 1.4, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-6, 84, -34],
+			"translation": [1.25, 4.25, 1.5],
+			"scale": [1.4, 1.4, 0.8]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"translation": [0.25, -13.25, 4.75],
+			"scale": [3, 3, 2]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0.25, 0, 0.25],
+			"scale": [1.2, 1.2, 1.4]
+		}
+	}
+}
