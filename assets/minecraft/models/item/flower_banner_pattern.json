@@ -1047,6 +1047,8 @@
 		{"predicate": {"custom_model_data":    1041}, "model":"item/weapons/villarperosa"},
 		{"predicate": {"custom_model_data":    1042}, "model":"item/weapons/aa52_empty"},
 		{"predicate": {"custom_model_data":    1043}, "model":"item/weapons/nc_fnfal_kokeishi001"},
+		{"predicate": {"custom_model_data":    1044}, "model":"item/weapons/python_th"},
+		{"predicate": {"custom_model_data":    1045}, "model":"item/weapons/m82a3_she"},
 		
 		
 		
