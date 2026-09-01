@@ -1049,6 +1049,7 @@
 		{"predicate": {"custom_model_data":    1043}, "model":"item/weapons/nc_fnfal_kokeishi001"},
 		{"predicate": {"custom_model_data":    1044}, "model":"item/weapons/python_th"},
 		{"predicate": {"custom_model_data":    1045}, "model":"item/weapons/m82a3_she"},
+		{"predicate": {"custom_model_data":    1046}, "model":"item/weapons/m92fls"},
 		
 		
 		
