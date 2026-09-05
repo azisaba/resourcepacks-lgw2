@@ -1050,6 +1050,8 @@
 		{"predicate": {"custom_model_data":    1044}, "model":"item/weapons/python_th"},
 		{"predicate": {"custom_model_data":    1045}, "model":"item/weapons/m82a3_she"},
 		{"predicate": {"custom_model_data":    1046}, "model":"item/weapons/m92fls"},
+		{"predicate": {"custom_model_data":    1047}, "model":"item/weapons/yunomi_resoundgirl"},
+		{"predicate": {"custom_model_data":    1048}, "model":"item/weapons/angel_alla"},
 		
 		
 		
