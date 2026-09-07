@@ -1052,6 +1052,8 @@
 		{"predicate": {"custom_model_data":    1046}, "model":"item/weapons/m92fls"},
 		{"predicate": {"custom_model_data":    1047}, "model":"item/weapons/yunomi_resoundgirl"},
 		{"predicate": {"custom_model_data":    1048}, "model":"item/weapons/angel_alla"},
+		{"predicate": {"custom_model_data":    1049}, "model":"item/weapons/mp7a1"},
+		{"predicate": {"custom_model_data":    1050}, "model":"item/weapons/mp7a1nightflier"},
 		
 		
 		
