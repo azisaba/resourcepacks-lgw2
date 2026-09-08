@@ -1055,7 +1055,7 @@
 		{"predicate": {"custom_model_data":    1049}, "model":"item/weapons/mp7a1"},
 		{"predicate": {"custom_model_data":    1050}, "model":"item/weapons/mp7a1nightflier"},
 		{"predicate": {"custom_model_data":    1051}, "model":"item/weapons/tengen"},
-		{"predicate": {"custom_model_data":    1052}, "model":"item/weapons/tengenr},
+		{"predicate": {"custom_model_data":    1052}, "model":"item/weapons/tengenr"},
 		{"predicate": {"custom_model_data":    1053}, "model":"item/weapons/mk23_stainedglass"},
 		
 		
