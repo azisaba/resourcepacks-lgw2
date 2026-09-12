@@ -1059,6 +1059,9 @@
 		{"predicate": {"custom_model_data":    1053}, "model":"item/weapons/mk23_stainedglass"},
 		{"predicate": {"custom_model_data":    1054}, "model":"item/weapons/m110"},
 		{"predicate": {"custom_model_data":    1055}, "model":"item/weapons/demisesshrieking"},
+		{"predicate": {"custom_model_data":    1056}, "model":"item/nc_type89fastmag_pholynes_veiled"},
+		{"predicate": {"custom_model_data":    1057}, "model":"item/nc_type89fastmag_pholynes_veiled_ads"},
+		
 		
 		
 		
