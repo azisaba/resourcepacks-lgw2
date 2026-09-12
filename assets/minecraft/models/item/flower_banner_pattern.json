@@ -1058,6 +1058,7 @@
 		{"predicate": {"custom_model_data":    1052}, "model":"item/weapons/tengenr"},
 		{"predicate": {"custom_model_data":    1053}, "model":"item/weapons/mk23_stainedglass"},
 		{"predicate": {"custom_model_data":    1054}, "model":"item/weapons/m110"},
+		{"predicate": {"custom_model_data":    1055}, "model":"item/weapons/demisesshrieking"},
 		
 		
 		
