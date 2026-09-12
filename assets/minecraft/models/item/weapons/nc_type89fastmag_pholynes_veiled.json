@@ -1,7 +1,7 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/handheld",
+	"parent": "item/handheld",
 	"textures": {
 		"layer0": "item/nc_type89fastmag_pholynes_veiled"
 	},
