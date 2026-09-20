@@ -1069,6 +1069,12 @@
 		{"predicate": {"custom_model_data":    1063}, "model":"item/weapons/nc_railgun_pholynes_veiled"},
 		{"predicate": {"custom_model_data":    1064}, "model":"item/weapons/ttigen12_dracarys"},
 		{"predicate": {"custom_model_data":    1065}, "model":"item/weapons/m1911a1_theperfectkiss"},
+		{"predicate": {"custom_model_data":    1066}, "model":"item/weapons/eilat_cear21"},
+		{"predicate": {"custom_model_data":    1067}, "model":"item/weapons/ek026"},
+		{"predicate": {"custom_model_data":    1068}, "model":"item/weapons/lm8"},
+		{"predicate": {"custom_model_data":    1069}, "model":"item/weapons/fnfal_eom"},
+		{"predicate": {"custom_model_data":    1070}, "model":"item/weapons/fnfal_eom_scope"},
+		{"predicate": {"custom_model_data":    1071}, "model":"item/weapons/fnfal_eom_reload"},
 		
 		
 		
