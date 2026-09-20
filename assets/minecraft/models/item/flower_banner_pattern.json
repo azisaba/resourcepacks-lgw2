@@ -1068,6 +1068,7 @@
 		{"predicate": {"custom_model_data":    1062}, "model":"item/weapons/ironsword_noencha"},
 		{"predicate": {"custom_model_data":    1063}, "model":"item/weapons/nc_railgun_pholynes_veiled"},
 		{"predicate": {"custom_model_data":    1064}, "model":"item/weapons/ttigen12_dracarys"},
+		{"predicate": {"custom_model_data":    1065}, "model":"item/weapons/m1911a1_theperfectkiss"},
 		
 		
 		
