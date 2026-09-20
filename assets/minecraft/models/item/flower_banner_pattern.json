@@ -1067,6 +1067,7 @@
 		{"predicate": {"custom_model_data":    1061}, "model":"item/weapons/izayoi"},
 		{"predicate": {"custom_model_data":    1062}, "model":"item/weapons/ironsword_noencha"},
 		{"predicate": {"custom_model_data":    1063}, "model":"item/weapons/nc_railgun_pholynes_veiled"},
+		{"predicate": {"custom_model_data":    1064}, "model":"item/weapons/ttigen12_dracarys"},
 		
 		
 		
