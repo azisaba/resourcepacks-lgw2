@@ -1066,6 +1066,7 @@
 		{"predicate": {"custom_model_data":    1060}, "model":"item/weapons/fx05_tonatiuh"},
 		{"predicate": {"custom_model_data":    1061}, "model":"item/weapons/izayoi"},
 		{"predicate": {"custom_model_data":    1062}, "model":"item/weapons/ironsword_noencha"},
+		{"predicate": {"custom_model_data":    1062}, "model":"item/weapons/nc_railgun_pholynes_veiled"},
 		
 		
 		
