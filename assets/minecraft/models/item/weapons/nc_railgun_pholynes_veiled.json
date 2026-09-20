@@ -1,0 +1,42 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/nc_railgun_pholynes_veiled"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 42],
+			"translation": [0, 1, -2.75],
+			"scale": [1.2, 1.16, 0.74]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-1, 90, -43],
+			"translation": [0, 0.75, -3],
+			"scale": [1.2, 1.16, 0.74]
+		},
+		"firstperson_righthand": {
+			"rotation": [-46, -83, -7],
+			"translation": [-6, 7, 5.75],
+			"scale": [0.55, 0.53, 0.23]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-42.63, 89, -2.04],
+			"translation": [-6, 7, 5.75],
+			"scale": [0.55, 0.53, 0.23]
+		},
+		"ground": {
+			"translation": [0, 6, 0]
+		},
+		"gui": {
+			"translation": [0.25, 0, 0],
+			"scale": [1.1, 1.1, 1]
+		},
+		"head": {
+			"rotation": [0, 0, 133],
+			"translation": [3.74, -17.75, 3.75],
+			"scale": [1.24, 1.24, 0.98]
+		}
+	}
+}
