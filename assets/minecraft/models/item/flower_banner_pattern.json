@@ -1076,7 +1076,7 @@
 		{"predicate": {"custom_model_data":    1070}, "model":"item/weapons/fnfal_eom_scope"},
 		{"predicate": {"custom_model_data":    1071}, "model":"item/weapons/fnfal_eom_reload"},
 		{"predicate": {"custom_model_data":    1072}, "model":"item/weapons/l129a1_gdop"},
-		
+		{"predicate": {"custom_model_data":    1073}, "model":"item/weapons/vanilla_book"},
 		
 		
 
