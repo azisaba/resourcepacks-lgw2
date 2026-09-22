@@ -1077,6 +1077,10 @@
 		{"predicate": {"custom_model_data":    1071}, "model":"item/weapons/fnfal_eom_reload"},
 		{"predicate": {"custom_model_data":    1072}, "model":"item/weapons/l129a1_gdop"},
 		{"predicate": {"custom_model_data":    1073}, "model":"item/weapons/vanilla_book"},
+		{"predicate": {"custom_model_data":    1073}, "model":"item/weapons/uzideath"},
+		{"predicate": {"custom_model_data":    1074}, "model":"item/weapons/aldaglory"},
+		{"predicate": {"custom_model_data":    1075}, "model":"item/weapons/argentumimpulse"},
+		{"predicate": {"custom_model_data":    1076}, "model":"item/weapons/energycore"},
 		
 		
 
