@@ -1,0 +1,35 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/argentumimpulse"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-60, -90, 0],
+			"translation": [-0.5, -2.5, -0.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-60, 90, 0],
+			"translation": [-0.5, -2.75, -0.75],
+			"scale": [0.6, 0.6, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-50, -69, 0],
+			"translation": [-0.5, 4, 2.5],
+			"scale": [0.4, 0.4, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [55, -111, 0],
+			"translation": [-0.5, 4, 2.5],
+			"scale": [0.4, 0.4, 1]
+		},
+		"head": {
+			"rotation": [90, 0, -30],
+			"translation": [0, -5, -10.25],
+			"scale": [0.7, 0.7, 1.2]
+		}
+	}
+}
