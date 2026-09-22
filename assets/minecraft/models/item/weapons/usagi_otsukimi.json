@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/usagi_otsukimi"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 1.75, -2.25],
+			"scale": [0.7, 0.7, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [135, 90, -180],
+			"translation": [0, 1.75, -2.25],
+			"scale": [0.7, 0.7, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [36, -100, 45],
+			"translation": [1, 4.5, 2],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [33, 68.28, -45.68],
+			"translation": [1.75, 4.25, 2],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [0, 0, 4],
+			"translation": [0.5, 1, 0]
+		},
+		"head": {
+			"rotation": [0, -90, 1],
+			"translation": [0.25, 13.75, -6.75]
+		},
+		"fixed": {
+			"rotation": [0, -180, 7],
+			"translation": [-0.25, 1.25, 0.5],
+			"scale": [1.2, 1.2, 1.5]
+		},
+		"on_shelf": {
+			"rotation": [0, 0, 27]
+		}
+	}
+}
