@@ -1081,6 +1081,19 @@
 		{"predicate": {"custom_model_data":    1075}, "model":"item/weapons/argentumimpulse"},
 		{"predicate": {"custom_model_data":    1076}, "model":"item/weapons/energycore"},
 		{"predicate": {"custom_model_data":    1077}, "model":"item/weapons/uzideath"},
+		{"predicate": {"custom_model_data":    1078}, "model":"item/weapons/odango_otsukimi"},
+		{"predicate": {"custom_model_data":    1079}, "model":"item/weapons/usagi_otsukimi"},
+		{"predicate": {"custom_model_data":    1080}, "model":"item/weapons/susuki_otsukimi"},
+		{"predicate": {"custom_model_data":    1081}, "model":"item/weapons/izayoi_otsukimi"},
+		{"predicate": {"custom_model_data":    1082}, "model":"item/weapons/tec9"},
+		{"predicate": {"custom_model_data":    1083}, "model":"item/weapons/destroyer"},
+		{"predicate": {"custom_model_data":    1084}, "model":"item/weapons/tac50"},
+		{"predicate": {"custom_model_data":    1085}, "model":"item/weapons/tac50_ar"},
+		{"predicate": {"custom_model_data":    1086}, "model":"item/weapons/automag5"},
+		{"predicate": {"custom_model_data":    1087}, "model":"item/weapons/beretta1301"},
+		{"predicate": {"custom_model_data":    1088}, "model":"item/weapons/aks74u"},
+		{"predicate": {"custom_model_data":    1089}, "model":"item/weapons/timecompressor"},
+		
 		
 		
 
