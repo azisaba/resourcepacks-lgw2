@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/automag5"
+        "layer0": "item/automag5"
     }
 }
