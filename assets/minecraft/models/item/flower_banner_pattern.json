@@ -1092,6 +1092,7 @@
 		{"predicate": {"custom_model_data":    1086}, "model":"item/weapons/automag5"},
 		{"predicate": {"custom_model_data":    1087}, "model":"item/weapons/beretta1301"},
 		{"predicate": {"custom_model_data":    1088}, "model":"item/weapons/aks74u"},
+		{"predicate": {"custom_model_data":    1089}, "model":"item/weapons/timecompressor"},
 		
 		
 		
