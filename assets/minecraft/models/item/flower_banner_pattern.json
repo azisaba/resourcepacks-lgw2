@@ -1089,6 +1089,8 @@
 		{"predicate": {"custom_model_data":    1083}, "model":"item/weapons/destroyer"},
 		{"predicate": {"custom_model_data":    1084}, "model":"item/weapons/tac50"},
 		{"predicate": {"custom_model_data":    1085}, "model":"item/weapons/tac50_ar"},
+		{"predicate": {"custom_model_data":    1086}, "model":"item/weapons/automag5"},
+		
 		
 		
 
