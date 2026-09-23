@@ -1090,6 +1090,8 @@
 		{"predicate": {"custom_model_data":    1084}, "model":"item/weapons/tac50"},
 		{"predicate": {"custom_model_data":    1085}, "model":"item/weapons/tac50_ar"},
 		{"predicate": {"custom_model_data":    1086}, "model":"item/weapons/automag5"},
+		{"predicate": {"custom_model_data":    1087}, "model":"item/weapons/beretta1301"},
+		{"predicate": {"custom_model_data":    1088}, "model":"item/weapons/aks74u"},
 		
 		
 		
