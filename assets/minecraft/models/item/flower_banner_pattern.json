@@ -1095,6 +1095,15 @@
 		{"predicate": {"custom_model_data":    1089}, "model":"item/weapons/timecompressor"},
 		{"predicate": {"custom_model_data":    1090}, "model":"item/weapons/steyr_iws2000"},
 		{"predicate": {"custom_model_data":    1091}, "model":"item/weapons/chrisreeve"},
+		{"predicate": {"custom_model_data":    1092}, "model":"item/weapons/m3a1"},
+		{"predicate": {"custom_model_data":    1093}, "model":"item/weapons/m30drilling"},
+		{"predicate": {"custom_model_data":    1094}, "model":"item/weapons/mg08"},
+		{"predicate": {"custom_model_data":    1095}, "model":"item/weapons/mg34"},
+		{"predicate": {"custom_model_data":    1096}, "model":"item/weapons/sigke7"},
+		{"predicate": {"custom_model_data":    1097}, "model":"item/weapons/stechkinaps"},
+		{"predicate": {"custom_model_data":    1098}, "model":"item/weapons/sten"},
+		{"predicate": {"custom_model_data":    1099}, "model":"item/weapons/sterlingsmg"},
+		{"predicate": {"custom_model_data":    1100}, "model":"item/weapons/tapioka"},
 		
 		
 		
