@@ -50,7 +50,10 @@
 		{"predicate": {"custom_model_data":       41}, "model":"item/weapons/silver_hazu"},
 		{"predicate": {"custom_model_data":       42}, "model":"item/weapons/haruhazure"},
 		{"predicate": {"custom_model_data":       43}, "model":"item/weapons/koujoukoukan_ticket"},
-		{"predicate": {"custom_model_data":       44}, "model":"item/weapons/ticket_summerhazure"}
+		{"predicate": {"custom_model_data":       44}, "model":"item/weapons/ticket_summerhazure"},
+		{"predicate": {"custom_model_data":       45}, "model":"item/weapons/2ndaniv_ticket_unable"},
+		{"predicate": {"custom_model_data":       46}, "model":"item/weapons/2ndaniv_ticket_able"},
+		{"predicate": {"custom_model_data":       47}, "model":"item/weapons/2ndaniv_ticket_hazure"}
 		
        ]
 }        

@@ -94,6 +94,11 @@
 		{"predicate": {"custom_model_data":       86}, "model":"item/weapons/harturoko"},
 		{"predicate": {"custom_model_data":       87}, "model":"item/weapons/she_first_key"},
 		{"predicate": {"custom_model_data":       88}, "model":"item/weapons/she_second_key"},
-		{"predicate": {"custom_model_data":       89}, "model":"item/weapons/she_third_key"}
+		{"predicate": {"custom_model_data":       89}, "model":"item/weapons/she_third_key"},
+		{"predicate": {"custom_model_data":       90}, "model":"item/weapons/2ndaniv_cake"},
+		{"predicate": {"custom_model_data":       91}, "model":"item/weapons/2ndaniv_cracker"},
+		{"predicate": {"custom_model_data":       92}, "model":"item/weapons/2ndaniv_shard_l"},
+		{"predicate": {"custom_model_data":       93}, "model":"item/weapons/2ndaniv_shard_g"},
+		{"predicate": {"custom_model_data":       94}, "model":"item/weapons/2ndaniv_shard_w"}
        ]
 }
