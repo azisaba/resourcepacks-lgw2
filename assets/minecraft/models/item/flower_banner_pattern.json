@@ -1104,6 +1104,7 @@
 		{"predicate": {"custom_model_data":    1098}, "model":"item/weapons/sten"},
 		{"predicate": {"custom_model_data":    1099}, "model":"item/weapons/sterlingsmg"},
 		{"predicate": {"custom_model_data":    1100}, "model":"item/weapons/tapioka"},
+		{"predicate": {"custom_model_data":    1101}, "model":"item/weapons/nc_hyakkaryouran_rupanda"},
 		
 		
 		
