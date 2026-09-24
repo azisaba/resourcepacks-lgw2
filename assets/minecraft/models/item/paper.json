@@ -55,6 +55,5 @@
 		{"predicate": {"custom_model_data":       46}, "model":"item/weapons/2ndaniv_ticket_able"},
 		{"predicate": {"custom_model_data":       47}, "model":"item/weapons/2ndaniv_ticket_hazure"}
 		{"predicate": {"custom_model_data":       47}, "model":"item/weapons/question_ticket"}
-		{"predicate": {"custom_model_data":       47}, "model":"item/weapons/xf_ticket"}
        ]
 }        
