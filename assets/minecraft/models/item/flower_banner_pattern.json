@@ -1107,6 +1107,7 @@
 		{"predicate": {"custom_model_data":    1101}, "model":"item/weapons/nc_hyakkaryouran_rupanda"},
 		{"predicate": {"custom_model_data":    1102}, "model":"item/weapons/g3a3"},
 		{"predicate": {"custom_model_data":    1103}, "model":"item/weapons/g3a3bi"},
+		{"predicate": {"custom_model_data":    1104}, "model":"item/weapons/ultimax100_fm"},
 		
 		
 		
