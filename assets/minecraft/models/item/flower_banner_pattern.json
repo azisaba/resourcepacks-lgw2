@@ -1119,6 +1119,9 @@
 		{"predicate": {"custom_model_data":    1113}, "model":"item/weapons/40mmd"},
 		{"predicate": {"custom_model_data":    1114}, "model":"item/weapons/vbrbelgium"},
 		{"predicate": {"custom_model_data":    1115}, "model":"item/weapons/k9scout"},
+		{"predicate": {"custom_model_data":    1116}, "model":"item/weapons/wifi"},
+		{"predicate": {"custom_model_data":    1117}, "model":"item/weapons/automag3"},
+		
 		
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
