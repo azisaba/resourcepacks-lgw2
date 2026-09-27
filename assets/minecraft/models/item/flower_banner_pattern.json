@@ -1111,9 +1111,15 @@
 		{"predicate": {"custom_model_data":    1105}, "model":"item/weapons/rpd_dulltone"},
 		{"predicate": {"custom_model_data":    1106}, "model":"item/weapons/blaserr93_cosmic"},
 		{"predicate": {"custom_model_data":    1107}, "model":"item/weapons/magpulpdw_void"},
-		
-		
-		
+		{"predicate": {"custom_model_data":    1108}, "model":"item/weapons/cz805cat"},
+		{"predicate": {"custom_model_data":    1109}, "model":"item/weapons/cz805cat_scope"},
+		{"predicate": {"custom_model_data":    1110}, "model":"item/weapons/samusamu"},
+		{"predicate": {"custom_model_data":    1111}, "model":"item/weapons/toire"},
+		{"predicate": {"custom_model_data":    1112}, "model":"item/weapons/ak74m"},
+		{"predicate": {"custom_model_data":    1113}, "model":"item/weapons/40mmd"},
+		{"predicate": {"custom_model_data":    1114}, "model":"item/weapons/vbrbelgium"},
+		{"predicate": {"custom_model_data":    1115}, "model":"item/weapons/k2scout"},
+
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
