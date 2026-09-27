@@ -1108,6 +1108,9 @@
 		{"predicate": {"custom_model_data":    1102}, "model":"item/weapons/g3a3"},
 		{"predicate": {"custom_model_data":    1103}, "model":"item/weapons/g3a3bi"},
 		{"predicate": {"custom_model_data":    1104}, "model":"item/weapons/ultimax100_fm"},
+		{"predicate": {"custom_model_data":    1105}, "model":"item/weapons/rpd_dulltone"},
+		{"predicate": {"custom_model_data":    1106}, "model":"item/weapons/blaserr93_cosmic"},
+		{"predicate": {"custom_model_data":    1107}, "model":"item/weapons/magpulpdw_void"},
 		
 		
 		
