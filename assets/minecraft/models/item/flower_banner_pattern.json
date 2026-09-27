@@ -1119,7 +1119,7 @@
 		{"predicate": {"custom_model_data":    1113}, "model":"item/weapons/40mmd"},
 		{"predicate": {"custom_model_data":    1114}, "model":"item/weapons/vbrbelgium"},
 		{"predicate": {"custom_model_data":    1115}, "model":"item/weapons/k2scout"},
-
+		
 
 		{"predicate": {"custom_model_data":   10000}, "model":"please_put_weapon_assets_to_above_of_this_row"},
 		{"predicate": {"custom_model_data":   20501}, "model":"item/weapons/hurtfulspine_stage1"},
