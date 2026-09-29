@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/sadgirl_zetsubou_first",
-		"particle": "item/sadgirl_zetsubou_first"
+		"layer0": "item/healnormal_sadgirl_zetsubou_first",
+		"particle": "item/healnormal_sadgirl_zetsubou_first"
 	},
 	"display": {
 		"thirdperson_righthand": {
