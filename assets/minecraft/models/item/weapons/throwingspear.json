@@ -1,0 +1,47 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/throwingspear"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-5, -90, -48],
+			"translation": [0, 3.75, 1],
+			"scale": [0.9, 0.9, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-1, 90, 48],
+			"translation": [0, 3.75, 1.25],
+			"scale": [0.9, 0.9, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, -75, -148],
+			"translation": [-0.5, 4, 2.75],
+			"scale": [0.7, 0.7, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 75, -28],
+			"translation": [0.5, 4, 2.25],
+			"scale": [0.7, 0.7, 0.8]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0],
+			"scale": [1.1, 1.1, 0.8]
+		},
+		"gui": {
+			"translation": [0.25, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 0, 3],
+			"translation": [0, -15.25, 4.25],
+			"scale": [1.05, 1.05, 1.7]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 0, 0],
+			"scale": [1.2, 1.2, 1.3]
+		}
+	}
+}
