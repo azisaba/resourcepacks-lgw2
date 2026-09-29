@@ -1127,7 +1127,7 @@
 		{"predicate": {"custom_model_data":    1121}, "model":"item/weapons/throwingspear_glow"},
 		{"predicate": {"custom_model_data":    1122}, "model":"item/weapons/throwingspear_weakness"},
 		{"predicate": {"custom_model_data":    1123}, "model":"item/weapons/healnormal_sadgirl"},
-		{"predicate": {"custom_model_data":    1124}, "model":"item/weapons/sadgirl_zetsubou_first"},
+		{"predicate": {"custom_model_data":    1124}, "model":"item/weapons/healnormal_sadgirl_zetsubou_first"},
 		{"predicate": {"custom_model_data":    1125}, "model":"item/weapons/healnormal_sadgirl_zetsubou_second"},
 		{"predicate": {"custom_model_data":    1126}, "model":"item/weapons/healnormal_sadgirl_zetsubou_third"},
 		{"predicate": {"custom_model_data":    1127}, "model":"item/weapons/healnormal_sadgirl_crying"},
