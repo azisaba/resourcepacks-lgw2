@@ -1131,6 +1131,7 @@
 		{"predicate": {"custom_model_data":    1125}, "model":"item/weapons/healnormal_sadgirl_zetsubou_second"},
 		{"predicate": {"custom_model_data":    1126}, "model":"item/weapons/healnormal_sadgirl_zetsubou_third"},
 		{"predicate": {"custom_model_data":    1127}, "model":"item/weapons/healnormal_sadgirl_crying"},
+		{"predicate": {"custom_model_data":    1128}, "model":"item/weapons/blaserr93pba"},
 		
 		
 
