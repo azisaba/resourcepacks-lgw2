@@ -1132,6 +1132,10 @@
 		{"predicate": {"custom_model_data":    1126}, "model":"item/weapons/healnormal_sadgirl_zetsubou_third"},
 		{"predicate": {"custom_model_data":    1127}, "model":"item/weapons/healnormal_sadgirl_crying"},
 		{"predicate": {"custom_model_data":    1128}, "model":"item/weapons/blaserr93pba"},
+		{"predicate": {"custom_model_data":    1129}, "model":"item/weapons/minim82a3"},
+		{"predicate": {"custom_model_data":    1130}, "model":"item/weapons/sirasaya"},
+		{"predicate": {"custom_model_data":    1131}, "model":"item/weapons/m4a1_imhere"},
+		{"predicate": {"custom_model_data":    1132}, "model":"item/weapons/minestrone"},
 		
 		
 
