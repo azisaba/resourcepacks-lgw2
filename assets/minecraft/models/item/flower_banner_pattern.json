@@ -1136,6 +1136,7 @@
 		{"predicate": {"custom_model_data":    1130}, "model":"item/weapons/sirasaya"},
 		{"predicate": {"custom_model_data":    1131}, "model":"item/weapons/m4a1_imhere"},
 		{"predicate": {"custom_model_data":    1132}, "model":"item/weapons/minestrone"},
+		{"predicate": {"custom_model_data":    1133}, "model":"item/weapons/nc_vorpalbunny_pholynes_veiled"},
 		
 		
 
