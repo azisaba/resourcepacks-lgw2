@@ -1,0 +1,53 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/2ndaniv_gachakey_2",
+		"particle": "item/2ndaniv_gachakey_2"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 180],
+			"translation": [0, 3, 1.75],
+			"scale": [0.8, 0.8, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 180],
+			"translation": [0, 3, 1.75],
+			"scale": [0.8, 0.8, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -105, -125],
+			"translation": [13.5, -0.5, -9.25],
+			"scale": [0.8, 0.8, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 75, 125],
+			"translation": [13.5, -0.5, -9.25],
+			"scale": [0.8, 0.8, 1]
+		},
+		"ground": {
+			"rotation": [0, 0, -45],
+			"translation": [0, 2, 0],
+			"scale": [0.8, 0.8, 1]
+		},
+		"gui": {
+			"rotation": [0, 0, -25],
+			"translation": [0.25, -0.5, 0]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 4.25, -0.25],
+			"scale": [1.2, 1.2, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, -25],
+			"translation": [-0.25, -0.5, -0.5],
+			"scale": [1.3, 1.3, 1.625]
+		},
+		"on_shelf": {
+			"translation": [1.75, 0, 0]
+		}
+	}
+}

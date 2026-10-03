@@ -99,6 +99,10 @@
 		{"predicate": {"custom_model_data":       91}, "model":"item/weapons/2ndaniv_cracker"},
 		{"predicate": {"custom_model_data":       92}, "model":"item/weapons/2ndaniv_shard_l"},
 		{"predicate": {"custom_model_data":       93}, "model":"item/weapons/2ndaniv_shard_g"},
-		{"predicate": {"custom_model_data":       94}, "model":"item/weapons/2ndaniv_shard_w"}
+		{"predicate": {"custom_model_data":       94}, "model":"item/weapons/2ndaniv_shard_w"},
+		{"predicate": {"custom_model_data":       95}, "model":"item/weapons/2ndaniv_gachakey_1"},
+		{"predicate": {"custom_model_data":       96}, "model":"item/weapons/2ndaniv_gachakey_2"},
+		{"predicate": {"custom_model_data":       97}, "model":"item/weapons/2ndaniv_gachakey_3"},
+		{"predicate": {"custom_model_data":       98}, "model":"item/weapons/2ndaniv_gachakey_4"}
        ]
 }
