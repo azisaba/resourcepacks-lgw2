@@ -108,6 +108,7 @@
 		{"predicate": {"custom_model_data":       100}, "model":"item/weapons/mindcircuit"},
 		{"predicate": {"custom_model_data":       101}, "model":"item/weapons/broken_smartphone"},
 		{"predicate": {"custom_model_data":       102}, "model":"item/weapons/headgear"},
-		{"predicate": {"custom_model_data":       103}, "model":"item/weapons/memory_headgear"}
+		{"predicate": {"custom_model_data":       103}, "model":"item/weapons/memory_headgear"},
+		{"predicate": {"custom_model_data":       104}, "model":"item/weapons/key_smartphone"}
        ]
 }
