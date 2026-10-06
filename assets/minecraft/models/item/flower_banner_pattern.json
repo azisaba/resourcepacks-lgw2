@@ -1138,6 +1138,7 @@
 		{"predicate": {"custom_model_data":    1132}, "model":"item/weapons/minestrone"},
 		{"predicate": {"custom_model_data":    1133}, "model":"item/weapons/nc_vorpalbunny_pholynes_veiled"},
 		{"predicate": {"custom_model_data":    1134}, "model":"item/weapons/nc_healnormal_hen_gen_ji_zai"},
+		{"predicate": {"custom_model_data":    1135}, "model":"item/weapons/2ndaniv_cracker"},
 		
 		
 
