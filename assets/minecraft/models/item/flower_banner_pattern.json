@@ -1141,6 +1141,7 @@
 		{"predicate": {"custom_model_data":    1135}, "model":"item/weapons/2ndaniv_cracker"},
 		{"predicate": {"custom_model_data":    1136}, "model":"item/weapons/wing_vernder"},
 		{"predicate": {"custom_model_data":    1137}, "model":"item/weapons/ramenwoman"},
+		{"predicate": {"custom_model_data":    1138}, "model":"item/weapons/nc_stim_shot_prismmode"},
 
 		
 		
