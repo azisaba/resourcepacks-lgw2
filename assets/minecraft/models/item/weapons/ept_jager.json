@@ -1,6 +1,45 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/ept_jager"
-    }
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ept_jager",
+		"particle": "item/ept_jager"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 0.75, -1.75],
+			"scale": [0.5, 0.5, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0.75, -1.75],
+			"scale": [0.5, 0.5, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -100, 0],
+			"translation": [9.5, 0.75, -7],
+			"scale": [0.75, 0.75, 0.9]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 80, 0],
+			"translation": [9.5, 0.75, -7],
+			"scale": [0.75, 0.75, 0.9]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"scale": [0.5, 0.5, 0.6]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 11.5, 0.25],
+			"scale": [0.75, 0.75, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 0, -0.25],
+			"scale": [1.2, 1.2, 1.44]
+		}
+	}
 }
