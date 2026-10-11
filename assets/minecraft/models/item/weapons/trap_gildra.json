@@ -1,0 +1,49 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/trap_gildra",
+		"particle": "item/trap_gildra"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [70, -180, 0],
+			"translation": [-0.25, 1, 15.75],
+			"scale": [0.5, 0.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 0, 0],
+			"translation": [-0.25, 1, 15.75],
+			"scale": [0.5, 0.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -35, 0],
+			"translation": [16.25, 0.5, -10.75],
+			"scale": [0.75, 0.75, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 145, 0],
+			"translation": [16.25, 0.5, -10.75],
+			"scale": [0.75, 0.75, 1.5]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.5, 0.5, 1]
+		},
+		"gui": {
+			"translation": [0.75, 0.25, 0],
+			"scale": [0.95, 0.95, 1]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [-1, 12.25, 0],
+			"scale": [0.75, 0.75, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-1.25, 0.25, -1],
+			"scale": [1.2, 1.2, 2.4]
+		}
+	}
+}
