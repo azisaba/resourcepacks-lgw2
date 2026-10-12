@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"0": "item/koujoukoukan_ticket",
-		"particle": "itemkoujoukoukan_ticket"
+		"layer0": "item/koujoukoukan_ticket",
+		"particle": "item/koujoukoukan_ticket"
 	},
 	"display": {
 		"thirdperson_righthand": {
