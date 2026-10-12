@@ -1142,6 +1142,7 @@
 		{"predicate": {"custom_model_data":    1136}, "model":"item/weapons/wing_vernder"},
 		{"predicate": {"custom_model_data":    1137}, "model":"item/weapons/trap_gildra"},
 		{"predicate": {"custom_model_data":    1138}, "model":"item/weapons/nc_stim_shot_prismmode"},
+		{"predicate": {"custom_model_data":    1139}, "model":"item/weapons/nc_m4a1acog_yatakaku"},
 
 		
 		
