@@ -1,0 +1,49 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/rekka_yakiuti_noutou",
+		"particle": "item/rekka_yakiuti_noutou"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -135],
+			"translation": [-0.5, -9.25, 0.9],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 135],
+			"translation": [-0.5, -9.25, 0.9],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, -80, -135],
+			"translation": [19, -11.5, -12.25],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, 100, 135],
+			"translation": [19, -11.5, -12.25],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"ground": {
+			"rotation": [0, 0, -147],
+			"translation": [0, 7.5, 0],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"gui": {
+			"rotation": [0, 0, -180]
+		},
+		"head": {
+			"rotation": [0, 0, -178],
+			"translation": [-0.5, -17.5, 4.25],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, -180, -180],
+			"translation": [-0.25, 0, 0],
+			"scale": [1.2, 1.2, 0.6]
+		}
+	}
+}

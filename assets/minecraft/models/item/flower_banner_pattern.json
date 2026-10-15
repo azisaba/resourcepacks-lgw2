@@ -1143,6 +1143,14 @@
 		{"predicate": {"custom_model_data":    1137}, "model":"item/weapons/trap_gildra"},
 		{"predicate": {"custom_model_data":    1138}, "model":"item/weapons/nc_stim_shot_prismmode"},
 		{"predicate": {"custom_model_data":    1139}, "model":"item/weapons/nc_m4a1acog_yatakaku"},
+		{"predicate": {"custom_model_data":    1140}, "model":"item/weapons/rekka_yakiuti"},
+		{"predicate": {"custom_model_data":    1141}, "model":"item/weapons/rekka_yakiuti_noutou"},
+		{"predicate": {"custom_model_data":    1142}, "model":"item/weapons/youtou_kagemitsu"},
+		{"predicate": {"custom_model_data":    1143}, "model":"item/weapons/youtou_kagemitsu_noutou"},
+		{"predicate": {"custom_model_data":    1144}, "model":"item/weapons/apache_e_tool"},
+		{"predicate": {"custom_model_data":    1145}, "model":"item/weapons/apache_katt"},
+		{"predicate": {"custom_model_data":    1146}, "model":"item/weapons/combat_clockblade"},
+		{"predicate": {"custom_model_data":    1147}, "model":"item/weapons/karambit_iciclefang"},
 
 		
 		

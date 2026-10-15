@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/youtou_kagemitsu_noutou",
+		"particle": "item/youtou_kagemitsu_noutou"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -135],
+			"translation": [-0.5, -9.75, 2.4],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 135],
+			"translation": [-0.5, -9.75, 2.4],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, -80, -125],
+			"translation": [22.75, -12.25, -12.25],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, 100, 125],
+			"translation": [22.75, -12.25, -12.25],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"ground": {
+			"rotation": [0, 0, -147],
+			"translation": [0, 7.5, 0],
+			"scale": [1.2, 1.2, 0.6]
+		},
+		"gui": {
+			"rotation": [0, 0, 173],
+			"translation": [-0.5, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 0, -178],
+			"translation": [-0.5, -17.5, 4.25],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, -180, 173],
+			"translation": [0.5, 0, 0],
+			"scale": [1.2, 1.2, 0.6]
+		}
+	}
+}
