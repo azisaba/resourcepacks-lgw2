@@ -1,0 +1,50 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/lgw2_knifecrate_key",
+		"particle": "item/lgw2_knifecrate_key"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 180],
+			"translation": [0.25, 3.75, 1.25],
+			"scale": [0.7, 0.7, 0.91]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 180],
+			"translation": [0.25, 3.75, 1.25],
+			"scale": [0.7, 0.7, 0.91]
+		},
+		"firstperson_righthand": {
+			"rotation": [126, -85, -3],
+			"translation": [14.25, 0, -10.5],
+			"scale": [1.05, 1.05, 1.365]
+		},
+		"firstperson_lefthand": {
+			"rotation": [126, 85, 3],
+			"translation": [14.25, 0, -10.5],
+			"scale": [1.05, 1.05, 1.365]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.7, 0.7, 0.91]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [0, -0.75, 0],
+			"scale": [1.1, 1.1, 1]
+		},
+		"head": {
+			"rotation": [0, 0, 180],
+			"translation": [-0.75, 12.75, 0],
+			"scale": [0.7, 0.7, 0.91]
+		},
+		"fixed": {
+			"rotation": [0, 180, -45],
+			"translation": [-0.5, -0.75, -0.25],
+			"scale": [1.2, 1.2, 1.56]
+		}
+	}
+}
