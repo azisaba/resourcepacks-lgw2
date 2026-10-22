@@ -1151,6 +1151,8 @@
 		{"predicate": {"custom_model_data":    1145}, "model":"item/weapons/apache_katt"},
 		{"predicate": {"custom_model_data":    1146}, "model":"item/weapons/combat_clockblade"},
 		{"predicate": {"custom_model_data":    1147}, "model":"item/weapons/karambit_iciclefang"},
+		{"predicate": {"custom_model_data":    1148}, "model":"item/weapons/photoelectric_element"},
+		{"predicate": {"custom_model_data":    1149}, "model":"item/weapons/highpressuregas"},
 
 		
 		

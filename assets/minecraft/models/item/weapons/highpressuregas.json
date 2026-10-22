@@ -1,0 +1,33 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/highpressuregas"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-43, -90, 0],
+			"translation": [-0.5, -0.75, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-43, -90, 0],
+			"translation": [-0.5, 0.75, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-50, -69, 0],
+			"translation": [1.25, 4, 2.5],
+			"scale": [0.4, 0.4, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [55, -87, 0],
+			"translation": [0.5, 4, 2.5],
+			"scale": [0.4, 0.4, 1]
+		},
+		"head": {
+			"rotation": [-45, 90, 0],
+			"translation": [0, -4, -21.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
