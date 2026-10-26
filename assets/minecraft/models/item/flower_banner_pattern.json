@@ -1154,6 +1154,8 @@
 		{"predicate": {"custom_model_data":    1148}, "model":"item/weapons/photoelectric_element"},
 		{"predicate": {"custom_model_data":    1149}, "model":"item/weapons/highpressuregas"},
 		{"predicate": {"custom_model_data":    1150}, "model":"item/weapons/nc_ak74fastmag_pholynes_veiled"},
+		{"predicate": {"custom_model_data":    1151}, "model":"item/weapons/genesisarmsgen12pds"},
+		{"predicate": {"custom_model_data":    1152}, "model":"item/weapons/genesisarmsgen12pds_ts"},
 
 		
 		
