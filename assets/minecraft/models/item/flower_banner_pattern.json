@@ -1156,10 +1156,10 @@
 		{"predicate": {"custom_model_data":    1150}, "model":"item/weapons/nc_ak74fastmag_pholynes_veiled"},
 		{"predicate": {"custom_model_data":    1151}, "model":"item/weapons/genesisarmsgen12pds"},
 		{"predicate": {"custom_model_data":    1152}, "model":"item/weapons/genesisarmsgen12pds_ts"},
-		{"predicate": {"custom_model_data":    1153}, "model":"item/weapons/ttimpxc"},
+		{"predicate": {"custom_model_data":    1153}, "model":"item/weapons/ttimpx"},
 		{"predicate": {"custom_model_data":    1154}, "model":"item/weapons/mp508"},
 		{"predicate": {"custom_model_data":    1155}, "model":"item/weapons/vz59"},
-		{"predicate": {"custom_model_data":    1156}, "model":"item/weapons/hotwater"},
+		{"predicate": {"custom_model_data":    1156}, "model":"item/weapons/kyuutou"},
 		{"predicate": {"custom_model_data":    1157}, "model":"item/weapons/flareassalt"},
 		{"predicate": {"custom_model_data":    1158}, "model":"item/weapons/svd"},
 
