@@ -1162,6 +1162,7 @@
 		{"predicate": {"custom_model_data":    1156}, "model":"item/weapons/kyuutou"},
 		{"predicate": {"custom_model_data":    1157}, "model":"item/weapons/flareassalt"},
 		{"predicate": {"custom_model_data":    1158}, "model":"item/weapons/svd"},
+		{"predicate": {"custom_model_data":    1159}, "model":"item/weapons/nc_railgun_shibadaifuku"},
 
 		
 		
