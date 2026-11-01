@@ -1155,7 +1155,7 @@
 		{"predicate": {"custom_model_data":    1149}, "model":"item/weapons/highpressuregas"},
 		{"predicate": {"custom_model_data":    1150}, "model":"item/weapons/nc_ak74fastmag_pholynes_veiled"},
 		{"predicate": {"custom_model_data":    1151}, "model":"item/weapons/genesisarmsgen12pds"},
-		{"predicate": {"custom_model_data":    1152}, "model":"item/weapons/genesisarmsgen12pds_ts"},
+		{"predicate": {"custom_model_data":    1152}, "model":"item/weapons/gen12pds_sb"},
 		{"predicate": {"custom_model_data":    1153}, "model":"item/weapons/ttimpx"},
 		{"predicate": {"custom_model_data":    1154}, "model":"item/weapons/mp508"},
 		{"predicate": {"custom_model_data":    1155}, "model":"item/weapons/vz59"},
