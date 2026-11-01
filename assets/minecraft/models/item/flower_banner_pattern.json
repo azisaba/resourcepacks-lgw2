@@ -1165,6 +1165,7 @@
 		{"predicate": {"custom_model_data":    1159}, "model":"item/weapons/nc_railgun_shibadaifuku"},
 		{"predicate": {"custom_model_data":    1160}, "model":"item/weapons/webleyfosbery"},
 		{"predicate": {"custom_model_data":    1161}, "model":"item/weapons/webleyfosbery_gm"},
+		{"predicate": {"custom_model_data":    1162}, "model":"item/weapons/nc_apache_knife_urahamu"},
 
 		
 		
