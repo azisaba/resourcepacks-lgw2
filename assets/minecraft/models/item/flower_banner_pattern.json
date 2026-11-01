@@ -1163,6 +1163,8 @@
 		{"predicate": {"custom_model_data":    1157}, "model":"item/weapons/flareassalt"},
 		{"predicate": {"custom_model_data":    1158}, "model":"item/weapons/svd"},
 		{"predicate": {"custom_model_data":    1159}, "model":"item/weapons/nc_railgun_shibadaifuku"},
+		{"predicate": {"custom_model_data":    1160}, "model":"item/weapons/webleyfosbery"},
+		{"predicate": {"custom_model_data":    1161}, "model":"item/weapons/webleyfosbery_gm"},
 
 		
 		
