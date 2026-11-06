@@ -1,6 +1,50 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/hazurefall"
-    }
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/hazurefall",
+		"particle": "item/hazurefall"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 90],
+			"translation": [0, 3.25, 2],
+			"scale": [0.65, 0.65, 0.455]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -90],
+			"translation": [0, 3.25, 2],
+			"scale": [0.65, 0.65, 0.455]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, -39, -6],
+			"translation": [4.5, 1.75, -1.75],
+			"scale": [0.65, 0.65, 0.455]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-15, 141, 6],
+			"translation": [4.5, 1.75, -1.75],
+			"scale": [0.65, 0.65, 0.455]
+		},
+		"ground": {
+			"rotation": [0, 0, 45],
+			"translation": [0, 3.75, 0],
+			"scale": [0.975, 0.975, 0.78]
+		},
+		"gui": {
+			"rotation": [0, 0, 25],
+			"translation": [0, -1.5, 0]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.25, 0.75, -7.5],
+			"scale": [0.975, 0.975, 0.78]
+		},
+		"fixed": {
+			"rotation": [0, -180, 25],
+			"translation": [0, -1.75, -0.75],
+			"scale": [1.2, 1.2, 0.96]
+		}
+	}
 }
