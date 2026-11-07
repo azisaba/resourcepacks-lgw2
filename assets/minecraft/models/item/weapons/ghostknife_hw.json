@@ -1,0 +1,46 @@
+{
+	"format_version": "1.16.5",
+	"credit": "HGWT",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/ghostknife_hw"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, -87.19, 129.92],
+			"translation": [0, -5.75, 1],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-137.9, 88.17, -82.63],
+			"translation": [0, -5.75, 1],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [103.62, -0.1, 8.06],
+			"translation": [1.5, 3.75, 4.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-72.72, -1.48, -166.86],
+			"translation": [2, 4.25, 4],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -1],
+			"translation": [1, 1.25, 0],
+			"scale": [1.2, 1.2, 0.9]
+		},
+		"head": {
+			"rotation": [0, 0, 134.25],
+			"translation": [7.5, 1.5, 0]
+		},
+		"fixed": {
+			"translation": [1.25, 1.5, 0],
+			"scale": [1.4, 1.4, 1]
+		}
+	}
+}
