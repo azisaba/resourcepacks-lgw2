@@ -110,6 +110,10 @@
 		{"predicate": {"custom_model_data":       102}, "model":"item/weapons/headgear"},
 		{"predicate": {"custom_model_data":       103}, "model":"item/weapons/memory_headgear"},
 		{"predicate": {"custom_model_data":       104}, "model":"item/weapons/key_smartphone"},
-		{"predicate": {"custom_model_data":       105}, "model":"item/weapons/lgw2_knifecrate_key"}
+		{"predicate": {"custom_model_data":       105}, "model":"item/weapons/lgw2_knifecrate_key"},
+		{"predicate": {"custom_model_data":       106}, "model":"item/weapons/2026hw_key1"},
+		{"predicate": {"custom_model_data":       107}, "model":"item/weapons/2026hw_key2"},
+		{"predicate": {"custom_model_data":       108}, "model":"item/weapons/2026hw_key3"},
+		{"predicate": {"custom_model_data":       109}, "model":"item/weapons/2026tsukimi_key"}
        ]
 }
