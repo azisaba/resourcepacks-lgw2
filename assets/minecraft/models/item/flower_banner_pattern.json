@@ -1167,6 +1167,20 @@
 		{"predicate": {"custom_model_data":    1161}, "model":"item/weapons/webleyfosbery_gm"},
 		{"predicate": {"custom_model_data":    1162}, "model":"item/weapons/nc_apache_knife_urahamu"},
 		{"predicate": {"custom_model_data":    1163}, "model":"item/weapons/trick_of_vampire"},
+		{"predicate": {"custom_model_data":    1164}, "model":"item/weapons/vzombie"},
+		{"predicate": {"custom_model_data":    1165}, "model":"item/weapons/pumpkinrifle"},
+		{"predicate": {"custom_model_data":    1166}, "model":"item/weapons/westernrevolver"},
+		{"predicate": {"custom_model_data":    1167}, "model":"item/weapons/coltanaconda"},
+		{"predicate": {"custom_model_data":    1168}, "model":"item/weapons/contender"},
+		{"predicate": {"custom_model_data":    1169}, "model":"item/weapons/vzombie_anp"},
+		{"predicate": {"custom_model_data":    1170}, "model":"item/weapons/pumpkinrifle_anp"},
+		{"predicate": {"custom_model_data":    1171}, "model":"item/weapons/westernrevolver_anp"},
+		{"predicate": {"custom_model_data":    1172}, "model":"item/weapons/coltanaconda_anp"},
+		{"predicate": {"custom_model_data":    1173}, "model":"item/weapons/contender_anp"},
+		{"predicate": {"custom_model_data":    1174}, "model":"item/weapons/ghostknife_hw"},
+		{"predicate": {"custom_model_data":    1175}, "model":"item/weapons/fnp90un"},
+		{"predicate": {"custom_model_data":    1176}, "model":"item/weapons/m249_deathskull"},
+		
 
 		
 		
