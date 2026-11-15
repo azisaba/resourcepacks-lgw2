@@ -1,0 +1,42 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/nc_benellim4hw_urahamu"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 40],
+			"translation": [-0.25, 0.25, -0.25],
+			"scale": [0.72, 0.72, 0.77]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -40],
+			"translation": [-0.5, 0.25, -0.25],
+			"scale": [0.72, 0.72, 0.77]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -80, 35],
+			"translation": [2, 2, 0.75],
+			"scale": [0.78, 0.78, 1.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 105, -35],
+			"translation": [2, 2, 0.75],
+			"scale": [0.78, 0.78, 1.1]
+		},
+		"ground": {
+			"translation": [0, 5, 0]
+		},
+		"head": {
+			"rotation": [0, 0, 71],
+			"translation": [0, -22.75, 4],
+			"scale": [0.9, 0.9, 0.6]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [1.07, 1.07, 1]
+		}
+	}
+}
