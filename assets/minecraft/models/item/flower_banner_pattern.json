@@ -1183,6 +1183,7 @@
 		{"predicate": {"custom_model_data":    1177}, "model":"item/weapons/mummy_girl"},
 		{"predicate": {"custom_model_data":    1178}, "model":"item/weapons/nc_swordcutlass_rupanda"},
 		{"predicate": {"custom_model_data":    1179}, "model":"item/weapons/asval_cw"},
+		{"predicate": {"custom_model_data":    1180}, "model":"item/weapons/nc_benellim4hw_urahamu"},
 		
 
 		
