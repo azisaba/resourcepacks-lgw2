@@ -1185,6 +1185,8 @@
 		{"predicate": {"custom_model_data":    1179}, "model":"item/weapons/asval_cw"},
 		{"predicate": {"custom_model_data":    1180}, "model":"item/weapons/nc_benellim4hw_urahamu"},
 		{"predicate": {"custom_model_data":    1181}, "model":"item/weapons/black_cat"},
+		{"predicate": {"custom_model_data":    1182}, "model":"item/weapons/titan_hm"},
+		{"predicate": {"custom_model_data":    1183}, "model":"item/weapons/vss_tot"},
 		
 
 		
