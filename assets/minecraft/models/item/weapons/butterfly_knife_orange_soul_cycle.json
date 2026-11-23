@@ -1,0 +1,35 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/butterfly_knife_orange_soul_cycle"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -40, 0],
+			"translation": [-0.75, 2, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -40, 0],
+			"translation": [-0.75, 2, 1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [-104, -20, 0],
+			"translation": [2.75, 1.75, -2],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-104, -20, 0],
+			"translation": [2.75, 1.75, -2],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 11.75, 0],
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}
