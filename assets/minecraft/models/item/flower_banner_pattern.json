@@ -1185,6 +1185,12 @@
 		{"predicate": {"custom_model_data":    1179}, "model":"item/weapons/asval_cw"},
 		{"predicate": {"custom_model_data":    1180}, "model":"item/weapons/nc_benellim4hw_urahamu"},
 		{"predicate": {"custom_model_data":    1181}, "model":"item/weapons/black_cat"},
+		{"predicate": {"custom_model_data":    1182}, "model":"item/weapons/titan_hm"},
+		{"predicate": {"custom_model_data":    1183}, "model":"item/weapons/vss_tot"},
+		{"predicate": {"custom_model_data":    1184}, "model":"item/weapons/butterfly_knife_orange_soul"},
+		{"predicate": {"custom_model_data":    1185}, "model":"item/weapons/butterfly_knife_orange_soul_cycle"},
+		{"predicate": {"custom_model_data":    1186}, "model":"item/weapons/throwingknife_bs"},
+		{"predicate": {"custom_model_data":    1187}, "model":"item/weapons/throwingknife_hs"},
 		
 
 		
