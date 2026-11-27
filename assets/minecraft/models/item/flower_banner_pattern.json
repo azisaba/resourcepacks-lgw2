@@ -1193,6 +1193,8 @@
 		{"predicate": {"custom_model_data":    1187}, "model":"item/weapons/throwingknife_hs"},
 		{"predicate": {"custom_model_data":    1188}, "model":"item/weapons/nc_aa12laser_pholynes_veiled"},
 		{"predicate": {"custom_model_data":    1189}, "model":"item/weapons/nc_aa12laser_pholynes_veiled_r"},
+		{"predicate": {"custom_model_data":    1190}, "model":"item/weapons/m24grenade"},
+		{"predicate": {"custom_model_data":    1191}, "model":"item/weapons/sairuidrone"},
 		
 
 		
