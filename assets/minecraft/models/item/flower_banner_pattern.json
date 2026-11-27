@@ -1191,6 +1191,8 @@
 		{"predicate": {"custom_model_data":    1185}, "model":"item/weapons/butterfly_knife_orange_soul_cycle"},
 		{"predicate": {"custom_model_data":    1186}, "model":"item/weapons/throwingknife_bs"},
 		{"predicate": {"custom_model_data":    1187}, "model":"item/weapons/throwingknife_hs"},
+		{"predicate": {"custom_model_data":    1188}, "model":"item/weapons/nc_aa12laser_pholynes_veiled"},
+		{"predicate": {"custom_model_data":    1189}, "model":"item/weapons/nc_aa12laser_pholynes_veiled_r"},
 		
 
 		
