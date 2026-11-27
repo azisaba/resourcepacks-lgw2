@@ -1,0 +1,42 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/nc_aa12laser_pholynes_veiled_r"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 42],
+			"translation": [0, 1, 0.5],
+			"scale": [1.4, 1.4, 0.81]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 89, -42],
+			"translation": [0, 1, 0.5],
+			"scale": [1.4, 1.4, 0.81]
+		},
+		"firstperson_righthand": {
+			"rotation": [76.29, -66.52, 116.44],
+			"translation": [-3, 4.75, 3.25],
+			"scale": [1.4, 1.4, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-69.16, 74.6, 29.55],
+			"translation": [-0.75, 4.5, 0.25],
+			"scale": [1.4, 1.4, 0.7]
+		},
+		"ground": {
+			"translation": [0, 7, 0]
+		},
+		"gui": {
+			"translation": [0.5, -0.5, 0],
+			"scale": [1.1, 1.1, 1]
+		},
+		"head": {
+			"rotation": [-39, 90, 86],
+			"translation": [0.24, 10, -2.25],
+			"scale": [1.24, 1.24, 0.5]
+		}
+	}
+}
