@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/slime_ball",
-		"particle": "item/slime_ball"
+		"layer0": "item/frag_grenade",
+		"particle": "item/frag_grenade"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -33,10 +33,10 @@
 			"scale": [0.6, 0.6, 1.5]
 		},
 		"gui": {
-			"translation": [2, 0, 0]
+			"translation": [1.75, 0, 0]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [-0.5, 11, 0.25],
 			"scale": [0.6, 0.6, 1.5]
 		},

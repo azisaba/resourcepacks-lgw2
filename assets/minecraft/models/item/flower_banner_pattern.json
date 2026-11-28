@@ -1195,6 +1195,7 @@
 		{"predicate": {"custom_model_data":    1189}, "model":"item/weapons/nc_aa12laser_pholynes_veiled_r"},
 		{"predicate": {"custom_model_data":    1190}, "model":"item/weapons/m24grenade"},
 		{"predicate": {"custom_model_data":    1191}, "model":"item/weapons/sairuidrone"},
+		{"predicate": {"custom_model_data":    1192}, "model":"item/weapons/frag_grenade"},
 		
 
 		
